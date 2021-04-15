@@ -1,0 +1,2682 @@
+[
+  {
+    "code": "AACHEN-1",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "AACHEN-3A",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "AACHEN-3B",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "ACADEMIA_SINICA",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "ADANA-CUKUROVA",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ADIYAMAN",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "AGDER-UNIV",
+    "country": "Norway",
+    "region": "World"
+  },
+  {
+    "code": "AHMEDABAD",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "AINSHAMS-UNIV",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "AL-AIN",
+    "country": "United Arab Emirates",
+    "region": "World"
+  },
+  {
+    "code": "ALABAMA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ALABAMA-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ALEXANDRIA-AASTMT",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "ALEXANDRIA-UNIV",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "ALLAHABAD",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "ALSTOM",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "AMES",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ANADOLU-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ANKARA-HU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ANKARA-METU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ANKARA-TUBITAK",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ANTIOQUIA",
+    "country": "Colombia",
+    "region": "World"
+  },
+  {
+    "code": "ANTWERPEN",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "AQUILA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ARGONNE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ASRT-ENHEP",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "ASSIUT-UNIV",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "ATCOP",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "ATHENS",
+    "country": "Greece",
+    "region": "World"
+  },
+  {
+    "code": "ATHENS-NTUA",
+    "country": "Greece",
+    "region": "World"
+  },
+  {
+    "code": "ATOMKI",
+    "country": "Hungary",
+    "region": "World"
+  },
+  {
+    "code": "AUCKLAND",
+    "country": "New Zealand",
+    "region": "World"
+  },
+  {
+    "code": "AURORA-IMSA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "AYDIN-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "AZAD-PPRC",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "BAHRAIN-UNIV",
+    "country": "Bahrain",
+    "region": "World"
+  },
+  {
+    "code": "BANGALORE-IISC",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "BANGKOK",
+    "country": "Thailand",
+    "region": "World"
+  },
+  {
+    "code": "BARCELONA",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "BARI",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "BASEL",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "BATH-UNIV",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "BAYLOR-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "BEHSHAHR-USTM",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "BEIJING-BUAA",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "BEIJING-CAS",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "BEIJING-IHEP",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "BEIJING-NSFC",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "BEIJING-THU",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "BEIJING-UCAS",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "BEIRUT-AUB",
+    "country": "Lebanon",
+    "region": "World"
+  },
+  {
+    "code": "BEIRUT-LAU",
+    "country": "Lebanon",
+    "region": "World"
+  },
+  {
+    "code": "BEIRUT-LU",
+    "country": "Lebanon",
+    "region": "World"
+  },
+  {
+    "code": "BEIRUT-USJ",
+    "country": "Lebanon",
+    "region": "World"
+  },
+  {
+    "code": "BELGRADE",
+    "country": "Serbia",
+    "region": "World"
+  },
+  {
+    "code": "BENISUEF-UNIV",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "BERKELEY",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "BERLIN",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "BERN-AEC",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "BERN-IFBW",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "BERN-SNF",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "BHOPAL-IISER",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "BHUBANESWAR",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "BHUBANESWAR-ITT",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "BINGOL",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "BIRMINGHAM",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "BOGAZICI",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "BOGOTA",
+    "country": "Colombia",
+    "region": "World"
+  },
+  {
+    "code": "BOLOGNA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "BONN",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "BOSTON-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "BOSTON-UNIV-GVA",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "BRATISLAVA",
+    "country": "Slovak Republic",
+    "region": "World"
+  },
+  {
+    "code": "BRISTOL",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "BRNO",
+    "country": "Czech Republic",
+    "region": "World"
+  },
+  {
+    "code": "BROOKHAVEN",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "BROWN-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "BRUNEL",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "BRUSSEL-FWO",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "BRUSSEL-VUB",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "BRUXELLES-FNRS",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "BRUXELLES-ULB",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "BTCP",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "BTU",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "BUCHAREST-IFIN-HH",
+    "country": "Romania",
+    "region": "World"
+  },
+  {
+    "code": "BUCHAREST-INST",
+    "country": "Romania",
+    "region": "World"
+  },
+  {
+    "code": "BUCHAREST-UNIV",
+    "country": "Romania",
+    "region": "World"
+  },
+  {
+    "code": "BUDAPEST",
+    "country": "Hungary",
+    "region": "World"
+  },
+  {
+    "code": "BUDAPEST-ELU",
+    "country": "Hungary",
+    "region": "World"
+  },
+  {
+    "code": "BUDAPEST_UNIV",
+    "country": "Hungary",
+    "region": "World"
+  },
+  {
+    "code": "BUE",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "BURDUR-MEHMETAKIF",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "CAIRO",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "CALCUTTA-VECC",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "CALTECH",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "CANTERBURY",
+    "country": "New Zealand",
+    "region": "World"
+  },
+  {
+    "code": "CARNEGIE-MELLON",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "CATANIA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "CCCS-UWE",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "CERN",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "CERN-based",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "CHANDIGARH",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "CHARLES-UNIV",
+    "country": "Czech Republic",
+    "region": "World"
+  },
+  {
+    "code": "CHEJU",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "CHIANG-MAI",
+    "country": "Thailand",
+    "region": "World"
+  },
+  {
+    "code": "CHIAO-TUNG",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "CHICAGO",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "CHONBUK",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "CHONNAM",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "CHUNGLI-NCU",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "CHUNG_HSING",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "CLAYTON-MONASH",
+    "country": "Australia",
+    "region": "World"
+  },
+  {
+    "code": "CLU",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "CNRS-IN2P3",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "CNSTN-Sidi",
+    "country": "Tunisia",
+    "region": "World"
+  },
+  {
+    "code": "COLOMBO",
+    "country": "Sri Lanka",
+    "region": "World"
+  },
+  {
+    "code": "COLORADO",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "COMSATS",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "COPENHAGEN-BORH",
+    "country": "ZZ",
+    "region": "World"
+  },
+  {
+    "code": "CORNELL",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "CRACOW-INP",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "CRANFIELD-UNIV",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "CSC-UWI",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "CSFNSM-CATANIA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "CYPRUS-UNIV",
+    "country": "Cyprus",
+    "region": "World"
+  },
+  {
+    "code": "DALLAS-SOUTHERN",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "DAMGHAN-UNI",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "DARMSTADT-GSI",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "DEBRECEN-IEP",
+    "country": "Hungary",
+    "region": "World"
+  },
+  {
+    "code": "DEGGENDORF",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "DEKALB-NIU",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "DELHI-DST",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "DELHI-NSC",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "DELHI-UGC",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "DELHI-UNIV",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "DELHI_IIT",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "DEMOKRITOS",
+    "country": "Greece",
+    "region": "World"
+  },
+  {
+    "code": "DESY",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "DESY-ZEUTHEN",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "DILIMAN-UNIV",
+    "country": "Philippines",
+    "region": "World"
+  },
+  {
+    "code": "DOE_MD",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "DOE_W",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "DONGSHIN",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "DUBLIN-UCD",
+    "country": "Ireland",
+    "region": "World"
+  },
+  {
+    "code": "DUBNA",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "DUNDEE-UNIV",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "DURGAPUR",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "DURHAM-UNIV",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "EDINBURGH-UNIV",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "EGE",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "EINDHOVEN",
+    "country": "Netherlands",
+    "region": "World"
+  },
+  {
+    "code": "ENEA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ENEA-CLEMENTEL",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "EPFL",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "EPITA",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "ERZINCAN",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "FAIRFIELD",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FAYOUM-CHEP-FU",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "Fayoum-Univ",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "FELGUERA",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "FERMI",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "FERMILAB",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FIRENZE",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "FLORIDA-FIU",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FLORIDA-SCRI",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FLORIDA-STATE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FLORIDA-TECH",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FLORIDA-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "FRASCATI",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "Geneva",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "GENOVA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "GENOVA-UNIV",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "GHENT",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "GIK",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "GUANGZHOU-SYSU",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "GYEONGSANG",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "GYONGYOS-UNIV",
+    "country": "Hungary",
+    "region": "World"
+  },
+  {
+    "code": "HAMBURG-UNIV",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "HARYANA-GDGWI",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "HEFEI-USTC",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "HEIDELBERG",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "HELSINKI-ACAD",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "HELSINKI-EDU",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "HELSINKI-HIP",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "HELSINKI-HUT",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "HELSINKI-UNIV",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "HELWAN-UNIV",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "HEPHY",
+    "country": "Austria",
+    "region": "World"
+  },
+  {
+    "code": "HONG-KONG",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "HONG-KONG-HKU",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "HSC",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "HYDERABAD-UNIV",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "IFIC",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "IIT-MADRAS",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "INDORE-CAT",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "INFN",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "IOANNINA",
+    "country": "Greece",
+    "region": "World"
+  },
+  {
+    "code": "IOM-PERUGIA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "IOWA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "IPM",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "ISFAHAN-IUT",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "ISLAMABAD-NCP",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "ISPARTA",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-BEYKENT",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-BILGI",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-CERRAHPASA",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-MSU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-OZYEGIN",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-PRU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-TECH",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTANBUL-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ISTC",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "IZMIR-DEU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "IZMIR-IYTE",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "JAMMU-UNIV",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "JAZAN-UNIV",
+    "country": "Saudi Arabia",
+    "region": "World"
+  },
+  {
+    "code": "JEDDAH-KAU",
+    "country": "Saudi Arabia",
+    "region": "World"
+  },
+  {
+    "code": "JOHNS-HOPKINS",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "JORDAN-PSUT",
+    "country": "Jordan",
+    "region": "World"
+  },
+  {
+    "code": "JORDAN-UNIV",
+    "country": "Jordan",
+    "region": "World"
+  },
+  {
+    "code": "JYVASKYLA",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "KAIST",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KAJANG-MOSTI",
+    "country": "Malaysia",
+    "region": "World"
+  },
+  {
+    "code": "KANGNUNG",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KANGWON",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KANSAS-STATE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "KANSAS-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "KARAMAN-KMU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "KARLSRUHE-IEKP",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "KARS-KAFKAS",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "KAYSERI-ERCIYES",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "KHALSA",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "KHARKOV-ISMA",
+    "country": "Ukraine",
+    "region": "World"
+  },
+  {
+    "code": "KHARKOV-KIPT",
+    "country": "Ukraine",
+    "region": "World"
+  },
+  {
+    "code": "KHARKOV-KSU",
+    "country": "Ukraine",
+    "region": "World"
+  },
+  {
+    "code": "KIELCE",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "KING-ABDULAZIZ",
+    "country": "Saudi Arabia",
+    "region": "World"
+  },
+  {
+    "code": "KISTI",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KOLKATA-SAHA",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "KONKUK-UNIV",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KONYA-NEU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "KONYA-TECH",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "KOREA-ISE",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KOREA-UNIV",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KOSICE",
+    "country": "Slovak Republic",
+    "region": "World"
+  },
+  {
+    "code": "KRAKOW-AGH",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "KRAKOW-IET",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "KSU",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "KUWAIT-AUM",
+    "country": "Kuwait",
+    "region": "World"
+  },
+  {
+    "code": "KUWAIT-UNIV",
+    "country": "Kuwait",
+    "region": "World"
+  },
+  {
+    "code": "KWACHON",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "KYUNGPOOK",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "LAPP",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "LAPPEENRANTA-LUT",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "LATVIA-UNIV",
+    "country": "Latvia",
+    "region": "World"
+  },
+  {
+    "code": "LAUSANNE-HEC",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "LEGNARO",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "LEPSI",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "LEUVEN-KU",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "LIP",
+    "country": "Portugal",
+    "region": "World"
+  },
+  {
+    "code": "LISBOA-ADI",
+    "country": "Portugal",
+    "region": "World"
+  },
+  {
+    "code": "LISBOA-ICICT",
+    "country": "Portugal",
+    "region": "World"
+  },
+  {
+    "code": "LIVERMORE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "LIVERPOOL",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "LONDON-IC",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "LOS_ALAMOS",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "LOUISIANA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "LOUVAIN",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "LYON",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "LYON_CC",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "MADRAS-IMS",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "MADRID-CDTI",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "MADRID-CICYT",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "MADRID-CIEMAT",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "MADRID-UNIV",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "MALAYA",
+    "country": "Malaysia",
+    "region": "World"
+  },
+  {
+    "code": "MANNHEIM",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "MANSOURA-UNIV",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "MARMARA",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "MARYLAND",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "MATARA",
+    "country": "Sri Lanka",
+    "region": "World"
+  },
+  {
+    "code": "MEPHI",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MERSIN",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "MERSIN-CAG",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "MEXICO-CINVESTAV",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MEXICO-CONACYT",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MEXICO-GUANAJUATO",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MEXICO-IBEROAM",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MEXICO-PUEBLA",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MEXICO-UASLP",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MICHIGAN-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "MICHOACANA",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MILANO-BICOCCA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "MILANO-UNIV",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "MIMAR",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "MINNESOTA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "MINSK-INP",
+    "country": "Belarus",
+    "region": "World"
+  },
+  {
+    "code": "MINSK-NCPHEP",
+    "country": "Belarus",
+    "region": "World"
+  },
+  {
+    "code": "MINSK-RIAPP",
+    "country": "Belarus",
+    "region": "World"
+  },
+  {
+    "code": "MINSK-UNIV",
+    "country": "Belarus",
+    "region": "World"
+  },
+  {
+    "code": "MISSISSIPPI",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "MIT",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "MONS",
+    "country": "Belgium",
+    "region": "World"
+  },
+  {
+    "code": "MORELIA",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-INR",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-ITEP",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-LEBEDEV",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-MIPT",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-MST",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-MSU",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MOSCOW-NIKIET",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "MUENSTER-UNIV",
+    "country": "Germany",
+    "region": "World"
+  },
+  {
+    "code": "MUGLA",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "MUMBAI-BARC",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "MUMBAI-DAE",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "MUMBAI-IIT",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "MUSCAT-QABOOS",
+    "country": "Oman",
+    "region": "World"
+  },
+  {
+    "code": "MYASISHCHEV",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "NANJING-NNU",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "NAPOLI",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "NAPOLI-UNIV",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "NEAR-EAST-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "NEBRASKA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "NEWYORK-SIMONS",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "NICOSIA-UNIV",
+    "country": "Cyprus",
+    "region": "World"
+  },
+  {
+    "code": "NIGDE",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "NIKHEF",
+    "country": "Netherlands",
+    "region": "World"
+  },
+  {
+    "code": "NISER",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "NORTHEASTERN",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "NORTHWESTERN",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "NOTRE_DAME",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "NOVARA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "NOVOSIBIRSK",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "NOVOSIBIRSK-NSU",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "NSF",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "NUST",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "OHIO-STATE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "OMEGA",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "ORSAY-UPS",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "OSLO",
+    "country": "Norway",
+    "region": "World"
+  },
+  {
+    "code": "OULU",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "OVIEDO",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "OXFORD",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "PADOVA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "PAEC",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "PARIS-LPTHE",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "PATRAS-MEAD",
+    "country": "Greece",
+    "region": "World"
+  },
+  {
+    "code": "PAVIA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "PEKING-UNIV",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "PERUGIA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "PINSTECH",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "PISA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "PODGORICA-UCG",
+    "country": "Montenegro",
+    "region": "World"
+  },
+  {
+    "code": "POHANG",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "POLI_TORINO",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "POLYTECHNIQUE",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "PORTOALEGRE-UFRGS",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "POTENZA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "PPARC",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "PRAGUE-CHARLES",
+    "country": "Czech Republic",
+    "region": "World"
+  },
+  {
+    "code": "PRAGUE-CTU",
+    "country": "Czech Republic",
+    "region": "World"
+  },
+  {
+    "code": "PRAGUE-ICM",
+    "country": "Czech Republic",
+    "region": "World"
+  },
+  {
+    "code": "PRINCETON",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "PROTVINO",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "PSI",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "PUERTO_RICO",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "PUNE-IISER",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "PURDUE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "PURDUE-CALUMET",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "QATAR-TEXAS-AM",
+    "country": "Qatar",
+    "region": "World"
+  },
+  {
+    "code": "QUITO-EPN",
+    "country": "Ecuador",
+    "region": "World"
+  },
+  {
+    "code": "QUITO-USFQ",
+    "country": "Ecuador",
+    "region": "World"
+  },
+  {
+    "code": "RAL",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "RAWALPINDI",
+    "country": "Pakistan",
+    "region": "World"
+  },
+  {
+    "code": "RDMS",
+    "country": "ZZ",
+    "region": "World"
+  },
+  {
+    "code": "REZ-NRI",
+    "country": "Czech Republic",
+    "region": "World"
+  },
+  {
+    "code": "RICE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "RIE",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "RIGA",
+    "country": "Latvia",
+    "region": "World"
+  },
+  {
+    "code": "RIGA-RTU",
+    "country": "Latvia",
+    "region": "World"
+  },
+  {
+    "code": "RIO-CBPF",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "RIO-UERJ",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "RIO-UFRJ",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "ROCHESTER",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ROCKEFELLER",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ROMA-1",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ROMA-INFN",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ROMA-MARCONI",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ROMA-PRES",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ROMA-SCUOLA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "ROMA-UNIV",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "RUHUNA",
+    "country": "Sri Lanka",
+    "region": "World"
+  },
+  {
+    "code": "RUTGERS",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "SACLAY",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "SALASPILS",
+    "country": "Latvia",
+    "region": "World"
+  },
+  {
+    "code": "SANTANDER",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "SANTIAGO",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "SANTO_ANDRE",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "SAO_PAULO",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "SCUOLA-PISA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "SELANGOR-IIUM",
+    "country": "Malaysia",
+    "region": "World"
+  },
+  {
+    "code": "SEONAM",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEOUL-EDU",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEOUL-HANYANG",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEOUL-KYUNGHEE",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEOUL-SEJONG",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEOUL-SNU",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEOUL-UNIV",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SEVILLA-GIE",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "SHANGHAI-FU",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "SHANGHAI-IC",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "SHARIF-UNIV",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "SHIRAZ-UNIV",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "SHOOLINI-UNIV",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "SIENA",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "SINGAPORE-UNIV",
+    "country": "Singapore",
+    "region": "World"
+  },
+  {
+    "code": "SINOP",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "SIRNAK-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "SKK-UNIV",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "SLAC",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "SNEZHINSK",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "SOFIA-INRNE",
+    "country": "Bulgaria",
+    "region": "World"
+  },
+  {
+    "code": "SOFIA-ISER",
+    "country": "Bulgaria",
+    "region": "World"
+  },
+  {
+    "code": "SOFIA-MINISTRY",
+    "country": "Bulgaria",
+    "region": "World"
+  },
+  {
+    "code": "SOFIA-UNIV",
+    "country": "Bulgaria",
+    "region": "World"
+  },
+  {
+    "code": "SONORA-UNISON",
+    "country": "Mexico",
+    "region": "World"
+  },
+  {
+    "code": "SOUTHAMPTON",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "SPLIT-FESB",
+    "country": "Croatia",
+    "region": "World"
+  },
+  {
+    "code": "SPLIT-FS",
+    "country": "Croatia",
+    "region": "World"
+  },
+  {
+    "code": "SPLIT-UNIV",
+    "country": "Croatia",
+    "region": "World"
+  },
+  {
+    "code": "SQU-UNIV",
+    "country": "Oman",
+    "region": "World"
+  },
+  {
+    "code": "ST-PAUL-BU",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "ST-PETERSBURG",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "ST-PETERSBURG-SPU",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "STONY_BROOK",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "STRASBOURG",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "STRASBOURG-TPS",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "STRATHCLYDE",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "SUEZ",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "SUNY-BUFFALO",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "SWANSEA",
+    "country": "United Kingdom",
+    "region": "World"
+  },
+  {
+    "code": "SYDNEY-UNIV",
+    "country": "Australia",
+    "region": "World"
+  },
+  {
+    "code": "SYRACUSE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "TAIPEI-ASGC",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "TAIPEI-NSC",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "TAIPEI-NTU",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "TALLINN",
+    "country": "Estonia",
+    "region": "World"
+  },
+  {
+    "code": "TAMILNADU-VIT",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "TAMPERE",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "TARSUS-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "TARTU-UNIV",
+    "country": "Estonia",
+    "region": "World"
+  },
+  {
+    "code": "TASHKENT",
+    "country": "Uzbekistan",
+    "region": "World"
+  },
+  {
+    "code": "TBILISI-GTU",
+    "country": "Georgia",
+    "region": "World"
+  },
+  {
+    "code": "TBILISI-IPAS",
+    "country": "Georgia",
+    "region": "World"
+  },
+  {
+    "code": "TBILISI-ISU",
+    "country": "Georgia",
+    "region": "World"
+  },
+  {
+    "code": "TBILISI-TSU",
+    "country": "Georgia",
+    "region": "World"
+  },
+  {
+    "code": "TEHRAN",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "TEHRAN-ENG",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "TENERIFE-IAC",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "TENNESSEE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "TEXAS-AUSTIN",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "TEXAS-DALLAS",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "TEXAS-TAMU",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "TEXAS-TECH",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "TIFR",
+    "country": "ZZ",
+    "region": "World"
+  },
+  {
+    "code": "TIFR-A",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "TIFR-B",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "TIFR-EHEP",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "TIFR-HECR",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "TOKAT-GAZIOS",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "TOKYO-UNIV",
+    "country": "Japan",
+    "region": "World"
+  },
+  {
+    "code": "TOMSK-POLYTEC",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "TOMSK-TSU",
+    "country": "Russia",
+    "region": "World"
+  },
+  {
+    "code": "TORINO",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "TORINO-B",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "TORONTO",
+    "country": "Canada",
+    "region": "World"
+  },
+  {
+    "code": "TRENTO",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "TRIESTE",
+    "country": "Italy",
+    "region": "World"
+  },
+  {
+    "code": "TRINCOMALEE",
+    "country": "Sri Lanka",
+    "region": "World"
+  },
+  {
+    "code": "TSING_HUA",
+    "country": "Taiwan",
+    "region": "World"
+  },
+  {
+    "code": "TSUKUBA-CDF",
+    "country": "Japan",
+    "region": "World"
+  },
+  {
+    "code": "TSUKUBA-KEK",
+    "country": "Japan",
+    "region": "World"
+  },
+  {
+    "code": "TSUKUBA-SDC",
+    "country": "Japan",
+    "region": "World"
+  },
+  {
+    "code": "TSUKUBA-UNIV",
+    "country": "Japan",
+    "region": "World"
+  },
+  {
+    "code": "TUNIS-UTM",
+    "country": "Tunisia",
+    "region": "World"
+  },
+  {
+    "code": "TUT",
+    "country": "Finland",
+    "region": "World"
+  },
+  {
+    "code": "UCDAVIS",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "UCLA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "UCRIVERSIDE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "UCSB",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "UCSD",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "UFMS",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "UFPEL",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "UHA",
+    "country": "France",
+    "region": "World"
+  },
+  {
+    "code": "UNIANDES",
+    "country": "Colombia",
+    "region": "World"
+  },
+  {
+    "code": "UNICAMP",
+    "country": "Brazil",
+    "region": "World"
+  },
+  {
+    "code": "Utah-Univ",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "VANDERBILT",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "VICTORIA",
+    "country": "Canada",
+    "region": "World"
+  },
+  {
+    "code": "VIENNA-SMI",
+    "country": "Austria",
+    "region": "World"
+  },
+  {
+    "code": "VIENNA-TU",
+    "country": "Austria",
+    "region": "World"
+  },
+  {
+    "code": "VIGO",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "VILNIUS-ACADEMY",
+    "country": "Lithuania",
+    "region": "World"
+  },
+  {
+    "code": "VILNIUS-ITPA",
+    "country": "Lithuania",
+    "region": "World"
+  },
+  {
+    "code": "VILNIUS-UNIV",
+    "country": "Lithuania",
+    "region": "World"
+  },
+  {
+    "code": "VINCA",
+    "country": "Serbia",
+    "region": "World"
+  },
+  {
+    "code": "VIRGINIA-TECH",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "VIRGINIA-UNIV",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "VISVA-BHARATI",
+    "country": "India",
+    "region": "World"
+  },
+  {
+    "code": "VRIJE-AMSTERDAM",
+    "country": "Netherlands",
+    "region": "World"
+  },
+  {
+    "code": "WARSAW-IEP",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "WARSAW-INS",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "WARSAW-ISE",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "WARZAWA",
+    "country": "Poland",
+    "region": "World"
+  },
+  {
+    "code": "WASHINGTON-CUA",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "WAYNE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "WIEN-MIN",
+    "country": "Austria",
+    "region": "World"
+  },
+  {
+    "code": "WISCONSIN",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "WISCONSIN-CHTC",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "WONKWANG",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "YALE",
+    "country": "USA",
+    "region": "World"
+  },
+  {
+    "code": "YAZD-UNIV",
+    "country": "Iran",
+    "region": "World"
+  },
+  {
+    "code": "YEREVAN",
+    "country": "Armenia",
+    "region": "World"
+  },
+  {
+    "code": "YILDIZ",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "YONSEI-UNIV",
+    "country": "Korea",
+    "region": "World"
+  },
+  {
+    "code": "YOZGAT-BOZOK-UNIV",
+    "country": "Turkey",
+    "region": "World"
+  },
+  {
+    "code": "ZAGREB-FSM",
+    "country": "Croatia",
+    "region": "World"
+  },
+  {
+    "code": "ZAGREB-MIN",
+    "country": "Croatia",
+    "region": "World"
+  },
+  {
+    "code": "ZAGREB-RUDJER",
+    "country": "Croatia",
+    "region": "World"
+  },
+  {
+    "code": "Zaragoza-ITA",
+    "country": "Spain",
+    "region": "World"
+  },
+  {
+    "code": "ZEWAIL-CITY",
+    "country": "Egypt",
+    "region": "World"
+  },
+  {
+    "code": "ZHEJIANG-UNIV",
+    "country": "China",
+    "region": "World"
+  },
+  {
+    "code": "ZILINA",
+    "country": "Slovak Republic",
+    "region": "World"
+  },
+  {
+    "code": "ZURICH-ETH",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "ZURICH-UNIV",
+    "country": "Switzerland",
+    "region": "World"
+  },
+  {
+    "code": "ZZZ",
+    "country": "ZZ",
+    "region": "World"
+  }
+]

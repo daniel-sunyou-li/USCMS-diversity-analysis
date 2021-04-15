@@ -1,0 +1,7769 @@
+{
+  "MILANO-BICOCCA": {
+    "2591": {
+      "Trigger Coordination": 4.5
+    },
+    "3780": {
+      "UPGRADE": 3,
+      "PPD": 1
+    },
+    "3879": {
+      "ECAL": 4
+    },
+    "3889": {
+      "ECAL": 5
+    },
+    "5171": {
+      "Tracker": 0.35
+    },
+    "5172": {
+      "PPD": 4
+    },
+    "5285": {
+      "PPD": 2
+    },
+    "5286": {
+      "PPD": 2,
+      "Tracker": 0.35
+    },
+    "5693": {
+      "Tracker": 5.25
+    },
+    "8379": {
+      "PPD": 2,
+      "Trigger Coordination": 4
+    },
+    "8380": {
+      "Trigger Coordination": 4,
+      "PPD": 2
+    },
+    "9062": {
+      "UPGRADE": 4,
+      "Offline And Computing": 0,
+      "ECAL": 2
+    },
+    "9234": {
+      "ECAL": 6
+    },
+    "9953": {
+      "ECAL": 7.5
+    },
+    "10626": {
+      "ECAL": 7,
+      "UPGRADE": 1
+    }
+  },
+  "VIRGINIA-UNIV": {
+    "5201": {
+      "UPGRADE": 3
+    },
+    "5310": {
+      "UPGRADE": 5
+    },
+    "5419": {
+      "ECAL": 1,
+      "UPGRADE": 7
+    },
+    "5449": {
+      "UPGRADE": 1
+    },
+    "6784": {
+      "General": 0.5,
+      "UPGRADE": 1
+    },
+    "7876": {
+      "ECAL": 5
+    },
+    "8099": {
+      "ECAL": 2
+    },
+    "8162": {
+      "HCAL": 6
+    },
+    "9324": {
+      "UPGRADE": 4
+    },
+    "9385": {
+      "ECAL": 5
+    },
+    "9647": {
+      "UPGRADE": 1,
+      "PPD": 6,
+      "ECAL": 0.5
+    },
+    "10267": {
+      "ECAL": 2
+    },
+    "10734": {
+      "HCAL": 0
+    }
+  },
+  "ZURICH-ETH": {
+    "539": {
+      "General": 0.5
+    },
+    "549": {
+      "UPGRADE": 1,
+      "ECAL": 2
+    },
+    "1077": {
+      "ECAL": 1
+    },
+    "1079": {
+      "Offline And Computing": 8,
+      "General": 0.5
+    },
+    "1460": {
+      "ECAL": 2.5
+    },
+    "1774": {
+      "ECAL": 3
+    },
+    "1905": {
+      "General": 2.5
+    },
+    "2675": {
+      "ECAL": 5
+    },
+    "3908": {
+      "ECAL": 3
+    },
+    "4246": {
+      "ECAL": 1,
+      "Tracker": 1
+    },
+    "4372": {
+      "General": 0.5
+    },
+    "5298": {
+      "Trigger Coordination": 3.5
+    },
+    "5476": {
+      "ECAL": 3
+    },
+    "6346": {
+      "ECAL": 1
+    },
+    "6648": {
+      "ECAL": 2.5
+    },
+    "6774": {
+      "Offline And Computing": 0,
+      "PPD": 3
+    },
+    "6885": {
+      "Tracker": 0.5
+    },
+    "7203": {
+      "PPD": 3,
+      "ECAL": 3.5
+    },
+    "7208": {
+      "ECAL": 1
+    },
+    "7271": {
+      "PPD": 1
+    },
+    "7710": {
+      "DAQ": 10
+    },
+    "8052": {
+      "ECAL": 0.5
+    },
+    "8111": {
+      "UPGRADE": 3
+    },
+    "8642": {
+      "PPD": 2,
+      "ECAL": 1
+    },
+    "8707": {
+      "Tracker": 0.5
+    },
+    "8893": {
+      "Offline And Computing": 10.5
+    },
+    "9111": {
+      "Tracker": 1
+    },
+    "9337": {
+      "ECAL": 1,
+      "Offline And Computing": 3.4
+    },
+    "9853": {
+      "Tracker": 3
+    },
+    "10571": {
+      "PPD": 2,
+      "ECAL": 2.5,
+      "Offline And Computing": 1
+    },
+    "10908": {
+      "PPD": 2
+    },
+    "11009": {
+      "Tracker": 1
+    },
+    "11033": {
+      "PPD": 2,
+      "Offline And Computing": 2
+    },
+    "11214": {
+      "Tracker": 3
+    }
+  },
+  "ZAGREB-RUDJER": {
+    "7936": {
+      "Tracker": 2.7
+    },
+    "8222": {
+      "Tracker": 0.7
+    },
+    "10459": {
+      "Tracker": 4
+    },
+    "10597": {
+      "Tracker": 4
+    },
+    "11154": {
+      "Tracker": 1.7,
+      "Offline And Computing": 0
+    }
+  },
+  "FERMILAB": {
+    "323": {
+      "Tracker": 0.5
+    },
+    "472": {
+      "Muon-CSC": 4
+    },
+    "670": {
+      "HCAL": 8
+    },
+    "1051": {
+      "Offline And Computing": 3
+    },
+    "1641": {
+      "Offline And Computing": 0.5
+    },
+    "1642": {
+      "Offline And Computing": 12,
+      "Run Coordination": 1
+    },
+    "1953": {
+      "HCAL": 7
+    },
+    "1954": {
+      "Run Coordination": 8
+    },
+    "2427": {
+      "Muon-CSC": 12
+    },
+    "2439": {
+      "HCAL": 5
+    },
+    "2442": {
+      "Offline And Computing": 0.5
+    },
+    "2511": {
+      "Muon-CSC": 1
+    },
+    "2558": {
+      "HCAL": 4
+    },
+    "2628": {
+      "Offline And Computing": 12
+    },
+    "2745": {
+      "Offline And Computing": 6
+    },
+    "2869": {
+      "HCAL": 4
+    },
+    "3265": {
+      "Offline And Computing": 1.5
+    },
+    "3598": {
+      "Offline And Computing": 12
+    },
+    "4005": {
+      "Offline And Computing": 4
+    },
+    "4073": {
+      "Offline And Computing": 12
+    },
+    "4322": {
+      "Offline And Computing": 6
+    },
+    "4730": {
+      "PPD": 4
+    },
+    "4736": {
+      "Run Coordination": 3
+    },
+    "4853": {
+      "Offline And Computing": 2.9
+    },
+    "4855": {
+      "CT-PPS": 8
+    },
+    "4949": {
+      "Offline And Computing": 12
+    },
+    "4970": {
+      "Tracker": 1
+    },
+    "5044": {
+      "Offline And Computing": 12
+    },
+    "5153": {
+      "Offline And Computing": 3
+    },
+    "5220": {
+      "Offline And Computing": 1
+    },
+    "5221": {
+      "Tracker": 1
+    },
+    "5225": {
+      "Offline And Computing": 10
+    },
+    "5235": {
+      "UPGRADE": 3
+    },
+    "5305": {
+      "Offline And Computing": 1.5
+    },
+    "5353": {
+      "General": 4
+    },
+    "5409": {
+      "Tracker": 1
+    },
+    "5411": {
+      "Offline And Computing": 3
+    },
+    "5573": {
+      "Offline And Computing": 12
+    },
+    "5631": {
+      "Run Coordination": 12
+    },
+    "5659": {
+      "Tracker": 0,
+      "Offline And Computing": 0.5
+    },
+    "5705": {
+      "Tracker": 0.55,
+      "L1 Trigger": 1
+    },
+    "5720": {
+      "Offline And Computing": 1.2
+    },
+    "5796": {
+      "L1 Trigger": 3
+    },
+    "5891": {
+      "Offline And Computing": 7
+    },
+    "5997": {
+      "L1 Trigger": 1.5,
+      "Run Coordination": 2
+    },
+    "6172": {
+      "HCAL": 2,
+      "UPGRADE": 18
+    },
+    "6359": {
+      "Offline And Computing": 3
+    },
+    "6442": {
+      "Offline And Computing": 3
+    },
+    "6452": {
+      "Offline And Computing": 2.5
+    },
+    "6454": {
+      "Offline And Computing": 3
+    },
+    "6483": {
+      "Tracker": 0.5,
+      "Offline And Computing": 0.5
+    },
+    "6541": {
+      "Offline And Computing": 3
+    },
+    "6589": {
+      "Offline And Computing": 6
+    },
+    "6604": {
+      "Offline And Computing": 12
+    },
+    "6703": {
+      "DAQ": 11
+    },
+    "6723": {
+      "L1 Trigger": 3
+    },
+    "6744": {
+      "Offline And Computing": 1.5
+    },
+    "6967": {
+      "PPD": 2,
+      "HCAL": 6,
+      "Run Coordination": 3
+    },
+    "7098": {
+      "Muon-CSC": 12
+    },
+    "7127": {
+      "Offline And Computing": 12
+    },
+    "7252": {
+      "Offline And Computing": 6
+    },
+    "7288": {
+      "HCAL": 12,
+      "Offline And Computing": 0.5
+    },
+    "7323": {
+      "Offline And Computing": 6
+    },
+    "7325": {
+      "HCAL": 3
+    },
+    "7522": {
+      "HCAL": 4
+    },
+    "7820": {
+      "Offline And Computing": 4
+    },
+    "8196": {
+      "HCAL": 4
+    },
+    "8238": {
+      "Run Coordination": 1
+    },
+    "8244": {
+      "Tracker": 0.5
+    },
+    "8471": {
+      "Offline And Computing": 12
+    },
+    "9143": {
+      "Offline And Computing": 3.5
+    },
+    "9220": {
+      "HCAL": 2
+    },
+    "9320": {
+      "Run Coordination": 3
+    },
+    "9617": {
+      "HCAL": 6
+    },
+    "9656": {
+      "Tracker": 1
+    },
+    "9692": {
+      "Tracker": 1
+    },
+    "9706": {
+      "Tracker": 1
+    },
+    "9875": {
+      "Offline And Computing": 1
+    },
+    "9977": {
+      "Offline And Computing": 8
+    },
+    "10313": {
+      "Offline And Computing": 8
+    },
+    "10405": {
+      "Offline And Computing": 3
+    },
+    "10840": {
+      "Tracker": 1
+    },
+    "10848": {
+      "Offline And Computing": 12
+    },
+    "10921": {
+      "Offline And Computing": 0
+    },
+    "11010": {
+      "HCAL": 6
+    },
+    "11118": {
+      "Offline And Computing": 3
+    },
+    "11123": {
+      "Offline And Computing": 6
+    },
+    "11163": {
+      "Offline And Computing": 3
+    },
+    "11622": {
+      "Offline And Computing": 4
+    }
+  },
+  "IPM": {
+    "3798": {
+      "HCAL": 0
+    },
+    "4674": {
+      "CT-PPS": 1
+    },
+    "6715": {
+      "Offline And Computing": 4
+    },
+    "6802": {
+      "Trigger Coordination": 4
+    },
+    "6911": {
+      "HCAL": 3
+    },
+    "7557": {
+      "CT-PPS": 4
+    },
+    "7594": {
+      "CT-PPS": 3
+    },
+    "9371": {
+      "CT-PPS": 2
+    },
+    "9442": {
+      "CT-PPS": 1
+    },
+    "9443": {
+      "CT-PPS": 2
+    },
+    "9444": {
+      "CT-PPS": 2
+    },
+    "10020": {
+      "L1 Trigger": 2.5
+    },
+    "10167": {
+      "CT-PPS": 4
+    },
+    "10514": {
+      "HCAL": 6
+    }
+  },
+  "PROTVINO": {
+    "444": {
+      "BRIL": 4,
+      "UPGRADE": 0
+    },
+    "445": {
+      "Offline And Computing": 2
+    },
+    "452": {
+      "UPGRADE": 0
+    },
+    "456": {
+      "UPGRADE": 0
+    },
+    "460": {
+      "ECAL": 1,
+      "UPGRADE": 0
+    },
+    "1011": {
+      "HCAL": 3
+    },
+    "2368": {
+      "Offline And Computing": 0
+    },
+    "3618": {
+      "HCAL": 0
+    },
+    "3619": {
+      "Offline And Computing": 1
+    },
+    "4195": {
+      "BRIL": 1
+    },
+    "4311": {
+      "HCAL": 0.75
+    },
+    "4632": {
+      "Offline And Computing": 6.1,
+      "ECAL": 4
+    },
+    "5248": {
+      "HCAL": 4
+    },
+    "5441": {
+      "HCAL": 2
+    },
+    "7359": {
+      "CT-PPS": 3,
+      "HCAL": 0
+    },
+    "7755": {
+      "HCAL": 1.5
+    },
+    "7950": {
+      "BRIL": 2
+    },
+    "7952": {
+      "BRIL": 4
+    },
+    "8836": {
+      "HCAL": 0.75
+    },
+    "8942": {
+      "HCAL": 4
+    },
+    "10586": {
+      "BRIL": 3
+    },
+    "11232": {
+      "ECAL": 5
+    }
+  },
+  "MOSCOW-MSU": {
+    "426": {
+      "HCAL": 0.5
+    },
+    "428": {
+      "HCAL": 0.5,
+      "BRIL": 3
+    },
+    "429": {
+      "Offline And Computing": 2,
+      "HCAL": 6
+    },
+    "432": {
+      "Offline And Computing": 1
+    },
+    "434": {
+      "Offline And Computing": 1
+    },
+    "2482": {
+      "Offline And Computing": 6
+    },
+    "2542": {
+      "BRIL": 1,
+      "Tracker": 3,
+      "HCAL": 3
+    },
+    "2831": {
+      "BRIL": 1
+    },
+    "3143": {
+      "HCAL": 0.5,
+      "General": 3
+    },
+    "4796": {
+      "PPD": 0,
+      "Offline And Computing": 1
+    },
+    "6320": {
+      "Offline And Computing": 2,
+      "HCAL": 2
+    },
+    "6578": {
+      "HCAL": 3
+    },
+    "7100": {
+      "L1 Trigger": 2,
+      "HCAL": 3
+    },
+    "7101": {
+      "L1 Trigger": 2,
+      "HCAL": 4
+    },
+    "7107": {
+      "HCAL": 2
+    },
+    "8039": {
+      "Offline And Computing": 2
+    },
+    "9192": {
+      "Trigger Coordination": 3
+    },
+    "9218": {
+      "Trigger Coordination": 0
+    },
+    "9740": {
+      "Offline And Computing": 2
+    },
+    "10012": {
+      "Offline And Computing": 2
+    },
+    "10393": {
+      "Offline And Computing": 2
+    },
+    "10507": {
+      "Trigger Coordination": 0
+    },
+    "10977": {
+      "HCAL": 6,
+      "BRIL": 0
+    }
+  },
+  "PAVIA": {
+    "946": {
+      "UPGRADE": 2,
+      "Muon-RPC": 3
+    },
+    "948": {
+      "Muon-RPC": 2,
+      "UPGRADE": 2
+    },
+    "9663": {
+      "UPGRADE": 0,
+      "Muon-RPC": 2
+    },
+    "9664": {
+      "Muon-RPC": 3
+    },
+    "9961": {
+      "UPGRADE": 4
+    },
+    "9965": {
+      "UPGRADE": 4
+    },
+    "9991": {
+      "Muon-RPC": 0.5
+    },
+    "10078": {
+      "Tracker": 2.3
+    },
+    "10079": {
+      "Tracker": 0.5
+    },
+    "10080": {
+      "Tracker": 0.5
+    },
+    "10081": {
+      "Tracker": 0.8
+    },
+    "10127": {
+      "Tracker": 1.9
+    },
+    "10277": {
+      "Tracker": 1.5
+    },
+    "10294": {
+      "Muon-RPC": 3,
+      "UPGRADE": 0
+    },
+    "10353": {
+      "Muon-RPC": 0.5
+    }
+  },
+  "UCLA": {
+    "632": {
+      "General": 4
+    },
+    "1266": {
+      "DAQ": 10
+    },
+    "2881": {
+      "General": 1
+    },
+    "3321": {
+      "Muon-CSC": 2
+    },
+    "3387": {
+      "Muon-CSC": 9
+    },
+    "3659": {
+      "UPGRADE": 6
+    },
+    "4273": {
+      "Muon-CSC": 11
+    },
+    "6208": {
+      "PPD": 3,
+      "Muon-CSC": 1
+    },
+    "6588": {
+      "General": 0,
+      "Muon-CSC": 4
+    },
+    "8148": {
+      "Muon-CSC": 0
+    },
+    "9115": {
+      "Muon-CSC": 3
+    },
+    "9829": {
+      "Muon-CSC": 6
+    }
+  },
+  "WAYNE": {
+    "6240": {
+      "PPD": 1,
+      "UPGRADE": 4
+    },
+    "6728": {
+      "UPGRADE": 10
+    },
+    "10717": {
+      "UPGRADE": 8
+    },
+    "11087": {
+      "UPGRADE": 12
+    }
+  },
+  "NOTRE_DAME": {
+    "396": {
+      "HCAL": 12
+    },
+    "760": {
+      "HCAL": 1.5,
+      "UPGRADE": 3
+    },
+    "761": {
+      "UPGRADE": 3
+    },
+    "763": {
+      "HCAL": 3
+    },
+    "978": {
+      "HCAL": 3
+    },
+    "1632": {
+      "HCAL": 12
+    },
+    "2021": {
+      "PPD": 3,
+      "General": 0.5,
+      "Offline And Computing": 1
+    },
+    "2505": {
+      "HCAL": 9
+    },
+    "2668": {
+      "Offline And Computing": 6.5
+    },
+    "5508": {
+      "ECAL": 3
+    },
+    "5892": {
+      "General": 3
+    },
+    "6471": {
+      "L1 Trigger": 1,
+      "ECAL": 5
+    },
+    "7342": {
+      "Offline And Computing": 2,
+      "L1 Trigger": 1,
+      "HCAL": 3
+    },
+    "7384": {
+      "ECAL": 1,
+      "Trigger Coordination": 3
+    },
+    "8617": {
+      "Trigger Coordination": 7.53
+    },
+    "9210": {
+      "Trigger Coordination": 6
+    },
+    "9840": {
+      "L1 Trigger": 1,
+      "ECAL": 5
+    },
+    "10539": {
+      "L1 Trigger": 1,
+      "ECAL": 7
+    },
+    "10593": {
+      "PPD": 0
+    },
+    "11122": {
+      "Offline And Computing": 0
+    },
+    "11426": {
+      "ECAL": 2
+    }
+  },
+  "BRISTOL": {
+    "561": {
+      "General": 0.5,
+      "ECAL": 0
+    },
+    "562": {
+      "L1 Trigger": 4
+    },
+    "2549": {
+      "L1 Trigger": 6,
+      "Trigger Coordination": 0.5
+    },
+    "2797": {
+      "Tracker": 1
+    },
+    "2866": {
+      "Tracker": 1
+    },
+    "6656": {
+      "Offline And Computing": 12,
+      "L1 Trigger": 60
+    },
+    "6815": {
+      "HCAL": 4
+    },
+    "7543": {
+      "Offline And Computing": 12
+    },
+    "8037": {
+      "L1 Trigger": 11
+    },
+    "8397": {
+      "HCAL": 0.2,
+      "General": 0,
+      "Offline And Computing": 2
+    },
+    "9735": {
+      "L1 Trigger": 2
+    },
+    "9866": {
+      "Tracker": 2
+    },
+    "10007": {
+      "Tracker": 0
+    },
+    "10204": {
+      "L1 Trigger": 3
+    },
+    "10401": {
+      "L1 Trigger": 4,
+      "HCAL": 2
+    },
+    "11029": {
+      "Trigger Coordination": 2
+    }
+  },
+  "BRUXELLES-ULB": {
+    "37": {
+      "General": 0.5
+    },
+    "38": {
+      "Offline And Computing": 1.2,
+      "Trigger Coordination": 2
+    },
+    "3604": {
+      "General": 0.5
+    },
+    "4429": {
+      "Trigger Coordination": 2
+    },
+    "4608": {
+      "General": 0
+    },
+    "5191": {
+      "PPD": 2,
+      "Trigger Coordination": 2
+    },
+    "5530": {
+      "Offline And Computing": 8
+    },
+    "6721": {
+      "Trigger Coordination": 3
+    },
+    "7407": {
+      "PPD": 2
+    },
+    "8083": {
+      "UPGRADE": 2
+    },
+    "8515": {
+      "Trigger Coordination": 22
+    },
+    "8645": {
+      "UPGRADE": 2,
+      "ECAL": 2
+    },
+    "9009": {
+      "Trigger Coordination": 2,
+      "UPGRADE": 2
+    },
+    "9165": {
+      "UPGRADE": 2
+    },
+    "9243": {
+      "PPD": 4
+    },
+    "9371": {
+      "Offline And Computing": 2,
+      "PPD": 1.2
+    },
+    "9583": {
+      "UPGRADE": 0
+    },
+    "9745": {
+      "UPGRADE": 2,
+      "Tracker": 2
+    },
+    "9886": {
+      "Trigger Coordination": 4
+    },
+    "9887": {
+      "ECAL": 2
+    },
+    "10305": {
+      "Trigger Coordination": 2,
+      "Offline And Computing": 1,
+      "PPD": 1
+    },
+    "10328": {
+      "Trigger Coordination": 2,
+      "Offline And Computing": 0
+    },
+    "10471": {
+      "Tracker": 1,
+      "Trigger Coordination": 2
+    },
+    "10522": {
+      "UPGRADE": 2,
+      "Tracker": 2,
+      "Trigger Coordination": 4
+    }
+  },
+  "UCRIVERSIDE": {
+    "639": {
+      "General": 2
+    },
+    "3060": {
+      "Muon-CSC": 3,
+      "General": 0.5
+    },
+    "5017": {
+      "Tracker": 2
+    },
+    "6838": {
+      "PPD": 2,
+      "Muon-CSC": 2,
+      "Trigger Coordination": 1
+    },
+    "7167": {
+      "Offline And Computing": 0.5,
+      "HCAL": 4
+    },
+    "8831": {
+      "Muon-CSC": 4
+    },
+    "8833": {
+      "HCAL": 3
+    },
+    "8928": {
+      "Muon-CSC": 3
+    },
+    "9323": {
+      "Tracker": 6
+    },
+    "9380": {
+      "Muon-CSC": 4
+    },
+    "9764": {
+      "Tracker": 6
+    },
+    "9920": {
+      "HCAL": 3
+    },
+    "10726": {
+      "Tracker": 2.5
+    },
+    "10949": {
+      "HCAL": 2
+    }
+  },
+  "CHANDIGARH": {
+    "229": {
+      "PPD": 0,
+      "HCAL": 0
+    },
+    "230": {
+      "HCAL": 1
+    },
+    "231": {
+      "UPGRADE": 0,
+      "Muon-RPC": 0
+    },
+    "3212": {
+      "Muon-RPC": 0
+    },
+    "4798": {
+      "UPGRADE": 0
+    },
+    "5932": {
+      "Offline And Computing": 3,
+      "UPGRADE": 0
+    },
+    "7761": {
+      "HCAL": 0
+    },
+    "8500": {
+      "HCAL": 0
+    },
+    "9008": {
+      "PPD": 4,
+      "HCAL": 1.5,
+      "UPGRADE": 2
+    },
+    "9185": {
+      "Offline And Computing": 2,
+      "UPGRADE": 4
+    },
+    "9188": {
+      "PPD": 2,
+      "HCAL": 0
+    },
+    "9841": {
+      "Offline And Computing": 2,
+      "UPGRADE": 3
+    },
+    "9842": {
+      "HCAL": 4,
+      "PPD": 3
+    },
+    "9921": {
+      "Trigger Coordination": 1,
+      "HCAL": 2
+    },
+    "10025": {
+      "HCAL": 2
+    },
+    "10425": {
+      "UPGRADE": 0
+    },
+    "11121": {
+      "UPGRADE": 2
+    },
+    "11168": {
+      "UPGRADE": 2
+    }
+  },
+  "CALTECH": {
+    "616": {
+      "Offline And Computing": 3
+    },
+    "619": {
+      "UPGRADE": 3
+    },
+    "2729": {
+      "Offline And Computing": 4
+    },
+    "3838": {
+      "UPGRADE": 4,
+      "ECAL": 2
+    },
+    "4867": {
+      "Offline And Computing": 4
+    },
+    "5381": {
+      "Offline And Computing": 7.9
+    },
+    "5590": {
+      "Offline And Computing": 4.5,
+      "PPD": 0
+    },
+    "5615": {
+      "Offline And Computing": 0.5,
+      "HCAL": 3
+    },
+    "6183": {
+      "General": 4
+    },
+    "6249": {
+      "UPGRADE": 2,
+      "Offline And Computing": 0
+    },
+    "7025": {
+      "Offline And Computing": 3
+    },
+    "7330": {
+      "Offline And Computing": 0
+    },
+    "8096": {
+      "Offline And Computing": 0.5,
+      "PPD": 4
+    },
+    "10006": {
+      "HCAL": 3
+    },
+    "10045": {
+      "Offline And Computing": 0
+    },
+    "10253": {
+      "PPD": 1
+    },
+    "10288": {
+      "Offline And Computing": 0
+    },
+    "11436": {
+      "HCAL": 3
+    },
+    "11572": {
+      "Offline And Computing": 8
+    },
+    "11648": {
+      "ECAL": 0
+    }
+  },
+  "DESY": {
+    "510": {
+      "General": 0
+    },
+    "1081": {
+      "Tracker": 1.5
+    },
+    "1385": {
+      "PPD": 4
+    },
+    "3894": {
+      "General": 0.5,
+      "Trigger Coordination": 3
+    },
+    "5126": {
+      "PPD": 2,
+      "Offline And Computing": 0.5
+    },
+    "5300": {
+      "PPD": 2,
+      "Offline And Computing": 2,
+      "Tracker": 0.5
+    },
+    "5375": {
+      "Tracker": 2
+    },
+    "5564": {
+      "BRIL": 10
+    },
+    "5588": {
+      "Run Coordination": 3,
+      "HCAL": 3,
+      "DAQ": 2
+    },
+    "5998": {
+      "General": 4
+    },
+    "6003": {
+      "Offline And Computing": 1.5,
+      "UPGRADE": 2,
+      "PPD": 3
+    },
+    "6012": {
+      "Offline And Computing": 3,
+      "General": 0.5
+    },
+    "6023": {
+      "HCAL": 7
+    },
+    "6128": {
+      "Tracker": 3
+    },
+    "6136": {
+      "Run Coordination": 1,
+      "General": 0.5
+    },
+    "6239": {
+      "Tracker": 0.5,
+      "Offline And Computing": 0
+    },
+    "6291": {
+      "BRIL": 6
+    },
+    "6353": {
+      "Offline And Computing": 3
+    },
+    "6465": {
+      "General": 1
+    },
+    "6653": {
+      "PPD": 2
+    },
+    "6826": {
+      "Tracker": 0.5,
+      "Run Coordination": 1
+    },
+    "7116": {
+      "Offline And Computing": 0,
+      "Trigger Coordination": 1.5
+    },
+    "7132": {
+      "UPGRADE": 2,
+      "General": 0.5
+    },
+    "7159": {
+      "Tracker": 4
+    },
+    "7546": {
+      "Tracker": 1.5
+    },
+    "7750": {
+      "Offline And Computing": 0
+    },
+    "8246": {
+      "Tracker": 3
+    },
+    "8433": {
+      "Tracker": 1
+    },
+    "8464": {
+      "HCAL": 7
+    },
+    "8553": {
+      "Offline And Computing": 2
+    },
+    "8597": {
+      "HCAL": 4.5
+    },
+    "8781": {
+      "Trigger Coordination": 1
+    },
+    "8901": {
+      "PPD": 1
+    },
+    "8910": {
+      "HCAL": 0
+    },
+    "8972": {
+      "HCAL": 6,
+      "L1 Trigger": 4
+    },
+    "8994": {
+      "PPD": 6
+    },
+    "9061": {
+      "Offline And Computing": 0
+    },
+    "9099": {
+      "Tracker": 1.5
+    },
+    "9112": {
+      "Tracker": 1.5
+    },
+    "9349": {
+      "PPD": 1,
+      "Trigger Coordination": 2
+    },
+    "9615": {
+      "Tracker": 2,
+      "General": 2
+    },
+    "9674": {
+      "Tracker": 1
+    },
+    "9675": {
+      "Tracker": 1
+    },
+    "9793": {
+      "HCAL": 1.5
+    },
+    "9944": {
+      "Tracker": 0
+    },
+    "10189": {
+      "Offline And Computing": 3.5
+    },
+    "10306": {
+      "BRIL": 7
+    },
+    "10855": {
+      "Tracker": 1.5
+    },
+    "10939": {
+      "Tracker": 4,
+      "Offline And Computing": 2
+    },
+    "11021": {
+      "Tracker": 7
+    },
+    "11088": {
+      "PPD": 2
+    },
+    "11113": {
+      "Tracker": 6
+    },
+    "11114": {
+      "Tracker": 5,
+      "Offline And Computing": 1.5
+    },
+    "11277": {
+      "Offline And Computing": 6
+    }
+  },
+  "LIP": {
+    "350": {
+      "General": 4
+    },
+    "942": {
+      "CT-PPS": 3,
+      "ECAL": 9
+    },
+    "5697": {
+      "CT-PPS": 2
+    },
+    "5942": {
+      "CT-PPS": 0
+    },
+    "6523": {
+      "CT-PPS": 2,
+      "PPD": 4
+    },
+    "6585": {
+      "General": 0
+    },
+    "7529": {
+      "General": 1,
+      "PPD": 3,
+      "Offline And Computing": 2.6
+    },
+    "9103": {
+      "PPD": 0,
+      "CT-PPS": 1
+    },
+    "9973": {
+      "CT-PPS": 4
+    },
+    "10344": {
+      "CT-PPS": 6
+    }
+  },
+  "AACHEN-1": {
+    "1527": {
+      "Tracker": 3
+    },
+    "1893": {
+      "Tracker": 2
+    },
+    "2956": {
+      "Trigger Coordination": 0
+    },
+    "3138": {
+      "Tracker": 6
+    },
+    "3578": {
+      "Tracker": 2.5
+    },
+    "4110": {
+      "Tracker": 4.5
+    },
+    "6910": {
+      "PPD": 0
+    },
+    "7957": {
+      "PPD": 4
+    },
+    "8558": {
+      "Offline And Computing": 0
+    },
+    "9125": {
+      "PPD": 3
+    },
+    "9357": {
+      "Tracker": 6
+    },
+    "9761": {
+      "Trigger Coordination": 2,
+      "Offline And Computing": 2
+    },
+    "9770": {
+      "Tracker": 3
+    },
+    "9771": {
+      "Tracker": 5
+    },
+    "10212": {
+      "Offline And Computing": 2.4,
+      "Tracker": 6
+    }
+  },
+  "KOREA-UNIV": {
+    "1103": {
+      "Muon-RPC": 3
+    },
+    "1442": {
+      "Muon-RPC": 5
+    },
+    "5420": {
+      "Offline And Computing": 6.5
+    },
+    "5737": {
+      "Offline And Computing": 1
+    },
+    "6816": {
+      "Trigger Coordination": 4
+    },
+    "6990": {
+      "Muon-RPC": 10
+    },
+    "7525": {
+      "PPD": 2
+    },
+    "8621": {
+      "Muon-RPC": 5
+    },
+    "8873": {
+      "Trigger Coordination": 3,
+      "PPD": 3
+    },
+    "9612": {
+      "Offline And Computing": 0,
+      "Trigger Coordination": 1
+    },
+    "9865": {
+      "PPD": 2,
+      "Trigger Coordination": 1
+    },
+    "10275": {
+      "Offline And Computing": 0
+    },
+    "10601": {
+      "Trigger Coordination": 3,
+      "PPD": 3
+    }
+  },
+  "PUERTO_RICO": {
+    "2816": {
+      "Offline And Computing": 6
+    },
+    "5678": {
+      "Offline And Computing": 2
+    },
+    "11773": {
+      "Offline And Computing": 1.5
+    }
+  },
+  "WISCONSIN": {
+    "806": {
+      "Trigger Coordination": 0,
+      "General": 0.5
+    },
+    "811": {
+      "General": 0
+    },
+    "812": {
+      "General": 0
+    },
+    "814": {
+      "UPGRADE": 2,
+      "L1 Trigger": 2
+    },
+    "3007": {
+      "L1 Trigger": 28.5
+    },
+    "4338": {
+      "Muon-CSC": 8
+    },
+    "4454": {
+      "L1 Trigger": 16
+    },
+    "5489": {
+      "Offline And Computing": 11.7
+    },
+    "5765": {
+      "General": 0
+    },
+    "5803": {
+      "L1 Trigger": 24
+    },
+    "6078": {
+      "L1 Trigger": 4
+    },
+    "6186": {
+      "Muon-CSC": 6
+    },
+    "6324": {
+      "L1 Trigger": 4,
+      "UPGRADE": 0.5
+    },
+    "6358": {
+      "Offline And Computing": 2
+    },
+    "7275": {
+      "UPGRADE": 3
+    },
+    "7904": {
+      "Trigger Coordination": 3,
+      "Offline And Computing": 0.5
+    },
+    "8001": {
+      "Offline And Computing": 8
+    },
+    "8010": {
+      "General": 0,
+      "L1 Trigger": 4,
+      "Trigger Coordination": 2
+    },
+    "8912": {
+      "Trigger Coordination": 0
+    },
+    "9116": {
+      "Trigger Coordination": 2,
+      "L1 Trigger": 2
+    },
+    "9340": {
+      "L1 Trigger": 2
+    },
+    "9369": {
+      "General": 0,
+      "L1 Trigger": 2,
+      "Trigger Coordination": 0
+    },
+    "9474": {
+      "Offline And Computing": 7.7
+    },
+    "9529": {
+      "L1 Trigger": 4
+    },
+    "9885": {
+      "L1 Trigger": 12
+    },
+    "9908": {
+      "L1 Trigger": 24
+    },
+    "10077": {
+      "Offline And Computing": 1,
+      "Muon-CSC": 4
+    },
+    "10534": {
+      "L1 Trigger": 4
+    },
+    "10535": {
+      "L1 Trigger": 6
+    },
+    "10546": {
+      "Muon-CSC": 5
+    },
+    "10621": {
+      "L1 Trigger": 12
+    },
+    "10635": {
+      "L1 Trigger": 4
+    },
+    "10865": {
+      "L1 Trigger": 2
+    },
+    "11003": {
+      "L1 Trigger": 4
+    },
+    "11194": {
+      "Trigger Coordination": 0
+    }
+  },
+  "TEXAS-TAMU": {
+    "853": {
+      "UPGRADE": 2
+    },
+    "2448": {
+      "Muon-CSC": 12
+    },
+    "3951": {
+      "PPD": 3
+    },
+    "4677": {
+      "Muon-CSC": 6,
+      "Muon-DT": 3
+    },
+    "4947": {
+      "Tracker": 1.25
+    },
+    "5466": {
+      "UPGRADE": 0,
+      "Muon-CSC": 4,
+      "Offline And Computing": 6
+    },
+    "5501": {
+      "UPGRADE": 0
+    },
+    "5502": {
+      "UPGRADE": 0,
+      "Muon-CSC": 1
+    },
+    "7539": {
+      "Tracker": 0,
+      "General": 0,
+      "UPGRADE": 2
+    },
+    "7633": {
+      "UPGRADE": 4
+    },
+    "7788": {
+      "Offline And Computing": 0.5,
+      "PPD": 3
+    },
+    "8230": {
+      "Trigger Coordination": 1,
+      "UPGRADE": 4
+    },
+    "8686": {
+      "UPGRADE": 4
+    },
+    "9800": {
+      "Muon-CSC": 4,
+      "Muon-DT": 2
+    },
+    "9837": {
+      "Muon-DT": 0,
+      "Muon-CSC": 0
+    },
+    "9918": {
+      "UPGRADE": 4
+    },
+    "10365": {
+      "UPGRADE": 5
+    },
+    "10366": {
+      "PPD": 3
+    },
+    "10531": {
+      "Muon-DT": 2,
+      "Muon-CSC": 4
+    },
+    "11077": {
+      "UPGRADE": 3
+    }
+  },
+  "NEBRASKA": {
+    "1749": {
+      "Offline And Computing": 6
+    },
+    "4874": {
+      "Tracker": 1
+    },
+    "4878": {
+      "Offline And Computing": 3.4
+    },
+    "5095": {
+      "Offline And Computing": 4,
+      "HCAL": 3
+    },
+    "5288": {
+      "Offline And Computing": 2
+    },
+    "5629": {
+      "Offline And Computing": 3
+    },
+    "5862": {
+      "General": 0,
+      "PPD": 1
+    },
+    "6685": {
+      "Tracker": 2.1
+    },
+    "7662": {
+      "Offline And Computing": 6
+    },
+    "8072": {
+      "Tracker": 1
+    },
+    "8312": {
+      "Tracker": 4
+    },
+    "8768": {
+      "Tracker": 1,
+      "Trigger Coordination": 0
+    },
+    "8971": {
+      "Offline And Computing": 2.5
+    },
+    "9593": {
+      "Tracker": 1
+    }
+  },
+  "ROCHESTER": {
+    "788": {
+      "PPD": 1
+    },
+    "3152": {
+      "Tracker": 0.4
+    },
+    "3153": {
+      "Tracker": 0.1
+    },
+    "4823": {
+      "HCAL": 5
+    },
+    "4883": {
+      "General": 4,
+      "HCAL": 4
+    },
+    "6217": {
+      "HCAL": 3,
+      "PPD": 1
+    },
+    "6969": {
+      "PPD": 4
+    },
+    "7051": {
+      "HCAL": 0
+    },
+    "7139": {
+      "Tracker": 0.5,
+      "PPD": 3
+    },
+    "8308": {
+      "Tracker": 4,
+      "Offline And Computing": 4
+    },
+    "9673": {
+      "HCAL": 6,
+      "Offline And Computing": 0.5
+    },
+    "10011": {
+      "Tracker": 4
+    }
+  },
+  "ROMA-1": {
+    "331": {
+      "Offline And Computing": 8
+    },
+    "336": {
+      "General": 2
+    },
+    "337": {
+      "ECAL": 2,
+      "Offline And Computing": 4.4,
+      "General": 0.5
+    },
+    "1280": {
+      "General": 1.83,
+      "ECAL": 4
+    },
+    "3240": {
+      "UPGRADE": 1,
+      "Offline And Computing": 0.5,
+      "ECAL": 6
+    },
+    "3338": {
+      "ECAL": 3
+    },
+    "4324": {
+      "PPD": 0,
+      "UPGRADE": 0,
+      "ECAL": 5
+    },
+    "4651": {
+      "PPD": 1
+    },
+    "4728": {
+      "Offline And Computing": 3
+    },
+    "4864": {
+      "Offline And Computing": 2,
+      "UPGRADE": 0
+    },
+    "5215": {
+      "ECAL": 1
+    },
+    "6547": {
+      "ECAL": 0
+    },
+    "7377": {
+      "Offline And Computing": 0,
+      "ECAL": 0,
+      "General": 0.5
+    },
+    "8887": {
+      "PPD": 1,
+      "ECAL": 1
+    },
+    "10106": {
+      "PPD": 4,
+      "ECAL": 2
+    },
+    "10581": {
+      "UPGRADE": 0,
+      "ECAL": 5
+    }
+  },
+  "HAMBURG-UNIV": {
+    "4558": {
+      "Tracker": 1
+    },
+    "4834": {
+      "General": 0.5
+    },
+    "6127": {
+      "Offline And Computing": 3
+    },
+    "6297": {
+      "Offline And Computing": 5
+    },
+    "6543": {
+      "Offline And Computing": 1.5
+    },
+    "6632": {
+      "PPD": 12,
+      "Offline And Computing": 3
+    },
+    "6920": {
+      "Tracker": 3.5
+    },
+    "7265": {
+      "PPD": 4
+    },
+    "7381": {
+      "Trigger Coordination": 2.5
+    },
+    "7450": {
+      "Trigger Coordination": 4
+    },
+    "8647": {
+      "Offline And Computing": 3
+    },
+    "8715": {
+      "Offline And Computing": 0.5
+    },
+    "9034": {
+      "PPD": 2.5,
+      "Trigger Coordination": 1
+    },
+    "9224": {
+      "Tracker": 1
+    },
+    "9251": {
+      "Offline And Computing": 0.5
+    },
+    "9254": {
+      "PPD": 2,
+      "Offline And Computing": 1.5
+    },
+    "9302": {
+      "Tracker": 1
+    },
+    "9330": {
+      "Offline And Computing": 2
+    },
+    "9482": {
+      "Tracker": 1
+    },
+    "9767": {
+      "Offline And Computing": 2
+    },
+    "10054": {
+      "PPD": 6
+    },
+    "10331": {
+      "Offline And Computing": 0.5
+    },
+    "10358": {
+      "Offline And Computing": 3
+    },
+    "10423": {
+      "Offline And Computing": 3
+    },
+    "10550": {
+      "Offline And Computing": 5,
+      "Tracker": 0
+    },
+    "10647": {
+      "PPD": 2
+    },
+    "10681": {
+      "Tracker": 5.5
+    },
+    "10695": {
+      "Tracker": 1
+    },
+    "10895": {
+      "PPD": 3
+    },
+    "11045": {
+      "PPD": 6
+    }
+  },
+  "DUBNA": {
+    "351": {
+      "HCAL": 4
+    },
+    "356": {
+      "HCAL": 4
+    },
+    "358": {
+      "HCAL": 4
+    },
+    "359": {
+      "Muon-CSC": 1
+    },
+    "363": {
+      "Muon-CSC": 7
+    },
+    "368": {
+      "Offline And Computing": 5
+    },
+    "371": {
+      "HCAL": 4
+    },
+    "372": {
+      "HCAL": 0
+    },
+    "374": {
+      "Muon-CSC": 7.5
+    },
+    "375": {
+      "Muon-CSC": 6.5
+    },
+    "388": {
+      "HCAL": 2
+    },
+    "819": {
+      "HCAL": 4
+    },
+    "1827": {
+      "Offline And Computing": 4
+    },
+    "1829": {
+      "Offline And Computing": 6
+    },
+    "2634": {
+      "Offline And Computing": 6
+    },
+    "3016": {
+      "HCAL": 8
+    },
+    "3828": {
+      "Muon-CSC": 2.5
+    },
+    "3829": {
+      "Muon-CSC": 1,
+      "Offline And Computing": 5
+    },
+    "4434": {
+      "Muon-CSC": 4
+    },
+    "4440": {
+      "PPD": 1
+    },
+    "5470": {
+      "HCAL": 7
+    },
+    "6931": {
+      "HCAL": 4
+    },
+    "7213": {
+      "Offline And Computing": 3
+    },
+    "8285": {
+      "Offline And Computing": 3
+    },
+    "9310": {
+      "Muon-CSC": 3,
+      "Offline And Computing": 3
+    },
+    "11089": {
+      "Offline And Computing": 4
+    }
+  },
+  "NORTHEASTERN": {
+    "750": {
+      "General": 4
+    },
+    "2443": {
+      "Muon-CSC": 3.5,
+      "General": 0.5
+    },
+    "4687": {
+      "Offline And Computing": 1,
+      "Muon-CSC": 2
+    },
+    "5822": {
+      "ECAL": 5
+    },
+    "6170": {
+      "PPD": 4
+    },
+    "6798": {
+      "Muon-CSC": 4.5
+    },
+    "6921": {
+      "ECAL": 7.5,
+      "General": 0
+    },
+    "8507": {
+      "UPGRADE": 1,
+      "PPD": 2,
+      "Offline And Computing": 2
+    },
+    "9657": {
+      "L1 Trigger": 3.5,
+      "Muon-CSC": 0.5
+    },
+    "9689": {
+      "ECAL": 5
+    },
+    "10519": {
+      "Muon-CSC": 4,
+      "Offline And Computing": 1
+    },
+    "10679": {
+      "Muon-CSC": 0
+    }
+  },
+  "NAPOLI": {
+    "3771": {
+      "UPGRADE": 0,
+      "Muon-RPC": 3.5,
+      "General": 2.66
+    },
+    "3773": {
+      "Offline And Computing": 0.5
+    },
+    "4207": {
+      "Muon-RPC": 1
+    },
+    "4399": {
+      "Muon-RPC": 3
+    },
+    "4412": {
+      "PPD": 3.3
+    },
+    "5965": {
+      "Muon-RPC": 1
+    },
+    "6298": {
+      "Muon-RPC": 6
+    },
+    "6568": {
+      "PPD": 11
+    },
+    "6657": {
+      "Muon-RPC": 3
+    },
+    "7013": {
+      "Muon-RPC": 6
+    },
+    "8364": {
+      "Muon-RPC": 2
+    },
+    "11352": {
+      "Muon-RPC": 4
+    }
+  },
+  "BROWN-UNIV": {
+    "67": {
+      "Offline And Computing": 5
+    },
+    "2561": {
+      "General": 2,
+      "Offline And Computing": 0.5
+    },
+    "4477": {
+      "Tracker": 1.5
+    },
+    "4754": {
+      "General": 2,
+      "HCAL": 6,
+      "Offline And Computing": 0.5
+    },
+    "5870": {
+      "Offline And Computing": 5
+    },
+    "6212": {
+      "HCAL": 6
+    },
+    "6334": {
+      "UPGRADE": 0,
+      "HCAL": 0
+    },
+    "6619": {
+      "Tracker": 6
+    },
+    "7023": {
+      "General": 0.25,
+      "HCAL": 4.25
+    },
+    "8670": {
+      "Tracker": 6,
+      "PPD": 3
+    },
+    "9025": {
+      "Tracker": 6,
+      "Offline And Computing": 0.5
+    },
+    "9531": {
+      "HCAL": 4
+    },
+    "10687": {
+      "Offline And Computing": 6
+    },
+    "10728": {
+      "HCAL": 8
+    },
+    "10993": {
+      "Offline And Computing": 1
+    }
+  },
+  "KOLKATA-SAHA": {
+    "987": {
+      "HCAL": 4,
+      "Offline And Computing": 6
+    },
+    "2028": {
+      "UPGRADE": 2,
+      "Tracker": 4
+    },
+    "3190": {
+      "HCAL": 0.5,
+      "UPGRADE": 3
+    },
+    "5807": {
+      "Tracker": 3,
+      "PPD": 1
+    },
+    "8602": {
+      "HCAL": 4
+    },
+    "8999": {
+      "HCAL": 1,
+      "Offline And Computing": 3
+    },
+    "9000": {
+      "PPD": 2,
+      "UPGRADE": 2
+    },
+    "9001": {
+      "HCAL": 1
+    },
+    "9047": {
+      "Tracker": 3,
+      "UPGRADE": 1
+    },
+    "9397": {
+      "Tracker": 3,
+      "Trigger Coordination": 1
+    },
+    "9503": {
+      "Offline And Computing": 0,
+      "ECAL": 1
+    },
+    "10311": {
+      "Tracker": 0.25,
+      "PPD": 3
+    },
+    "10315": {
+      "Tracker": 3
+    },
+    "10317": {
+      "UPGRADE": 0,
+      "HCAL": 1
+    },
+    "10729": {
+      "Offline And Computing": 0
+    },
+    "10967": {
+      "Tracker": 3.25
+    },
+    "10973": {
+      "HCAL": 6
+    },
+    "10974": {
+      "HCAL": 1,
+      "UPGRADE": 0
+    },
+    "10976": {
+      "HCAL": 6
+    },
+    "11120": {
+      "Offline And Computing": 0
+    },
+    "11133": {
+      "ECAL": 0
+    }
+  },
+  "LOUVAIN": {
+    "1974": {
+      "Offline And Computing": 1.6
+    },
+    "3189": {
+      "CT-PPS": 3
+    },
+    "3501": {
+      "Tracker": 2
+    },
+    "3574": {
+      "Offline And Computing": 6.5
+    },
+    "4951": {
+      "Offline And Computing": 6.5
+    },
+    "6110": {
+      "Tracker": 4
+    },
+    "6627": {
+      "UPGRADE": 4
+    },
+    "6716": {
+      "Offline And Computing": 3
+    },
+    "6860": {
+      "Tracker": 1,
+      "PPD": 1
+    },
+    "7960": {
+      "Trigger Coordination": 1.5,
+      "Offline And Computing": 0.5
+    },
+    "8142": {
+      "Offline And Computing": 3
+    },
+    "8239": {
+      "Offline And Computing": 3
+    },
+    "8274": {
+      "Tracker": 2,
+      "CT-PPS": 3
+    },
+    "8559": {
+      "PPD": 4
+    },
+    "8630": {
+      "PPD": 3,
+      "Offline And Computing": 1
+    },
+    "9259": {
+      "General": 0,
+      "PPD": 0,
+      "Offline And Computing": 0
+    },
+    "9881": {
+      "Offline And Computing": 3
+    },
+    "10240": {
+      "PPD": 3,
+      "Offline And Computing": 1
+    },
+    "10381": {
+      "Tracker": 3
+    },
+    "10432": {
+      "Offline And Computing": 3
+    },
+    "10886": {
+      "PPD": 3,
+      "Offline And Computing": 2
+    },
+    "11215": {
+      "Offline And Computing": 3
+    }
+  },
+  "MIT": {
+    "1513": {
+      "Offline And Computing": 4
+    },
+    "3315": {
+      "General": 1,
+      "L1 Trigger": 1
+    },
+    "3766": {
+      "Trigger Coordination": 2
+    },
+    "4750": {
+      "General": 0.5
+    },
+    "5299": {
+      "DAQ": 0
+    },
+    "5434": {
+      "Offline And Computing": 6
+    },
+    "5776": {
+      "Trigger Coordination": 0,
+      "PPD": 1
+    },
+    "5786": {
+      "PPD": 0
+    },
+    "5853": {
+      "UPGRADE": 4,
+      "HCAL": 1
+    },
+    "6134": {
+      "L1 Trigger": 2
+    },
+    "6752": {
+      "L1 Trigger": 9
+    },
+    "6834": {
+      "Offline And Computing": 0
+    },
+    "7048": {
+      "Offline And Computing": 12
+    },
+    "7545": {
+      "PPD": 1,
+      "Offline And Computing": 3.9
+    },
+    "8448": {
+      "DAQ": 6
+    },
+    "8578": {
+      "PPD": 3
+    },
+    "8663": {
+      "Offline And Computing": 4
+    },
+    "8668": {
+      "Offline And Computing": 6
+    },
+    "8958": {
+      "PPD": 3,
+      "Offline And Computing": 2
+    },
+    "9090": {
+      "Offline And Computing": 4
+    },
+    "9104": {
+      "Offline And Computing": 3
+    },
+    "9252": {
+      "PPD": 1,
+      "Offline And Computing": 2,
+      "L1 Trigger": 4
+    },
+    "9928": {
+      "DAQ": 12
+    },
+    "10121": {
+      "Offline And Computing": 4
+    },
+    "10150": {
+      "HCAL": 6
+    },
+    "10338": {
+      "HCAL": 6
+    },
+    "10339": {
+      "Trigger Coordination": 6
+    },
+    "10343": {
+      "Offline And Computing": 4
+    },
+    "10395": {
+      "HCAL": 6
+    },
+    "10574": {
+      "Trigger Coordination": 3,
+      "L1 Trigger": 5.5
+    },
+    "10899": {
+      "Offline And Computing": 4
+    },
+    "11025": {
+      "Offline And Computing": 0
+    },
+    "11028": {
+      "Trigger Coordination": 1
+    },
+    "11117": {
+      "DAQ": 4
+    }
+  },
+  "PISA": {
+    "309": {
+      "Offline And Computing": 7
+    },
+    "317": {
+      "Tracker": 0.5
+    },
+    "321": {
+      "Tracker": 0.5
+    },
+    "329": {
+      "Tracker": 6,
+      "ECAL": 2
+    },
+    "924": {
+      "Tracker": 4
+    },
+    "925": {
+      "PPD": 3
+    },
+    "926": {
+      "Tracker": 0.2
+    },
+    "927": {
+      "UPGRADE": 0.5,
+      "Tracker": 0.5
+    },
+    "1059": {
+      "General": 4
+    },
+    "1411": {
+      "Tracker": 1.3
+    },
+    "1759": {
+      "Tracker": 1
+    },
+    "3294": {
+      "Tracker": 0.5,
+      "Offline And Computing": 10.4
+    },
+    "3800": {
+      "Tracker": 0.5,
+      "Offline And Computing": 6
+    },
+    "6705": {
+      "Tracker": 0.25,
+      "Trigger Coordination": 3.5,
+      "UPGRADE": 1
+    },
+    "7111": {
+      "Tracker": 1
+    },
+    "8562": {
+      "UPGRADE": 0,
+      "Tracker": 0.7,
+      "Offline And Computing": 0.5
+    },
+    "8806": {
+      "Tracker": 0.5
+    },
+    "9140": {
+      "UPGRADE": 1
+    },
+    "9159": {
+      "Offline And Computing": 0.5,
+      "Trigger Coordination": 8
+    },
+    "9161": {
+      "Offline And Computing": 7
+    },
+    "9170": {
+      "UPGRADE": 0,
+      "Offline And Computing": 0.5,
+      "Tracker": 1.3
+    },
+    "11240": {
+      "Tracker": 0.2
+    }
+  },
+  "LYON": {
+    "119": {
+      "General": 4
+    },
+    "120": {
+      "ECAL": 4
+    },
+    "129": {
+      "Muon-RPC": 2,
+      "Tracker": 0
+    },
+    "1438": {
+      "ECAL": 10
+    },
+    "1534": {
+      "Tracker": 3
+    },
+    "2525": {
+      "Offline And Computing": 2
+    },
+    "2533": {
+      "PPD": 1
+    },
+    "2756": {
+      "Offline And Computing": 4
+    },
+    "2908": {
+      "Tracker": 0.5,
+      "Muon-RPC": 3
+    },
+    "4722": {
+      "Tracker": 2
+    },
+    "4726": {
+      "Trigger Coordination": 3,
+      "Offline And Computing": 3.5
+    },
+    "4921": {
+      "Trigger Coordination": 2
+    },
+    "4922": {
+      "PPD": 4,
+      "Tracker": 6
+    },
+    "5115": {
+      "Offline And Computing": 4
+    },
+    "5443": {
+      "ECAL": 0,
+      "Trigger Coordination": 2
+    },
+    "5512": {
+      "PPD": 3,
+      "Offline And Computing": 2
+    },
+    "6348": {
+      "Offline And Computing": 4.5
+    },
+    "7022": {
+      "PPD": 3
+    },
+    "7250": {
+      "Tracker": 0.5
+    },
+    "7473": {
+      "Tracker": 1,
+      "Offline And Computing": 1,
+      "General": 0.25,
+      "Muon-RPC": 3
+    },
+    "7960": {
+      "Trigger Coordination": 0.5
+    },
+    "8138": {
+      "Tracker": 7.25
+    },
+    "9662": {
+      "Muon-RPC": 4
+    },
+    "9997": {
+      "Trigger Coordination": 2
+    },
+    "10386": {
+      "Muon-RPC": 2.5
+    },
+    "10397": {
+      "PPD": 5
+    },
+    "10404": {
+      "PPD": 3
+    },
+    "10642": {
+      "Muon-RPC": 8
+    },
+    "10751": {
+      "Tracker": 0.5
+    }
+  },
+  "BEIJING-IHEP": {
+    "2500": {
+      "Offline And Computing": 3.5
+    },
+    "3250": {
+      "Offline And Computing": 5.8
+    },
+    "3333": {
+      "UPGRADE": 2
+    },
+    "5338": {
+      "Trigger Coordination": 0
+    },
+    "5339": {
+      "General": 1
+    },
+    "6028": {
+      "Offline And Computing": 0
+    },
+    "6278": {
+      "General": 0
+    },
+    "6545": {
+      "Offline And Computing": 2
+    },
+    "8456": {
+      "UPGRADE": 2
+    },
+    "8781": {
+      "PPD": 1.5,
+      "Trigger Coordination": 1
+    },
+    "9861": {
+      "Offline And Computing": 5
+    },
+    "9863": {
+      "Muon-CSC": 6
+    },
+    "9927": {
+      "L1 Trigger": 7
+    },
+    "9940": {
+      "UPGRADE": 0
+    },
+    "10009": {
+      "L1 Trigger": 7.2
+    },
+    "10014": {
+      "L1 Trigger": 4.8
+    },
+    "10257": {
+      "Offline And Computing": 1
+    },
+    "10981": {
+      "ECAL": 0
+    },
+    "11200": {
+      "Offline And Computing": 0,
+      "PPD": 0
+    },
+    "11799": {
+      "PPD": 0.5
+    }
+  },
+  "CHICAGO": {
+    "2864": {
+      "Offline And Computing": 0.5,
+      "Tracker": 0.5
+    },
+    "3438": {
+      "L1 Trigger": 4
+    },
+    "5496": {
+      "L1 Trigger": 6.6
+    },
+    "5510": {
+      "UPGRADE": 0,
+      "L1 Trigger": 1.2
+    },
+    "6009": {
+      "General": 0.5,
+      "PPD": 0,
+      "Tracker": 0
+    },
+    "6797": {
+      "Tracker": 2.5
+    },
+    "7084": {
+      "PPD": 0
+    },
+    "8525": {
+      "Trigger Coordination": 0
+    },
+    "8732": {
+      "Tracker": 0.5,
+      "Offline And Computing": 0
+    },
+    "9395": {
+      "Trigger Coordination": 2,
+      "Tracker": 1,
+      "Offline And Computing": 0.5
+    },
+    "10021": {
+      "Offline And Computing": 6,
+      "L1 Trigger": 2
+    },
+    "10608": {
+      "Tracker": 2
+    },
+    "10655": {
+      "Trigger Coordination": 4,
+      "L1 Trigger": 6
+    },
+    "10712": {
+      "Tracker": 0.5
+    },
+    "11212": {
+      "L1 Trigger": 6
+    },
+    "11307": {
+      "Trigger Coordination": 4
+    }
+  },
+  "MINSK-NCPHEP": {
+    "17": {
+      "Muon-CSC": 0
+    },
+    "22": {
+      "HCAL": 0
+    },
+    "25": {
+      "HCAL": 0
+    },
+    "26": {
+      "HCAL": 0
+    }
+  },
+  "SOFIA-INRNE": {
+    "58": {
+      "Muon-RPC": 3,
+      "UPGRADE": 2
+    },
+    "62": {
+      "Muon-RPC": 2
+    },
+    "67": {
+      "Offline And Computing": 4
+    },
+    "4608": {
+      "UPGRADE": 2
+    },
+    "5011": {
+      "Muon-RPC": 4
+    },
+    "7057": {
+      "Offline And Computing": 2,
+      "Muon-RPC": 5,
+      "UPGRADE": 1
+    },
+    "7620": {
+      "Muon-RPC": 4
+    },
+    "8226": {
+      "Muon-RPC": 2
+    },
+    "9181": {
+      "Muon-RPC": 19
+    }
+  },
+  "IOWA": {
+    "151": {
+      "HCAL": 3,
+      "UPGRADE": 0
+    },
+    "702": {
+      "HCAL": 3
+    },
+    "703": {
+      "UPGRADE": 0,
+      "General": 0,
+      "HCAL": 3
+    },
+    "1593": {
+      "CT-PPS": 0,
+      "HCAL": 0,
+      "UPGRADE": 0
+    },
+    "2732": {
+      "HCAL": 6
+    },
+    "3129": {
+      "UPGRADE": 0
+    },
+    "3507": {
+      "HCAL": 10
+    },
+    "4644": {
+      "UPGRADE": 0,
+      "HCAL": 0
+    },
+    "4890": {
+      "UPGRADE": 1,
+      "HCAL": 0,
+      "CT-PPS": 0
+    },
+    "5059": {
+      "HCAL": 0.7
+    },
+    "5100": {
+      "Tracker": 4,
+      "Trigger Coordination": 0
+    },
+    "5373": {
+      "CT-PPS": 2,
+      "HCAL": 0
+    },
+    "5817": {
+      "HCAL": 1,
+      "CT-PPS": 1
+    },
+    "6251": {
+      "Trigger Coordination": 2.5,
+      "HCAL": 1
+    },
+    "6748": {
+      "Tracker": 0.25,
+      "Trigger Coordination": 1
+    },
+    "6768": {
+      "HCAL": 4,
+      "Trigger Coordination": 0
+    },
+    "6769": {
+      "UPGRADE": 0,
+      "HCAL": 1
+    },
+    "6901": {
+      "HCAL": 0
+    },
+    "8325": {
+      "HCAL": 0
+    },
+    "8596": {
+      "Tracker": 1.5,
+      "UPGRADE": 0
+    },
+    "9087": {
+      "Tracker": 0
+    },
+    "9093": {
+      "UPGRADE": 0
+    },
+    "9095": {
+      "Tracker": 0.25,
+      "UPGRADE": 0,
+      "HCAL": 0
+    },
+    "9225": {
+      "HCAL": 0
+    },
+    "9719": {
+      "HCAL": 11
+    },
+    "9743": {
+      "HCAL": 8.5
+    },
+    "10057": {
+      "Offline And Computing": 0.5,
+      "UPGRADE": 0,
+      "HCAL": 0
+    },
+    "10094": {
+      "HCAL": 0,
+      "CT-PPS": 1,
+      "Trigger Coordination": 2
+    },
+    "10148": {
+      "HCAL": 0,
+      "UPGRADE": 0
+    },
+    "10289": {
+      "UPGRADE": 1
+    }
+  },
+  "ANTWERPEN": {
+    "1380": {
+      "HCAL": 7
+    },
+    "5468": {
+      "General": 2
+    },
+    "6371": {
+      "HCAL": 4
+    },
+    "6897": {
+      "Offline And Computing": 3,
+      "Trigger Coordination": 0
+    },
+    "8198": {
+      "Tracker": 0,
+      "Offline And Computing": 0.5,
+      "PPD": 1
+    },
+    "8200": {
+      "Offline And Computing": 3,
+      "PPD": 2
+    },
+    "8952": {
+      "Offline And Computing": 2
+    },
+    "9588": {
+      "Trigger Coordination": 3,
+      "UPGRADE": 1
+    },
+    "9857": {
+      "Offline And Computing": 2,
+      "HCAL": 2
+    }
+  },
+  "SEOUL-SNU": {
+    "6936": {
+      "Offline And Computing": 1,
+      "PPD": 2
+    },
+    "10117": {
+      "UPGRADE": 1
+    },
+    "10228": {
+      "UPGRADE": 1
+    },
+    "10295": {
+      "UPGRADE": 0
+    },
+    "10332": {
+      "Offline And Computing": 2,
+      "UPGRADE": 3
+    },
+    "10334": {
+      "UPGRADE": 4
+    },
+    "10364": {
+      "UPGRADE": 4
+    },
+    "10566": {
+      "UPGRADE": 0,
+      "Offline And Computing": 0
+    },
+    "10896": {
+      "PPD": 2,
+      "Trigger Coordination": 3
+    },
+    "10897": {
+      "UPGRADE": 0
+    },
+    "10953": {
+      "PPD": 1,
+      "Trigger Coordination": 2
+    }
+  },
+  "TRIESTE": {
+    "311": {
+      "Offline And Computing": 14
+    },
+    "5071": {
+      "General": 0.5
+    },
+    "5083": {
+      "Tracker": 0
+    },
+    "8628": {
+      "PPD": 3,
+      "Offline And Computing": 1
+    },
+    "8841": {
+      "Tracker": 0.5
+    }
+  },
+  "HEPHY": {
+    "13": {
+      "General": 0.5,
+      "L1 Trigger": 3
+    },
+    "1344": {
+      "L1 Trigger": 9
+    },
+    "1522": {
+      "Tracker": 1
+    },
+    "3278": {
+      "L1 Trigger": 4
+    },
+    "3623": {
+      "Tracker": 0
+    },
+    "4166": {
+      "Tracker": 12
+    },
+    "4735": {
+      "L1 Trigger": 5
+    },
+    "5035": {
+      "Tracker": 2
+    },
+    "5050": {
+      "L1 Trigger": 1
+    },
+    "5937": {
+      "Offline And Computing": 3.85
+    },
+    "6751": {
+      "Offline And Computing": 3.85
+    },
+    "6932": {
+      "L1 Trigger": 2
+    },
+    "7975": {
+      "L1 Trigger": 6
+    },
+    "8094": {
+      "L1 Trigger": 8,
+      "Trigger Coordination": 1
+    },
+    "9876": {
+      "L1 Trigger": 3
+    },
+    "9952": {
+      "Offline And Computing": 6
+    },
+    "10260": {
+      "Offline And Computing": 7
+    },
+    "10450": {
+      "Tracker": 4
+    },
+    "10529": {
+      "PPD": 1,
+      "Offline And Computing": 3
+    },
+    "10560": {
+      "Trigger Coordination": 2,
+      "L1 Trigger": 2.5
+    },
+    "10980": {
+      "L1 Trigger": 3,
+      "PPD": 3
+    },
+    "11201": {
+      "Tracker": 2
+    },
+    "11235": {
+      "L1 Trigger": 0
+    }
+  },
+  "KARLSRUHE-IEKP": {
+    "2929": {
+      "General": 4
+    },
+    "3064": {
+      "Tracker": 1
+    },
+    "3341": {
+      "Offline And Computing": 3
+    },
+    "3953": {
+      "Offline And Computing": 1
+    },
+    "4364": {
+      "Tracker": 2
+    },
+    "5165": {
+      "Offline And Computing": 3
+    },
+    "5447": {
+      "Tracker": 12
+    },
+    "6367": {
+      "PPD": 1,
+      "HCAL": 4
+    },
+    "6422": {
+      "Tracker": 3
+    },
+    "6426": {
+      "Offline And Computing": 0
+    },
+    "6543": {
+      "Offline And Computing": 4
+    },
+    "6572": {
+      "Offline And Computing": 6
+    },
+    "6826": {
+      "Tracker": 3.5
+    },
+    "7597": {
+      "PPD": 3,
+      "Offline And Computing": 3
+    },
+    "7672": {
+      "Offline And Computing": 6
+    },
+    "7735": {
+      "Tracker": 11
+    },
+    "7969": {
+      "Offline And Computing": 3
+    },
+    "8359": {
+      "HCAL": 4
+    },
+    "8702": {
+      "Tracker": 1
+    },
+    "8708": {
+      "PPD": 1
+    },
+    "8775": {
+      "HCAL": 4.5
+    },
+    "8918": {
+      "HCAL": 4
+    },
+    "8985": {
+      "HCAL": 4,
+      "Offline And Computing": 1
+    },
+    "8988": {
+      "BRIL": 0
+    },
+    "9028": {
+      "General": 0,
+      "PPD": 2
+    },
+    "9194": {
+      "PPD": 2
+    },
+    "9256": {
+      "Offline And Computing": 2
+    },
+    "9313": {
+      "PPD": 1.5
+    },
+    "9315": {
+      "Offline And Computing": 2
+    },
+    "9327": {
+      "PPD": 3
+    },
+    "9785": {
+      "Tracker": 3.5
+    },
+    "9989": {
+      "HCAL": 4
+    },
+    "10034": {
+      "Offline And Computing": 4.5
+    },
+    "10083": {
+      "Tracker": 3
+    },
+    "10261": {
+      "BRIL": 2
+    },
+    "10406": {
+      "BRIL": 9
+    },
+    "10438": {
+      "Offline And Computing": 4
+    },
+    "10562": {
+      "Offline And Computing": 3
+    },
+    "10962": {
+      "Tracker": 1
+    }
+  },
+  "TORINO": {
+    "1533": {
+      "Muon-DT": 6
+    },
+    "1710": {
+      "General": 0.5,
+      "CT-PPS": 1
+    },
+    "1713": {
+      "Tracker": 0.5
+    },
+    "1714": {
+      "Muon-DT": 6
+    },
+    "1718": {
+      "Muon-DT": 3
+    },
+    "1721": {
+      "Tracker": 0.3,
+      "CT-PPS": 3
+    },
+    "1981": {
+      "PPD": 2,
+      "Tracker": 2
+    },
+    "2307": {
+      "Tracker": 0.5
+    },
+    "2578": {
+      "ECAL": 4
+    },
+    "2704": {
+      "PPD": 2,
+      "Muon-DT": 4
+    },
+    "3230": {
+      "Muon-DT": 1
+    },
+    "3536": {
+      "CT-PPS": 4
+    },
+    "4040": {
+      "ECAL": 3,
+      "CT-PPS": 2
+    },
+    "4064": {
+      "Trigger Coordination": 0,
+      "ECAL": 2.5
+    },
+    "4092": {
+      "CT-PPS": 0,
+      "General": 1
+    },
+    "4519": {
+      "Trigger Coordination": 4,
+      "ECAL": 2,
+      "CT-PPS": 0
+    },
+    "4602": {
+      "Offline And Computing": 3
+    },
+    "5012": {
+      "ECAL": 6
+    },
+    "5959": {
+      "PPD": 1,
+      "Offline And Computing": 5
+    },
+    "6155": {
+      "Tracker": 3,
+      "PPD": 5
+    },
+    "6497": {
+      "Offline And Computing": 0.5,
+      "L1 Trigger": 1
+    },
+    "7987": {
+      "ECAL": 2
+    },
+    "9081": {
+      "Tracker": 1.2
+    },
+    "9296": {
+      "Muon-DT": 3
+    },
+    "9297": {
+      "Muon-DT": 3
+    },
+    "9407": {
+      "Tracker": 0,
+      "PPD": 3
+    },
+    "9480": {
+      "Muon-DT": 3,
+      "L1 Trigger": 2
+    },
+    "9481": {
+      "Muon-DT": 3
+    },
+    "9616": {
+      "Tracker": 0.3,
+      "CT-PPS": 4
+    },
+    "9832": {
+      "Tracker": 1.3
+    },
+    "10296": {
+      "Muon-DT": 4
+    }
+  },
+  "CERN": {
+    "513": {
+      "UPGRADE": 4
+    },
+    "573": {
+      "UPGRADE": 2,
+      "Tracker": 1
+    },
+    "719": {
+      "General": 4
+    },
+    "871": {
+      "ECAL": 2.5,
+      "Run Coordination": 1
+    },
+    "874": {
+      "UPGRADE": 2,
+      "General": 0.5
+    },
+    "886": {
+      "UPGRADE": 5
+    },
+    "887": {
+      "ECAL": 1,
+      "General": 4,
+      "DAQ": 4
+    },
+    "899": {
+      "BRIL": 1
+    },
+    "901": {
+      "Tracker": 0
+    },
+    "904": {
+      "Tracker": 2.5
+    },
+    "908": {
+      "DAQ": 12
+    },
+    "912": {
+      "General": 10
+    },
+    "921": {
+      "Tracker": 3
+    },
+    "951": {
+      "Tracker": 1
+    },
+    "1060": {
+      "Tracker": 2
+    },
+    "1062": {
+      "DAQ": 11
+    },
+    "1086": {
+      "General": 2.66
+    },
+    "1111": {
+      "Tracker": 1.3
+    },
+    "1162": {
+      "ECAL": 2,
+      "Tracker": 5
+    },
+    "1195": {
+      "General": 4,
+      "DAQ": 7
+    },
+    "1198": {
+      "Tracker": 1,
+      "DAQ": 3
+    },
+    "1219": {
+      "Tracker": 0.5
+    },
+    "1475": {
+      "DAQ": 0
+    },
+    "1758": {
+      "DAQ": 8
+    },
+    "1786": {
+      "PPD": 10,
+      "Offline And Computing": 12
+    },
+    "1889": {
+      "General": 4
+    },
+    "1948": {
+      "Tracker": 1
+    },
+    "2005": {
+      "DAQ": 12
+    },
+    "2029": {
+      "DAQ": 4.5
+    },
+    "2410": {
+      "UPGRADE": 0
+    },
+    "2451": {
+      "ECAL": 7
+    },
+    "2586": {
+      "Tracker": 2
+    },
+    "2636": {
+      "Tracker": 1
+    },
+    "2699": {
+      "PPD": 4
+    },
+    "2705": {
+      "DAQ": 8
+    },
+    "2790": {
+      "General": 0.5
+    },
+    "2851": {
+      "Offline And Computing": 0.5
+    },
+    "2969": {
+      "General": 4,
+      "DAQ": 2
+    },
+    "3013": {
+      "UPGRADE": 5
+    },
+    "3018": {
+      "General": 4
+    },
+    "3040": {
+      "PPD": 6
+    },
+    "3220": {
+      "Offline And Computing": 4
+    },
+    "3286": {
+      "DAQ": 8
+    },
+    "3464": {
+      "General": 0,
+      "PPD": 2,
+      "UPGRADE": 2.5
+    },
+    "3545": {
+      "DAQ": 12
+    },
+    "3580": {
+      "General": 4
+    },
+    "3778": {
+      "PPD": 7
+    },
+    "3795": {
+      "PPD": 1
+    },
+    "3892": {
+      "Trigger Coordination": 12
+    },
+    "3984": {
+      "General": 4
+    },
+    "3988": {
+      "DAQ": 3
+    },
+    "4379": {
+      "ECAL": 1
+    },
+    "4583": {
+      "General": 4
+    },
+    "4713": {
+      "Tracker": 3.5
+    },
+    "5057": {
+      "DAQ": 9
+    },
+    "5073": {
+      "Tracker": 1
+    },
+    "5284": {
+      "PPD": 4
+    },
+    "5361": {
+      "Offline And Computing": 0.5
+    },
+    "5397": {
+      "DAQ": 9.5
+    },
+    "5428": {
+      "General": 0.5
+    },
+    "5539": {
+      "PPD": 1,
+      "Tracker": 1,
+      "Offline And Computing": 2
+    },
+    "5580": {
+      "General": 4
+    },
+    "5645": {
+      "PPD": 2
+    },
+    "5745": {
+      "General": 0,
+      "ECAL": 2
+    },
+    "5746": {
+      "BRIL": 2
+    },
+    "5790": {
+      "ECAL": 1
+    },
+    "5868": {
+      "PPD": 11.76,
+      "Trigger Coordination": 12
+    },
+    "5905": {
+      "Tracker": 2
+    },
+    "5916": {
+      "UPGRADE": 3
+    },
+    "6047": {
+      "PPD": 12
+    },
+    "6087": {
+      "ECAL": 5
+    },
+    "6088": {
+      "Offline And Computing": 0.5
+    },
+    "6120": {
+      "Tracker": 4
+    },
+    "6121": {
+      "Muon-DT": 9
+    },
+    "6164": {
+      "Offline And Computing": 2,
+      "PPD": 2
+    },
+    "6218": {
+      "PPD": 1
+    },
+    "6307": {
+      "PPD": 4
+    },
+    "6415": {
+      "Offline And Computing": 2,
+      "PPD": 6
+    },
+    "6463": {
+      "UPGRADE": 1,
+      "ECAL": 4
+    },
+    "6487": {
+      "Offline And Computing": 0
+    },
+    "6609": {
+      "Offline And Computing": 5,
+      "PPD": 3
+    },
+    "6713": {
+      "ECAL": 2,
+      "Offline And Computing": 7
+    },
+    "7153": {
+      "Offline And Computing": 6
+    },
+    "7372": {
+      "DAQ": 10
+    },
+    "7568": {
+      "UPGRADE": 3
+    },
+    "7624": {
+      "Tracker": 1
+    },
+    "7800": {
+      "PPD": 1
+    },
+    "8265": {
+      "BRIL": 6
+    },
+    "8318": {
+      "DAQ": 9
+    },
+    "8515": {
+      "L1 Trigger": 4
+    },
+    "8546": {
+      "General": 4
+    },
+    "8614": {
+      "ECAL": 2
+    },
+    "8648": {
+      "General": 4
+    },
+    "9037": {
+      "BRIL": 6
+    },
+    "9381": {
+      "BRIL": 4
+    },
+    "9813": {
+      "Tracker": 2.5
+    },
+    "9981": {
+      "DAQ": 4
+    },
+    "10051": {
+      "PPD": 4
+    },
+    "10485": {
+      "Trigger Coordination": 12
+    },
+    "10548": {
+      "Tracker": 2
+    },
+    "10587": {
+      "Tracker": 5
+    },
+    "10983": {
+      "DAQ": 4
+    },
+    "11034": {
+      "PPD": 12
+    },
+    "11156": {
+      "General": 6
+    },
+    "11197": {
+      "Tracker": 10
+    },
+    "11231": {
+      "BRIL": 2
+    },
+    "11243": {
+      "Tracker": 6
+    },
+    "11253": {
+      "Tracker": 5
+    }
+  },
+  "KHARKOV-ISMA": {
+    "2252": {
+      "HCAL": 4
+    },
+    "10475": {
+      "HCAL": 4
+    },
+    "10487": {
+      "HCAL": 4
+    }
+  },
+  "KANSAS-UNIV": {
+    "3492": {
+      "Tracker": 5,
+      "Offline And Computing": 1
+    },
+    "3820": {
+      "HCAL": 5
+    },
+    "5203": {
+      "Tracker": 1.5
+    },
+    "6143": {
+      "PPD": 2,
+      "Offline And Computing": 0
+    },
+    "6444": {
+      "Offline And Computing": 4
+    },
+    "7878": {
+      "PPD": 4,
+      "Trigger Coordination": 0
+    },
+    "9144": {
+      "Tracker": 3
+    },
+    "9158": {
+      "CT-PPS": 0.5,
+      "HCAL": 3.5
+    },
+    "9176": {
+      "HCAL": 2,
+      "CT-PPS": 0.5
+    },
+    "9358": {
+      "HCAL": 4,
+      "PPD": 2
+    },
+    "9510": {
+      "HCAL": 0
+    },
+    "9816": {
+      "Tracker": 4,
+      "PPD": 6
+    },
+    "9817": {
+      "HCAL": 3
+    },
+    "9948": {
+      "Tracker": 0
+    },
+    "10104": {
+      "Tracker": 2
+    },
+    "10557": {
+      "Trigger Coordination": 2,
+      "PPD": 2
+    },
+    "10773": {
+      "Tracker": 1,
+      "PPD": 2
+    },
+    "10963": {
+      "PPD": 3,
+      "Trigger Coordination": 2
+    }
+  },
+  "BANGKOK": {
+    "4575": {
+      "PPD": 7,
+      "Offline And Computing": 1.5
+    },
+    "7198": {
+      "Offline And Computing": 2,
+      "PPD": 2
+    },
+    "8405": {
+      "Offline And Computing": 0.5
+    },
+    "8860": {
+      "Offline And Computing": 1.6
+    },
+    "9014": {
+      "PPD": 2
+    },
+    "9304": {
+      "Offline And Computing": 1.5
+    }
+  },
+  "COLORADO": {
+    "5330": {
+      "Offline And Computing": 2,
+      "General": 0.5
+    },
+    "5335": {
+      "Tracker": 0.1
+    },
+    "5336": {
+      "Tracker": 1
+    },
+    "5354": {
+      "General": 0.5,
+      "Tracker": 6
+    },
+    "8784": {
+      "Tracker": 3,
+      "Offline And Computing": 4
+    },
+    "8880": {
+      "Offline And Computing": 2
+    },
+    "8882": {
+      "PPD": 2
+    },
+    "10215": {
+      "Tracker": 1.3
+    },
+    "11662": {
+      "Tracker": 1
+    }
+  },
+  "UCDAVIS": {
+    "620": {
+      "General": 0.5,
+      "Muon-CSC": 1
+    },
+    "625": {
+      "Offline And Computing": 0.5
+    },
+    "1871": {
+      "Tracker": 1,
+      "General": 1
+    },
+    "2024": {
+      "Muon-CSC": 12
+    },
+    "3054": {
+      "UPGRADE": 1,
+      "ECAL": 0,
+      "Muon-CSC": 0.5
+    },
+    "3644": {
+      "Tracker": 1.5
+    },
+    "4846": {
+      "UPGRADE": 0,
+      "Muon-CSC": 2
+    },
+    "5316": {
+      "Run Coordination": 3
+    },
+    "5828": {
+      "Tracker": 4
+    },
+    "6478": {
+      "PPD": 0,
+      "General": 3
+    },
+    "8026": {
+      "Trigger Coordination": 0
+    },
+    "8494": {
+      "Offline And Computing": 0.5,
+      "Tracker": 5.5
+    },
+    "8786": {
+      "L1 Trigger": 4
+    },
+    "8929": {
+      "Trigger Coordination": 0
+    },
+    "8936": {
+      "Offline And Computing": 4
+    },
+    "9142": {
+      "Muon-CSC": 3,
+      "Trigger Coordination": 0,
+      "Offline And Computing": 0.5
+    },
+    "9835": {
+      "Trigger Coordination": 2.5
+    },
+    "10156": {
+      "L1 Trigger": 3
+    },
+    "10179": {
+      "Muon-CSC": 6
+    },
+    "10385": {
+      "Tracker": 4
+    },
+    "10449": {
+      "L1 Trigger": 3
+    },
+    "11195": {
+      "L1 Trigger": 4
+    }
+  },
+  "ROCKEFELLER": {
+    "5641": {
+      "CT-PPS": 0
+    },
+    "7765": {
+      "CT-PPS": 0,
+      "HCAL": 2
+    }
+  },
+  "RUTGERS": {
+    "1648": {
+      "BRIL": 1
+    },
+    "1870": {
+      "BRIL": 3
+    },
+    "1946": {
+      "Tracker": 2
+    },
+    "3168": {
+      "HCAL": 0.2
+    },
+    "3950": {
+      "BRIL": 1
+    },
+    "5613": {
+      "Offline And Computing": 3.5
+    },
+    "6974": {
+      "HCAL": 3
+    },
+    "7386": {
+      "PPD": 6,
+      "Offline And Computing": 0.5
+    },
+    "8060": {
+      "HCAL": 4,
+      "PPD": 2
+    },
+    "8724": {
+      "Offline And Computing": 2,
+      "Trigger Coordination": 0.5,
+      "BRIL": 3
+    },
+    "8846": {
+      "PPD": 3
+    },
+    "8925": {
+      "Offline And Computing": 1,
+      "Tracker": 6
+    },
+    "8991": {
+      "HCAL": 5
+    },
+    "9976": {
+      "PPD": 4.5
+    },
+    "10044": {
+      "Trigger Coordination": 3
+    },
+    "10992": {
+      "HCAL": 0.5
+    }
+  },
+  "SPLIT-UNIV": {
+    "88": {
+      "Offline And Computing": 0
+    },
+    "7937": {
+      "PPD": 0,
+      "Offline And Computing": 0
+    }
+  },
+  "MARYLAND": {
+    "718": {
+      "HCAL": 0
+    },
+    "720": {
+      "HCAL": 0
+    },
+    "721": {
+      "UPGRADE": 1,
+      "HCAL": 8
+    },
+    "723": {
+      "General": 0,
+      "HCAL": 1
+    },
+    "727": {
+      "HCAL": 3
+    },
+    "3026": {
+      "HCAL": 6
+    },
+    "4821": {
+      "HCAL": 6
+    },
+    "5521": {
+      "HCAL": 6
+    },
+    "5923": {
+      "HCAL": 4
+    },
+    "5953": {
+      "HCAL": 4
+    },
+    "7267": {
+      "PPD": 2
+    },
+    "9334": {
+      "HCAL": 4
+    },
+    "9712": {
+      "PPD": 6
+    },
+    "9844": {
+      "PPD": 1,
+      "HCAL": 9
+    },
+    "9941": {
+      "HCAL": 1
+    },
+    "10063": {
+      "HCAL": 4
+    },
+    "10281": {
+      "HCAL": 6
+    }
+  },
+  "TEXAS-TECH": {
+    "700": {
+      "HCAL": 2,
+      "UPGRADE": 2
+    },
+    "725": {
+      "HCAL": 4
+    },
+    "2583": {
+      "HCAL": 1,
+      "PPD": 3
+    },
+    "5500": {
+      "Offline And Computing": 0.5,
+      "HCAL": 2
+    },
+    "5537": {
+      "PPD": 1,
+      "HCAL": 1.3,
+      "General": 1
+    },
+    "5806": {
+      "HCAL": 3,
+      "General": 1
+    },
+    "6166": {
+      "HCAL": 0.5
+    },
+    "8595": {
+      "HCAL": 3.5
+    },
+    "9659": {
+      "HCAL": 1.5,
+      "PPD": 2
+    },
+    "9695": {
+      "HCAL": 2
+    },
+    "10420": {
+      "HCAL": 3.5
+    },
+    "11090": {
+      "HCAL": 3.5,
+      "PPD": 2
+    }
+  },
+  "POLYTECHNIQUE": {
+    "134": {
+      "UPGRADE": 2,
+      "Offline And Computing": 3
+    },
+    "135": {
+      "Offline And Computing": 1,
+      "PPD": 1,
+      "UPGRADE": 1
+    },
+    "1451": {
+      "L1 Trigger": 1.5
+    },
+    "2683": {
+      "ECAL": 3,
+      "L1 Trigger": 6,
+      "UPGRADE": 2
+    },
+    "4091": {
+      "UPGRADE": 2,
+      "Offline And Computing": 3
+    },
+    "4200": {
+      "ECAL": 3
+    },
+    "4209": {
+      "Offline And Computing": 2,
+      "UPGRADE": 0
+    },
+    "4534": {
+      "Offline And Computing": 1,
+      "PPD": 2
+    },
+    "4918": {
+      "Offline And Computing": 1.5
+    },
+    "4952": {
+      "ECAL": 8,
+      "L1 Trigger": 2
+    },
+    "6148": {
+      "Offline And Computing": 24
+    },
+    "6351": {
+      "Offline And Computing": 3
+    },
+    "6740": {
+      "General": 0.5
+    },
+    "6862": {
+      "Offline And Computing": 1
+    },
+    "7592": {
+      "UPGRADE": 5
+    },
+    "7680": {
+      "Trigger Coordination": 2,
+      "Offline And Computing": 3
+    },
+    "9182": {
+      "L1 Trigger": 1
+    },
+    "9331": {
+      "Trigger Coordination": 3
+    },
+    "9582": {
+      "Offline And Computing": 1.5
+    },
+    "9765": {
+      "L1 Trigger": 3,
+      "PPD": 1,
+      "UPGRADE": 5
+    },
+    "9931": {
+      "Offline And Computing": 2
+    },
+    "9972": {
+      "ECAL": 6
+    },
+    "9974": {
+      "L1 Trigger": 7.5
+    },
+    "10299": {
+      "Offline And Computing": 1,
+      "General": 1
+    },
+    "10391": {
+      "PPD": 4
+    },
+    "10443": {
+      "ECAL": 9
+    },
+    "10476": {
+      "L1 Trigger": 1.5,
+      "Offline And Computing": 2
+    },
+    "10545": {
+      "L1 Trigger": 2
+    },
+    "10596": {
+      "L1 Trigger": 1,
+      "ECAL": 3
+    },
+    "10707": {
+      "Offline And Computing": 1,
+      "PPD": 2
+    },
+    "10898": {
+      "UPGRADE": 3
+    },
+    "11254": {
+      "Offline And Computing": 2
+    }
+  },
+  "LONDON-IC": {
+    "525": {
+      "UPGRADE": 5
+    },
+    "581": {
+      "Tracker": 6
+    },
+    "582": {
+      "General": 2
+    },
+    "1342": {
+      "General": 1
+    },
+    "2029": {
+      "Tracker": 6
+    },
+    "2609": {
+      "L1 Trigger": 12
+    },
+    "4285": {
+      "Offline And Computing": 9
+    },
+    "5494": {
+      "Tracker": 3
+    },
+    "5509": {
+      "L1 Trigger": 9,
+      "HCAL": 3
+    },
+    "5861": {
+      "L1 Trigger": 12
+    },
+    "6725": {
+      "Offline And Computing": 0.5,
+      "Tracker": 0,
+      "UPGRADE": 1
+    },
+    "7770": {
+      "Offline And Computing": 5
+    },
+    "7994": {
+      "Offline And Computing": 3
+    },
+    "8342": {
+      "UPGRADE": 3
+    },
+    "8524": {
+      "L1 Trigger": 6
+    },
+    "8598": {
+      "Offline And Computing": 3
+    },
+    "8984": {
+      "UPGRADE": 2
+    },
+    "9182": {
+      "UPGRADE": 1
+    },
+    "9359": {
+      "Offline And Computing": 7.5
+    },
+    "9667": {
+      "L1 Trigger": 2
+    },
+    "10002": {
+      "Offline And Computing": 11
+    },
+    "10410": {
+      "L1 Trigger": 6
+    },
+    "10417": {
+      "Tracker": 2.5
+    },
+    "10422": {
+      "L1 Trigger": 12
+    },
+    "10430": {
+      "Tracker": 3
+    },
+    "10490": {
+      "L1 Trigger": 2
+    },
+    "10498": {
+      "UPGRADE": 1,
+      "ECAL": 2
+    },
+    "11061": {
+      "L1 Trigger": 3
+    },
+    "11167": {
+      "L1 Trigger": 2
+    }
+  },
+  "FLORIDA-UNIV": {
+    "53": {
+      "Offline And Computing": 4.5
+    },
+    "679": {
+      "Muon-CSC": 1
+    },
+    "731": {
+      "Muon-CSC": 2
+    },
+    "764": {
+      "General": 4
+    },
+    "1176": {
+      "Offline And Computing": 0.77
+    },
+    "1437": {
+      "Tracker": 0,
+      "General": 0.5
+    },
+    "2308": {
+      "L1 Trigger": 4
+    },
+    "2805": {
+      "L1 Trigger": 6
+    },
+    "2883": {
+      "Offline And Computing": 7.8
+    },
+    "3245": {
+      "L1 Trigger": 6
+    },
+    "3712": {
+      "Muon-CSC": 0
+    },
+    "4221": {
+      "Muon-CSC": 11
+    },
+    "5127": {
+      "Offline And Computing": 2.33
+    },
+    "5513": {
+      "Offline And Computing": 0.5,
+      "Tracker": 0.5
+    },
+    "5950": {
+      "Muon-CSC": 4
+    },
+    "5981": {
+      "Tracker": 0.5,
+      "UPGRADE": 0
+    },
+    "7053": {
+      "Offline And Computing": 4
+    },
+    "7647": {
+      "Offline And Computing": 0.5,
+      "Trigger Coordination": 2,
+      "PPD": 1
+    },
+    "7667": {
+      "L1 Trigger": 5
+    },
+    "9299": {
+      "Muon-CSC": 0
+    },
+    "9353": {
+      "L1 Trigger": 4
+    },
+    "9420": {
+      "Trigger Coordination": 3.5,
+      "L1 Trigger": 3
+    },
+    "9626": {
+      "Muon-CSC": 4
+    },
+    "9968": {
+      "Muon-CSC": 8
+    },
+    "10047": {
+      "L1 Trigger": 5
+    },
+    "10048": {
+      "L1 Trigger": 6
+    },
+    "10542": {
+      "Muon-CSC": 0
+    }
+  },
+  "MINNESOTA": {
+    "463": {
+      "ECAL": 6
+    },
+    "740": {
+      "UPGRADE": 0
+    },
+    "2820": {
+      "General": 4,
+      "HCAL": 1
+    },
+    "4976": {
+      "ECAL": 0
+    },
+    "5080": {
+      "HCAL": 1,
+      "ECAL": 2
+    },
+    "7528": {
+      "UPGRADE": 1,
+      "ECAL": 7
+    },
+    "7997": {
+      "HCAL": 1
+    },
+    "8182": {
+      "HCAL": 3
+    },
+    "9383": {
+      "ECAL": 4,
+      "HCAL": 3
+    },
+    "9394": {
+      "ECAL": 2,
+      "Trigger Coordination": 0,
+      "CT-PPS": 0
+    },
+    "10282": {
+      "HCAL": 6
+    },
+    "10375": {
+      "HCAL": 6
+    },
+    "10745": {
+      "HCAL": 3
+    },
+    "10972": {
+      "BRIL": 4
+    }
+  },
+  "PERUGIA": {
+    "305": {
+      "Tracker": 1
+    },
+    "1153": {
+      "Tracker": 0.5
+    },
+    "2738": {
+      "Tracker": 1,
+      "UPGRADE": 1
+    },
+    "6145": {
+      "Tracker": 1.5
+    },
+    "7202": {
+      "Tracker": 1
+    },
+    "8520": {
+      "Tracker": 3
+    },
+    "9106": {
+      "Tracker": 0.75
+    },
+    "9177": {
+      "Offline And Computing": 8
+    },
+    "9694": {
+      "Tracker": 4
+    },
+    "9963": {
+      "Tracker": 1
+    },
+    "10265": {
+      "Tracker": 2
+    },
+    "10592": {
+      "Tracker": 2.5
+    },
+    "11085": {
+      "Offline And Computing": 3
+    }
+  },
+  "SOFIA-UNIV": {
+    "65": {
+      "Muon-RPC": 1
+    },
+    "3523": {
+      "Muon-RPC": 7,
+      "General": 1
+    },
+    "3525": {
+      "Muon-RPC": 1
+    },
+    "3915": {
+      "Muon-RPC": 4
+    },
+    "3919": {
+      "Offline And Computing": 0,
+      "General": 0
+    },
+    "9391": {
+      "PPD": 5,
+      "General": 0
+    }
+  },
+  "CATANIA": {
+    "262": {
+      "Tracker": 8
+    },
+    "1250": {
+      "Tracker": 5.2
+    },
+    "1750": {
+      "Tracker": 0.4
+    },
+    "3405": {
+      "Tracker": 0.75
+    },
+    "4236": {
+      "Tracker": 0.75
+    },
+    "7054": {
+      "Offline And Computing": 2
+    },
+    "7353": {
+      "Tracker": 3
+    },
+    "10930": {
+      "Tracker": 7.4
+    }
+  },
+  "PSI": {
+    "531": {
+      "Tracker": 3
+    },
+    "532": {
+      "General": 0.5
+    },
+    "533": {
+      "Tracker": 10
+    },
+    "2861": {
+      "Tracker": 5.5
+    },
+    "2905": {
+      "Tracker": 2
+    },
+    "3886": {
+      "Tracker": 1.5
+    },
+    "4943": {
+      "Tracker": 3
+    },
+    "5657": {
+      "Tracker": 2
+    },
+    "7900": {
+      "Tracker": 1
+    }
+  },
+  "STRASBOURG": {
+    "158": {
+      "Tracker": 0
+    },
+    "1022": {
+      "Tracker": 0.5
+    },
+    "1166": {
+      "General": 1
+    },
+    "3350": {
+      "Offline And Computing": 5
+    },
+    "3383": {
+      "Tracker": 1
+    },
+    "3637": {
+      "PPD": 4
+    },
+    "4161": {
+      "PPD": 5.3
+    },
+    "4172": {
+      "Tracker": 5
+    },
+    "5529": {
+      "PPD": 2
+    },
+    "5753": {
+      "Offline And Computing": 6
+    },
+    "6420": {
+      "Trigger Coordination": 6
+    },
+    "7234": {
+      "Offline And Computing": 3
+    },
+    "7256": {
+      "Offline And Computing": 6
+    },
+    "9269": {
+      "Tracker": 1
+    },
+    "9301": {
+      "UPGRADE": 4
+    },
+    "9306": {
+      "PPD": 0
+    },
+    "9570": {
+      "Tracker": 2
+    },
+    "10307": {
+      "PPD": 4
+    },
+    "10396": {
+      "PPD": 3,
+      "Tracker": 2
+    },
+    "10595": {
+      "Trigger Coordination": 5
+    }
+  },
+  "CORNELL": {
+    "5108": {
+      "Tracker": 1.5,
+      "PPD": 2
+    },
+    "5228": {
+      "Tracker": 2,
+      "UPGRADE": 4
+    },
+    "5271": {
+      "General": 0.5
+    },
+    "5308": {
+      "Offline And Computing": 12
+    },
+    "5309": {
+      "Tracker": 0.5,
+      "Trigger Coordination": 2
+    },
+    "5395": {
+      "Offline And Computing": 8.33
+    },
+    "7436": {
+      "Tracker": 3
+    },
+    "7688": {
+      "Tracker": 0.5,
+      "PPD": 12
+    },
+    "8092": {
+      "Tracker": 6
+    },
+    "8191": {
+      "Tracker": 6
+    },
+    "8193": {
+      "PPD": 1
+    },
+    "8726": {
+      "Tracker": 1,
+      "PPD": 2
+    },
+    "9003": {
+      "Tracker": 2.5
+    },
+    "9710": {
+      "PPD": 2
+    },
+    "9852": {
+      "Tracker": 2,
+      "UPGRADE": 1
+    },
+    "10271": {
+      "PPD": 12
+    },
+    "10455": {
+      "Tracker": 3
+    }
+  },
+  "GHENT": {
+    "3538": {
+      "General": 0.5
+    },
+    "4987": {
+      "PPD": 1
+    },
+    "5056": {
+      "Offline And Computing": 0.5,
+      "PPD": 0
+    },
+    "5457": {
+      "Muon-RPC": 5
+    },
+    "5860": {
+      "Muon-RPC": 5
+    },
+    "6391": {
+      "Muon-RPC": 9
+    },
+    "7031": {
+      "Muon-RPC": 10
+    },
+    "7243": {
+      "UPGRADE": 0
+    },
+    "9033": {
+      "Muon-RPC": 1.5
+    },
+    "9048": {
+      "Muon-RPC": 4
+    },
+    "9603": {
+      "Muon-RPC": 0
+    },
+    "9704": {
+      "UPGRADE": 4
+    },
+    "9768": {
+      "Muon-RPC": 4
+    },
+    "9867": {
+      "Muon-RPC": 6
+    },
+    "11216": {
+      "Muon-RPC": 0.5
+    }
+  },
+  "MEXICO-UASLP": {
+    "4999": {
+      "Tracker": 4
+    }
+  },
+  "SUNY-BUFFALO": {
+    "166": {
+      "PPD": 12
+    },
+    "1048": {
+      "General": 0.5
+    },
+    "5458": {
+      "Offline And Computing": 0,
+      "Tracker": 0.55
+    },
+    "6352": {
+      "Trigger Coordination": 0,
+      "Offline And Computing": 12.5,
+      "PPD": 4
+    },
+    "6513": {
+      "Tracker": 0.25,
+      "Offline And Computing": 3.5
+    },
+    "7452": {
+      "Tracker": 0.5
+    },
+    "8788": {
+      "PPD": 0,
+      "Tracker": 0.5
+    },
+    "9741": {
+      "Offline And Computing": 0
+    },
+    "9889": {
+      "Tracker": 0.5,
+      "PPD": 12
+    },
+    "10691": {
+      "PPD": 12
+    },
+    "10891": {
+      "PPD": 6
+    },
+    "11100": {
+      "Offline And Computing": 6
+    }
+  },
+  "MEXICO-IBEROAM": {
+    "5002": {
+      "Muon-RPC": 3.5
+    },
+    "7514": {
+      "General": 4,
+      "Muon-RPC": 3
+    },
+    "11050": {
+      "Muon-RPC": 3
+    },
+    "11142": {
+      "Muon-RPC": 1
+    },
+    "11150": {
+      "Muon-RPC": 1
+    }
+  },
+  "AACHEN-3A": {
+    "184": {
+      "Muon-DT": 6
+    },
+    "191": {
+      "General": 0.5
+    },
+    "2445": {
+      "General": 0.5,
+      "Offline And Computing": 0
+    },
+    "2793": {
+      "Muon-DT": 12
+    },
+    "2983": {
+      "UPGRADE": 2
+    },
+    "3589": {
+      "Muon-DT": 1,
+      "UPGRADE": 3
+    },
+    "5010": {
+      "Muon-DT": 3
+    },
+    "5205": {
+      "Muon-DT": 5.5
+    },
+    "5791": {
+      "General": 4
+    },
+    "7280": {
+      "Offline And Computing": 3
+    },
+    "7317": {
+      "PPD": 3
+    },
+    "7964": {
+      "Offline And Computing": 3
+    },
+    "7970": {
+      "PPD": 2
+    },
+    "7976": {
+      "Muon-DT": 3
+    },
+    "8547": {
+      "Offline And Computing": 3
+    },
+    "8570": {
+      "Muon-DT": 1
+    },
+    "8618": {
+      "UPGRADE": 2.5,
+      "Muon-DT": 1
+    },
+    "9055": {
+      "Muon-DT": 4
+    },
+    "9067": {
+      "HCAL": 5
+    },
+    "9703": {
+      "Offline And Computing": 1
+    },
+    "9744": {
+      "Offline And Computing": 2.5
+    },
+    "10293": {
+      "Muon-DT": 1
+    },
+    "10979": {
+      "UPGRADE": 2
+    },
+    "11734": {
+      "Offline And Computing": 0.3
+    }
+  },
+  "FRASCATI": {
+    "3772": {
+      "Muon-RPC": 3
+    },
+    "5399": {
+      "Muon-RPC": 2
+    },
+    "5459": {
+      "UPGRADE": 3,
+      "Muon-RPC": 1
+    },
+    "5703": {
+      "Muon-RPC": 0.5
+    },
+    "5802": {
+      "Muon-RPC": 1
+    },
+    "6054": {
+      "Muon-RPC": 0.5
+    },
+    "7245": {
+      "PPD": 1
+    },
+    "7883": {
+      "Muon-RPC": 0.5
+    }
+  },
+  "MADRID-CIEMAT": {
+    "482": {
+      "Muon-DT": 6
+    },
+    "1091": {
+      "Muon-DT": 1
+    },
+    "1108": {
+      "Offline And Computing": 3.1
+    },
+    "2321": {
+      "Muon-DT": 2
+    },
+    "3057": {
+      "Muon-DT": 4
+    },
+    "3348": {
+      "PPD": 1
+    },
+    "3590": {
+      "General": 2.66,
+      "Muon-DT": 8
+    },
+    "3888": {
+      "Offline And Computing": 2.2
+    },
+    "4552": {
+      "Offline And Computing": 6
+    },
+    "4885": {
+      "PPD": 2
+    },
+    "5025": {
+      "Muon-DT": 3
+    },
+    "5499": {
+      "Offline And Computing": 3.1
+    },
+    "6034": {
+      "Muon-DT": 1
+    },
+    "6049": {
+      "Offline And Computing": 6.1
+    },
+    "6102": {
+      "General": 4
+    },
+    "6887": {
+      "PPD": 1
+    },
+    "7263": {
+      "Muon-DT": 7,
+      "PPD": 4
+    },
+    "7803": {
+      "PPD": 1
+    },
+    "7807": {
+      "Muon-DT": 11
+    },
+    "9109": {
+      "Muon-DT": 2
+    },
+    "9696": {
+      "Offline And Computing": 6
+    },
+    "9849": {
+      "PPD": 3
+    },
+    "9905": {
+      "Muon-DT": 8
+    },
+    "9937": {
+      "Muon-DT": 4
+    },
+    "11174": {
+      "PPD": 2,
+      "Muon-DT": 6
+    }
+  },
+  "DELHI-UNIV": {
+    "2425": {
+      "Tracker": 0
+    },
+    "3391": {
+      "Tracker": 0
+    },
+    "4468": {
+      "UPGRADE": 2
+    },
+    "7916": {
+      "UPGRADE": 1
+    },
+    "8373": {
+      "Offline And Computing": 0
+    },
+    "8472": {
+      "Tracker": 0.5
+    },
+    "10001": {
+      "ECAL": 2,
+      "Offline And Computing": 0
+    },
+    "10013": {
+      "UPGRADE": 4
+    },
+    "10716": {
+      "Tracker": 2.5
+    },
+    "10966": {
+      "UPGRADE": 3
+    }
+  },
+  "BARI": {
+    "233": {
+      "Tracker": 0.25
+    },
+    "235": {
+      "Muon-RPC": 2
+    },
+    "236": {
+      "Offline And Computing": 3.1
+    },
+    "241": {
+      "General": 4
+    },
+    "867": {
+      "UPGRADE": 2
+    },
+    "868": {
+      "Offline And Computing": 3
+    },
+    "870": {
+      "Muon-RPC": 4,
+      "Offline And Computing": 0.5
+    },
+    "1196": {
+      "Tracker": 1.5
+    },
+    "1264": {
+      "General": 1.33
+    },
+    "1283": {
+      "Muon-RPC": 3,
+      "UPGRADE": 2
+    },
+    "1391": {
+      "Muon-RPC": 4,
+      "General": 2.66
+    },
+    "1520": {
+      "Tracker": 1.5
+    },
+    "1841": {
+      "UPGRADE": 2
+    },
+    "1900": {
+      "Offline And Computing": 2.6
+    },
+    "2707": {
+      "Muon-RPC": 2
+    },
+    "3283": {
+      "UPGRADE": 0.5,
+      "PPD": 2,
+      "Offline And Computing": 1,
+      "Tracker": 2
+    },
+    "4363": {
+      "Offline And Computing": 7.1
+    },
+    "5556": {
+      "UPGRADE": 2,
+      "Tracker": 0.2
+    },
+    "6358": {
+      "UPGRADE": 2
+    },
+    "6526": {
+      "Muon-RPC": 2,
+      "UPGRADE": 2,
+      "Offline And Computing": 0.5
+    },
+    "6615": {
+      "Offline And Computing": 2
+    },
+    "7369": {
+      "UPGRADE": 3,
+      "PPD": 0,
+      "Offline And Computing": 4.5
+    },
+    "8402": {
+      "UPGRADE": 2,
+      "PPD": 0
+    },
+    "8404": {
+      "Offline And Computing": 0.5
+    },
+    "8718": {
+      "UPGRADE": 2,
+      "PPD": 2,
+      "Offline And Computing": 1.5
+    },
+    "8915": {
+      "Offline And Computing": 1,
+      "PPD": 2.5
+    },
+    "9040": {
+      "Offline And Computing": 3.1,
+      "PPD": 3
+    },
+    "9822": {
+      "UPGRADE": 3,
+      "PPD": 2,
+      "Offline And Computing": 0.5
+    }
+  },
+  "CANTERBURY": {
+    "8998": {
+      "BRIL": 9
+    },
+    "10163": {
+      "BRIL": 0
+    }
+  },
+  "OHIO-STATE": {
+    "765": {
+      "Muon-CSC": 12
+    },
+    "766": {
+      "Muon-CSC": 8
+    },
+    "1629": {
+      "L1 Trigger": 3,
+      "Tracker": 0.5,
+      "UPGRADE": 1
+    },
+    "4239": {
+      "UPGRADE": 3
+    },
+    "4701": {
+      "L1 Trigger": 4
+    },
+    "6224": {
+      "L1 Trigger": 2,
+      "Trigger Coordination": 4
+    },
+    "6301": {
+      "Offline And Computing": 0.5,
+      "Tracker": 1,
+      "UPGRADE": 1
+    },
+    "7636": {
+      "L1 Trigger": 2,
+      "PPD": 2
+    },
+    "8149": {
+      "PPD": 1
+    },
+    "8633": {
+      "Muon-CSC": 0
+    },
+    "8884": {
+      "Tracker": 2.5,
+      "UPGRADE": 1
+    },
+    "8937": {
+      "Muon-CSC": 3
+    },
+    "9635": {
+      "Muon-CSC": 4,
+      "Trigger Coordination": 3
+    },
+    "10725": {
+      "Tracker": 0
+    }
+  },
+  "ISTANBUL-TECH": {
+    "3471": {
+      "HCAL": 0
+    },
+    "6996": {
+      "CT-PPS": 0,
+      "Trigger Coordination": 0.5,
+      "HCAL": 0
+    },
+    "9950": {
+      "HCAL": 4
+    },
+    "10901": {
+      "HCAL": 0
+    },
+    "10902": {
+      "HCAL": 0
+    },
+    "10910": {
+      "HCAL": 1
+    },
+    "11067": {
+      "HCAL": 0
+    },
+    "11221": {
+      "HCAL": 0
+    },
+    "11381": {
+      "HCAL": 0
+    }
+  },
+  "ST-PETERSBURG": {
+    "1361": {
+      "Muon-CSC": 10
+    },
+    "2626": {
+      "Muon-CSC": 9
+    },
+    "3392": {
+      "Muon-CSC": 9
+    },
+    "3667": {
+      "Muon-CSC": 12
+    }
+  },
+  "BOGAZICI": {
+    "701": {
+      "Trigger Coordination": 3,
+      "HCAL": 0
+    },
+    "2951": {
+      "HCAL": 2.5
+    },
+    "4378": {
+      "HCAL": 0
+    },
+    "5208": {
+      "HCAL": 0,
+      "Trigger Coordination": 2
+    },
+    "5946": {
+      "HCAL": 0
+    },
+    "8002": {
+      "HCAL": 4
+    },
+    "8766": {
+      "HCAL": 1,
+      "PPD": 1
+    },
+    "9924": {
+      "Offline And Computing": 0
+    },
+    "10879": {
+      "PPD": 1,
+      "HCAL": 0.5
+    }
+  },
+  "BRUSSEL-VUB": {
+    "1993": {
+      "Offline And Computing": 2
+    },
+    "2682": {
+      "Offline And Computing": 0
+    },
+    "3612": {
+      "Tracker": 2
+    },
+    "4436": {
+      "General": 4
+    },
+    "5974": {
+      "PPD": 4
+    },
+    "6293": {
+      "Offline And Computing": 0
+    },
+    "7272": {
+      "Tracker": 9
+    },
+    "7426": {
+      "Offline And Computing": 3.5
+    },
+    "7956": {
+      "UPGRADE": 1,
+      "Trigger Coordination": 3
+    },
+    "8872": {
+      "Tracker": 4
+    },
+    "9114": {
+      "Offline And Computing": 3,
+      "PPD": 0
+    },
+    "9597": {
+      "Offline And Computing": 4,
+      "PPD": 1
+    },
+    "9599": {
+      "Tracker": 3
+    },
+    "9600": {
+      "Tracker": 3
+    },
+    "9777": {
+      "Offline And Computing": 3
+    },
+    "10411": {
+      "Offline And Computing": 4
+    },
+    "11058": {
+      "Offline And Computing": 2
+    }
+  },
+  "VINCA": {
+    "3961": {
+      "General": 0
+    },
+    "9720": {
+      "PPD": 0
+    },
+    "11101": {
+      "Tracker": 0
+    }
+  },
+  "WARSAW-IEP": {
+    "343": {
+      "L1 Trigger": 4
+    },
+    "344": {
+      "L1 Trigger": 1
+    },
+    "1459": {
+      "L1 Trigger": 2
+    },
+    "2979": {
+      "L1 Trigger": 2
+    },
+    "3616": {
+      "L1 Trigger": 4
+    },
+    "3835": {
+      "L1 Trigger": 2
+    },
+    "3877": {
+      "L1 Trigger": 2
+    },
+    "4010": {
+      "L1 Trigger": 4
+    },
+    "8205": {
+      "L1 Trigger": 1
+    },
+    "9255": {
+      "L1 Trigger": 3
+    },
+    "9533": {
+      "L1 Trigger": 3
+    },
+    "10285": {
+      "L1 Trigger": 3.5
+    },
+    "10776": {
+      "L1 Trigger": 6
+    },
+    "11267": {
+      "L1 Trigger": 4
+    }
+  },
+  "PURDUE": {
+    "7": {
+      "Offline And Computing": 9.4
+    },
+    "3806": {
+      "Offline And Computing": 0
+    },
+    "4346": {
+      "Offline And Computing": 8
+    },
+    "6429": {
+      "Tracker": 2.5
+    },
+    "6432": {
+      "Tracker": 2.5
+    },
+    "7224": {
+      "Trigger Coordination": 4
+    },
+    "7245": {
+      "PPD": 2,
+      "Offline And Computing": 2
+    },
+    "7399": {
+      "PPD": 1
+    },
+    "8650": {
+      "Trigger Coordination": 1
+    },
+    "9203": {
+      "PPD": 0
+    },
+    "9205": {
+      "Trigger Coordination": 0.5,
+      "PPD": 0
+    },
+    "9206": {
+      "PPD": 2,
+      "Offline And Computing": 2,
+      "Trigger Coordination": 1
+    },
+    "9207": {
+      "Offline And Computing": 2,
+      "Tracker": 0,
+      "PPD": 0
+    },
+    "9226": {
+      "Trigger Coordination": 2,
+      "Offline And Computing": 0
+    }
+  },
+  "KYUNGPOOK": {
+    "1301": {
+      "Offline And Computing": 4.9
+    },
+    "1412": {
+      "Muon-RPC": 0,
+      "UPGRADE": 1
+    },
+    "3076": {
+      "Muon-RPC": 0,
+      "Offline And Computing": 0.5
+    },
+    "3097": {
+      "Offline And Computing": 2.9
+    },
+    "3862": {
+      "Offline And Computing": 0.5,
+      "UPGRADE": 0.5
+    },
+    "4574": {
+      "Offline And Computing": 1.5
+    },
+    "4986": {
+      "Offline And Computing": 4.5,
+      "HCAL": 2,
+      "UPGRADE": 1
+    },
+    "8484": {
+      "Offline And Computing": 0.5
+    },
+    "8601": {
+      "Offline And Computing": 6
+    },
+    "8803": {
+      "Offline And Computing": 0
+    },
+    "8805": {
+      "Offline And Computing": 3
+    },
+    "8839": {
+      "Muon-RPC": 0,
+      "Offline And Computing": 3.25
+    },
+    "9191": {
+      "Offline And Computing": 1
+    },
+    "9321": {
+      "Offline And Computing": 0
+    },
+    "9581": {
+      "Offline And Computing": 2
+    },
+    "10601": {
+      "Offline And Computing": 1
+    },
+    "10796": {
+      "UPGRADE": 1
+    }
+  },
+  "CHUNGLI-NCU": {
+    "4228": {
+      "ECAL": 4,
+      "PPD": 3
+    },
+    "5775": {
+      "BRIL": 3
+    },
+    "6747": {
+      "PPD": 1
+    },
+    "7246": {
+      "PPD": 0
+    },
+    "7269": {
+      "Offline And Computing": 4
+    },
+    "7902": {
+      "Offline And Computing": 4
+    },
+    "9652": {
+      "Offline And Computing": 1
+    },
+    "9714": {
+      "ECAL": 3,
+      "PPD": 1
+    },
+    "10132": {
+      "PPD": 0
+    },
+    "10193": {
+      "PPD": 1
+    },
+    "10297": {
+      "PPD": 1,
+      "Offline And Computing": 1
+    },
+    "10871": {
+      "PPD": 1,
+      "ECAL": 0
+    },
+    "10877": {
+      "Offline And Computing": 1
+    },
+    "10878": {
+      "PPD": 1
+    },
+    "10922": {
+      "Tracker": 1,
+      "PPD": 3
+    }
+  },
+  "MUMBAI-BARC": {
+    "5119": {
+      "Offline And Computing": 0
+    },
+    "5157": {
+      "Muon-RPC": 1
+    },
+    "5845": {
+      "Trigger Coordination": 1,
+      "HCAL": 0
+    },
+    "6848": {
+      "Offline And Computing": 1,
+      "HCAL": 0
+    },
+    "8946": {
+      "HCAL": 1
+    },
+    "8950": {
+      "Muon-RPC": 2
+    },
+    "8953": {
+      "Offline And Computing": 1
+    },
+    "9792": {
+      "PPD": 1.5,
+      "Trigger Coordination": 2
+    }
+  },
+  "BRUNEL": {
+    "565": {
+      "General": 0.5,
+      "ECAL": 1
+    },
+    "1230": {
+      "ECAL": 3
+    },
+    "3803": {
+      "Offline And Computing": 3.5,
+      "Tracker": 0.5
+    },
+    "4105": {
+      "ECAL": 0
+    },
+    "5324": {
+      "Tracker": 2
+    },
+    "5650": {
+      "Offline And Computing": 6
+    },
+    "6169": {
+      "ECAL": 1.5
+    },
+    "9828": {
+      "PPD": 2
+    },
+    "10415": {
+      "Trigger Coordination": 0.5
+    },
+    "10969": {
+      "ECAL": 3
+    }
+  },
+  "CHARLES-UNIV": {
+    "96": {
+      "HCAL": 0.5
+    },
+    "98": {
+      "HCAL": 0.5
+    },
+    "9700": {
+      "HCAL": 3
+    },
+    "10636": {
+      "HCAL": 2
+    }
+  },
+  "UCSB": {
+    "2440": {
+      "HCAL": 1
+    },
+    "3639": {
+      "General": 2,
+      "Muon-CSC": 1.25
+    },
+    "3960": {
+      "UPGRADE": 4
+    },
+    "4938": {
+      "Tracker": 4
+    },
+    "5253": {
+      "Muon-CSC": 1.25
+    },
+    "5290": {
+      "UPGRADE": 3
+    },
+    "6681": {
+      "Offline And Computing": 0,
+      "Muon-CSC": 6.5
+    },
+    "7409": {
+      "Tracker": 4
+    },
+    "7464": {
+      "Muon-CSC": 1
+    },
+    "7487": {
+      "Tracker": 3
+    },
+    "7848": {
+      "HCAL": 4
+    },
+    "8053": {
+      "Muon-CSC": 4.5
+    },
+    "8127": {
+      "HCAL": 2
+    },
+    "8176": {
+      "Tracker": 3
+    },
+    "8280": {
+      "PPD": 1,
+      "Muon-CSC": 1
+    },
+    "8666": {
+      "Offline And Computing": 0.5
+    },
+    "9620": {
+      "Muon-CSC": 3
+    },
+    "9778": {
+      "Muon-CSC": 4.5
+    },
+    "10342": {
+      "HCAL": 2
+    },
+    "10351": {
+      "HCAL": 2
+    },
+    "10598": {
+      "UPGRADE": 9
+    },
+    "10633": {
+      "Tracker": 1
+    },
+    "10798": {
+      "UPGRADE": 3
+    },
+    "11127": {
+      "PPD": 3,
+      "Offline And Computing": 3,
+      "Muon-CSC": 1.5
+    },
+    "11593": {
+      "UPGRADE": 2
+    },
+    "11623": {
+      "UPGRADE": 2
+    }
+  },
+  "GENOVA": {
+    "4669": {
+      "CT-PPS": 4
+    },
+    "7020": {
+      "General": 1,
+      "Offline And Computing": 3
+    },
+    "9425": {
+      "Tracker": 2
+    },
+    "9512": {
+      "CT-PPS": 4
+    },
+    "9524": {
+      "CT-PPS": 4
+    }
+  },
+  "KHARKOV-KIPT": {
+    "596": {
+      "Offline And Computing": 3,
+      "HCAL": 3
+    },
+    "598": {
+      "HCAL": 2.25
+    },
+    "600": {
+      "HCAL": 3
+    },
+    "5627": {
+      "Offline And Computing": 3
+    },
+    "7942": {
+      "Offline And Computing": 3.6
+    },
+    "11699": {
+      "Offline And Computing": 0.4
+    }
+  },
+  "TBILISI-TSU": {
+    "5226": {
+      "Muon-RPC": 2
+    },
+    "5595": {
+      "Muon-RPC": 3
+    }
+  },
+  "PRINCETON": {
+    "772": {
+      "BRIL": 4
+    },
+    "774": {
+      "General": 4
+    },
+    "776": {
+      "HCAL": 1
+    },
+    "1413": {
+      "BRIL": 12
+    },
+    "2844": {
+      "Offline And Computing": 8.5
+    },
+    "3388": {
+      "Offline And Computing": 12
+    },
+    "5327": {
+      "General": 4
+    },
+    "6412": {
+      "HCAL": 8
+    },
+    "7262": {
+      "Trigger Coordination": 1.5,
+      "BRIL": 6,
+      "PPD": 3
+    },
+    "7423": {
+      "BRIL": 0
+    },
+    "7548": {
+      "HCAL": 6
+    },
+    "8000": {
+      "ECAL": 5
+    },
+    "8303": {
+      "BRIL": 8
+    },
+    "8486": {
+      "UPGRADE": 0
+    },
+    "9075": {
+      "PPD": 0
+    },
+    "9907": {
+      "BRIL": 5
+    },
+    "11182": {
+      "PPD": 3
+    }
+  },
+  "NISER": {
+    "5894": {
+      "Tracker": 2,
+      "HCAL": 0
+    },
+    "8948": {
+      "Trigger Coordination": 2
+    },
+    "9026": {
+      "HCAL": 0
+    },
+    "9804": {
+      "Trigger Coordination": 0.5
+    },
+    "10807": {
+      "Trigger Coordination": 1
+    }
+  },
+  "UCSD": {
+    "691": {
+      "Offline And Computing": 3
+    },
+    "2415": {
+      "DAQ": 10
+    },
+    "2948": {
+      "Trigger Coordination": 0,
+      "PPD": 4
+    },
+    "3807": {
+      "Offline And Computing": 3
+    },
+    "4015": {
+      "Offline And Computing": 12
+    },
+    "4851": {
+      "Offline And Computing": 11
+    },
+    "5655": {
+      "Offline And Computing": 8.5
+    },
+    "6758": {
+      "Offline And Computing": 0
+    },
+    "7149": {
+      "Offline And Computing": 10
+    },
+    "7887": {
+      "Offline And Computing": 10
+    },
+    "9085": {
+      "Offline And Computing": 3
+    },
+    "9864": {
+      "Trigger Coordination": 2
+    },
+    "10350": {
+      "Offline And Computing": 6,
+      "PPD": 1
+    },
+    "10913": {
+      "PPD": 1
+    },
+    "10987": {
+      "Offline And Computing": 3
+    },
+    "11059": {
+      "Offline And Computing": 0
+    }
+  },
+  "NORTHWESTERN": {
+    "5277": {
+      "General": 2
+    },
+    "5722": {
+      "Tracker": 0.5
+    },
+    "6188": {
+      "Tracker": 0
+    },
+    "10345": {
+      "Tracker": 1.25,
+      "Trigger Coordination": 1.5
+    },
+    "10827": {
+      "Trigger Coordination": 0
+    }
+  },
+  "ATOMKI": {
+    "1738": {
+      "General": 0,
+      "Muon-DT": 8
+    },
+    "4117": {
+      "General": 0,
+      "Muon-DT": 8
+    },
+    "8252": {
+      "Tracker": 6
+    }
+  },
+  "RIO-UERJ": {
+    "4121": {
+      "Offline And Computing": 10
+    },
+    "4708": {
+      "UPGRADE": 2
+    },
+    "4904": {
+      "CT-PPS": 4
+    },
+    "5475": {
+      "CT-PPS": 2
+    },
+    "5623": {
+      "CT-PPS": 2
+    },
+    "6305": {
+      "CT-PPS": 1
+    },
+    "6331": {
+      "Offline And Computing": 4
+    },
+    "6369": {
+      "HCAL": 4
+    },
+    "6375": {
+      "PPD": 6
+    },
+    "6414": {
+      "CT-PPS": 3
+    },
+    "6490": {
+      "PPD": 4
+    },
+    "6622": {
+      "CT-PPS": 0
+    },
+    "7329": {
+      "HCAL": 1
+    },
+    "8212": {
+      "Offline And Computing": 4
+    },
+    "8903": {
+      "HCAL": 4
+    },
+    "9027": {
+      "CT-PPS": 0,
+      "PPD": 1
+    },
+    "9076": {
+      "Trigger Coordination": 4
+    },
+    "9088": {
+      "BRIL": 0
+    },
+    "9089": {
+      "CT-PPS": 0
+    },
+    "9774": {
+      "CT-PPS": 0
+    },
+    "9925": {
+      "Offline And Computing": 4
+    },
+    "10808": {
+      "CT-PPS": 0
+    }
+  },
+  "FLORIDA-STATE": {
+    "693": {
+      "HCAL": 6
+    },
+    "2344": {
+      "Offline And Computing": 0.5
+    },
+    "5262": {
+      "PPD": 3,
+      "Offline And Computing": 0.5
+    },
+    "5750": {
+      "UPGRADE": 3
+    },
+    "5766": {
+      "ECAL": 3,
+      "Offline And Computing": 0.5,
+      "PPD": 1
+    },
+    "9409": {
+      "UPGRADE": 4,
+      "ECAL": 2,
+      "Offline And Computing": 0.5
+    },
+    "9690": {
+      "PPD": 4,
+      "UPGRADE": 2,
+      "Offline And Computing": 0.5
+    },
+    "9945": {
+      "ECAL": 2,
+      "Offline And Computing": 2
+    },
+    "10035": {
+      "Trigger Coordination": 1,
+      "UPGRADE": 0
+    }
+  },
+  "ADANA-CUKUROVA": {
+    "1400": {
+      "HCAL": 0.5
+    },
+    "1401": {
+      "HCAL": 2
+    },
+    "1402": {
+      "HCAL": 1
+    },
+    "1901": {
+      "HCAL": 1
+    },
+    "4924": {
+      "PPD": 3.5,
+      "HCAL": 1
+    },
+    "4928": {
+      "HCAL": 1
+    },
+    "4954": {
+      "HCAL": 2
+    },
+    "6176": {
+      "HCAL": 3,
+      "PPD": 2
+    },
+    "6260": {
+      "HCAL": 1
+    },
+    "6667": {
+      "HCAL": 1
+    },
+    "6668": {
+      "PPD": 1.5
+    },
+    "6673": {
+      "HCAL": 2
+    },
+    "6677": {
+      "HCAL": 1
+    },
+    "6678": {
+      "HCAL": 2
+    },
+    "6938": {
+      "HCAL": 1.5
+    },
+    "7094": {
+      "HCAL": 3.5
+    },
+    "7108": {
+      "HCAL": 0
+    },
+    "7175": {
+      "HCAL": 0.5
+    },
+    "7261": {
+      "PPD": 1.5,
+      "HCAL": 0.5
+    },
+    "7774": {
+      "HCAL": 1,
+      "PPD": 3.5
+    },
+    "8384": {
+      "HCAL": 3
+    },
+    "8526": {
+      "HCAL": 1.5
+    },
+    "8541": {
+      "HCAL": 2
+    },
+    "8577": {
+      "HCAL": 1
+    },
+    "9083": {
+      "HCAL": 3
+    },
+    "9790": {
+      "HCAL": 1.5
+    },
+    "9814": {
+      "HCAL": 2
+    },
+    "10589": {
+      "HCAL": 4
+    },
+    "10603": {
+      "HCAL": 2
+    },
+    "10605": {
+      "HCAL": 1.5
+    },
+    "10610": {
+      "HCAL": 2.5
+    },
+    "10683": {
+      "HCAL": 0
+    },
+    "11236": {
+      "HCAL": 2.5
+    }
+  },
+  "RIO-CBPF": {
+    "4129": {
+      "HCAL": 5
+    },
+    "4907": {
+      "CT-PPS": 4
+    },
+    "7966": {
+      "HCAL": 4
+    },
+    "9362": {
+      "PPD": 4,
+      "General": 0,
+      "Offline And Computing": 0.5
+    },
+    "9838": {
+      "HCAL": 4
+    },
+    "9962": {
+      "General": 0.5,
+      "PPD": 0
+    },
+    "10151": {
+      "HCAL": 2
+    },
+    "10666": {
+      "HCAL": 4
+    },
+    "10880": {
+      "HCAL": 4
+    }
+  },
+  "TALLINN": {
+    "3207": {
+      "Offline And Computing": 4.2
+    },
+    "4705": {
+      "Offline And Computing": 4.1
+    },
+    "6026": {
+      "Offline And Computing": 1,
+      "PPD": 4
+    },
+    "6883": {
+      "Offline And Computing": 3.6
+    },
+    "8606": {
+      "Offline And Computing": 3.4
+    }
+  },
+  "BOLOGNA": {
+    "245": {
+      "Muon-DT": 2,
+      "UPGRADE": 3
+    },
+    "247": {
+      "Muon-DT": 8,
+      "General": 2.66
+    },
+    "248": {
+      "BRIL": 1
+    },
+    "249": {
+      "BRIL": 1
+    },
+    "252": {
+      "Muon-DT": 3
+    },
+    "640": {
+      "UPGRADE": 2
+    },
+    "980": {
+      "General": 2
+    },
+    "1890": {
+      "Offline And Computing": 10
+    },
+    "2008": {
+      "UPGRADE": 2
+    },
+    "2023": {
+      "Trigger Coordination": 5
+    },
+    "2635": {
+      "PPD": 1,
+      "Offline And Computing": 0
+    },
+    "3595": {
+      "Muon-DT": 6,
+      "UPGRADE": 0,
+      "Offline And Computing": 0.5
+    },
+    "3695": {
+      "BRIL": 0.5,
+      "Muon-DT": 4
+    },
+    "3696": {
+      "BRIL": 1.5,
+      "Muon-DT": 4
+    },
+    "4342": {
+      "Muon-DT": 8
+    },
+    "4776": {
+      "PPD": 2,
+      "Offline And Computing": 2
+    },
+    "5058": {
+      "Muon-DT": 2,
+      "PPD": 4
+    },
+    "5350": {
+      "Muon-DT": 5,
+      "Offline And Computing": 2
+    },
+    "5990": {
+      "Muon-DT": 6
+    },
+    "7537": {
+      "BRIL": 1
+    },
+    "8197": {
+      "BRIL": 7.5
+    },
+    "8404": {
+      "Trigger Coordination": 1,
+      "PPD": 1
+    },
+    "9343": {
+      "Offline And Computing": 7
+    },
+    "9949": {
+      "Offline And Computing": 7
+    },
+    "10578": {
+      "Muon-DT": 10
+    },
+    "10918": {
+      "BRIL": 0.5
+    }
+  },
+  "SANTANDER": {
+    "487": {
+      "General": 1.5,
+      "Offline And Computing": 5.05
+    },
+    "489": {
+      "Muon-DT": 9
+    },
+    "935": {
+      "Tracker": 1
+    },
+    "1766": {
+      "Tracker": 0.5,
+      "Muon-DT": 2
+    },
+    "1771": {
+      "Offline And Computing": 5.15,
+      "General": 1
+    },
+    "2843": {
+      "Muon-DT": 7
+    },
+    "3586": {
+      "PPD": 4,
+      "General": 1
+    },
+    "3887": {
+      "Offline And Computing": 5.15,
+      "General": 0.5
+    },
+    "4887": {
+      "Muon-DT": 10
+    },
+    "4909": {
+      "PPD": 2
+    },
+    "5321": {
+      "PPD": 6
+    },
+    "5325": {
+      "Muon-DT": 8
+    },
+    "5572": {
+      "Offline And Computing": 5.15,
+      "General": 1
+    },
+    "9677": {
+      "PPD": 0
+    },
+    "9851": {
+      "PPD": 2
+    },
+    "10604": {
+      "PPD": 3
+    },
+    "10874": {
+      "PPD": 2.5
+    }
+  },
+  "SPLIT-FESB": {
+    "84": {
+      "Offline And Computing": 0
+    },
+    "85": {
+      "Offline And Computing": 0,
+      "UPGRADE": 3
+    },
+    "7142": {
+      "Offline And Computing": 0
+    },
+    "8372": {
+      "Offline And Computing": 2
+    },
+    "11300": {
+      "Offline And Computing": 3
+    },
+    "11468": {
+      "UPGRADE": 2
+    },
+    "11488": {
+      "UPGRADE": 2
+    },
+    "11489": {
+      "UPGRADE": 2
+    },
+    "11496": {
+      "UPGRADE": 2
+    },
+    "11501": {
+      "UPGRADE": 2
+    },
+    "11616": {
+      "UPGRADE": 2
+    }
+  },
+  "OVIEDO": {
+    "1399": {
+      "Offline And Computing": 3,
+      "Trigger Coordination": 2
+    },
+    "1769": {
+      "General": 0.5,
+      "PPD": 2,
+      "Trigger Coordination": 2
+    },
+    "4510": {
+      "Trigger Coordination": 2,
+      "PPD": 3
+    },
+    "5069": {
+      "Offline And Computing": 2,
+      "PPD": 2
+    },
+    "7440": {
+      "Offline And Computing": 0.75,
+      "PPD": 4
+    },
+    "10678": {
+      "PPD": 2
+    }
+  },
+  "SKK-UNIV": {
+    "6013": {
+      "Offline And Computing": 12,
+      "Muon-RPC": 10
+    },
+    "6157": {
+      "Muon-RPC": 0
+    },
+    "9984": {
+      "Muon-RPC": 7
+    },
+    "10286": {
+      "Muon-RPC": 0
+    }
+  },
+  "ASRT-ENHEP": {
+    "5827": {
+      "Offline And Computing": 0.5
+    },
+    "7181": {
+      "UPGRADE": 3
+    },
+    "7183": {
+      "PPD": 2
+    },
+    "10010": {
+      "Muon-RPC": 5
+    },
+    "11008": {
+      "UPGRADE": 0
+    }
+  },
+  "TAIPEI-NTU": {
+    "3494": {
+      "Offline And Computing": 3,
+      "PPD": 0
+    },
+    "4023": {
+      "PPD": 1.5
+    },
+    "5175": {
+      "PPD": 1.5,
+      "Tracker": 0.7
+    },
+    "5795": {
+      "Tracker": 7.7
+    },
+    "6431": {
+      "PPD": 1,
+      "Tracker": 0.5,
+      "ECAL": 1.5
+    },
+    "6577": {
+      "UPGRADE": 0
+    },
+    "7091": {
+      "ECAL": 0
+    },
+    "7248": {
+      "ECAL": 0
+    },
+    "7322": {
+      "ECAL": 2
+    },
+    "7962": {
+      "Tracker": 4
+    },
+    "8576": {
+      "Tracker": 2.7,
+      "Trigger Coordination": 1
+    },
+    "9017": {
+      "ECAL": 1,
+      "Tracker": 0.7
+    },
+    "10330": {
+      "Tracker": 1.7
+    },
+    "10999": {
+      "ECAL": 5,
+      "UPGRADE": 2
+    }
+  },
+  "SAO_PAULO": {
+    "4130": {
+      "Tracker": 0
+    },
+    "4891": {
+      "Offline And Computing": 3
+    },
+    "4892": {
+      "Offline And Computing": 1
+    },
+    "4894": {
+      "Offline And Computing": 1
+    },
+    "5689": {
+      "Offline And Computing": 2
+    },
+    "5691": {
+      "Trigger Coordination": 2
+    },
+    "6745": {
+      "Tracker": 2
+    },
+    "7049": {
+      "General": 0.5,
+      "Offline And Computing": 1
+    },
+    "7214": {
+      "Offline And Computing": 0
+    },
+    "7910": {
+      "PPD": 2
+    },
+    "8124": {
+      "Offline And Computing": 1.5
+    },
+    "8567": {
+      "General": 0,
+      "Trigger Coordination": 2
+    },
+    "9124": {
+      "UPGRADE": 4
+    },
+    "9134": {
+      "Tracker": 0
+    },
+    "9271": {
+      "PPD": 5
+    },
+    "9721": {
+      "Offline And Computing": 2.7
+    },
+    "9779": {
+      "PPD": 2
+    },
+    "9966": {
+      "Offline And Computing": 1.5
+    },
+    "10527": {
+      "Offline And Computing": 2
+    },
+    "10530": {
+      "Offline And Computing": 2
+    },
+    "10620": {
+      "Tracker": 0.5
+    },
+    "10685": {
+      "Tracker": 0.5
+    }
+  },
+  "ATHENS": {
+    "6817": {
+      "General": 0
+    },
+    "7299": {
+      "UPGRADE": 3
+    },
+    "7595": {
+      "L1 Trigger": 6
+    },
+    "9375": {
+      "Offline And Computing": 2
+    },
+    "11189": {
+      "Offline And Computing": 3
+    }
+  },
+  "VANDERBILT": {
+    "5180": {
+      "Offline And Computing": 1
+    },
+    "5251": {
+      "Tracker": 4.5,
+      "BRIL": 1.5
+    },
+    "5744": {
+      "Tracker": 5
+    },
+    "6173": {
+      "Offline And Computing": 1
+    },
+    "6423": {
+      "Offline And Computing": 0
+    },
+    "6886": {
+      "General": 0.5
+    },
+    "7171": {
+      "Offline And Computing": 2
+    },
+    "7226": {
+      "Offline And Computing": 6
+    },
+    "7351": {
+      "General": 0.5
+    },
+    "7782": {
+      "Offline And Computing": 4
+    },
+    "8652": {
+      "BRIL": 0
+    },
+    "9113": {
+      "Offline And Computing": 0.4
+    },
+    "9780": {
+      "Offline And Computing": 2,
+      "Trigger Coordination": 1
+    },
+    "9815": {
+      "Offline And Computing": 5
+    },
+    "9880": {
+      "PPD": 0,
+      "Offline And Computing": 3
+    }
+  },
+  "JOHNS-HOPKINS": {
+    "2537": {
+      "Tracker": 4
+    },
+    "4570": {
+      "Offline And Computing": 3,
+      "PPD": 0
+    },
+    "4586": {
+      "Offline And Computing": 2
+    },
+    "5322": {
+      "Tracker": 1
+    },
+    "6881": {
+      "Tracker": 3
+    },
+    "8210": {
+      "Tracker": 2
+    },
+    "8753": {
+      "Tracker": 2
+    },
+    "8875": {
+      "Offline And Computing": 4
+    },
+    "9201": {
+      "Offline And Computing": 4
+    },
+    "9634": {
+      "Tracker": 4.5
+    },
+    "10291": {
+      "Tracker": 3
+    },
+    "10403": {
+      "Tracker": 4.5
+    },
+    "10460": {
+      "Tracker": 0
+    }
+  },
+  "RICE": {
+    "1440": {
+      "L1 Trigger": 3
+    },
+    "2463": {
+      "Muon-CSC": 3,
+      "L1 Trigger": 9
+    },
+    "4607": {
+      "Muon-CSC": 2
+    },
+    "5313": {
+      "Muon-CSC": 12
+    },
+    "5525": {
+      "Trigger Coordination": 1,
+      "L1 Trigger": 1
+    },
+    "6146": {
+      "Tracker": 3
+    },
+    "9078": {
+      "Offline And Computing": 4,
+      "Trigger Coordination": 1
+    },
+    "9521": {
+      "L1 Trigger": 6
+    },
+    "9906": {
+      "Trigger Coordination": 4
+    },
+    "9932": {
+      "L1 Trigger": 6
+    },
+    "10473": {
+      "L1 Trigger": 6
+    },
+    "10555": {
+      "L1 Trigger": 6
+    },
+    "11339": {
+      "Tracker": 3
+    }
+  },
+  "HELSINKI-HIP": {
+    "104": {
+      "Offline And Computing": 9.6
+    },
+    "111": {
+      "PPD": 2
+    },
+    "826": {
+      "General": 6
+    },
+    "1677": {
+      "Trigger Coordination": 4
+    },
+    "2483": {
+      "Tracker": 4,
+      "General": 0.5
+    },
+    "2673": {
+      "L1 Trigger": 4.5
+    },
+    "3347": {
+      "Tracker": 2
+    },
+    "8716": {
+      "PPD": 3
+    },
+    "8727": {
+      "Trigger Coordination": 1,
+      "Tracker": 0.5
+    }
+  },
+  "MINSK-INP": {
+    "33": {
+      "ECAL": 0
+    },
+    "34": {
+      "UPGRADE": 1
+    },
+    "5193": {
+      "ECAL": 2
+    }
+  },
+  "ANKARA-METU": {
+    "1302": {
+      "HCAL": 0
+    },
+    "4986": {
+      "Offline And Computing": 0.5
+    },
+    "6659": {
+      "PPD": 0,
+      "HCAL": 0
+    },
+    "6982": {
+      "HCAL": 3
+    },
+    "7931": {
+      "HCAL": 1
+    },
+    "8047": {
+      "HCAL": 1
+    },
+    "9379": {
+      "HCAL": 1
+    }
+  },
+  "FLORIDA-FIU": {
+    "4128": {
+      "General": 0.5,
+      "HCAL": 0
+    },
+    "4721": {
+      "General": 0.5,
+      "HCAL": 0
+    },
+    "5065": {
+      "HCAL": 5
+    },
+    "10176": {
+      "PPD": 2
+    }
+  },
+  "NICOSIA-UNIV": {
+    "5189": {
+      "UPGRADE": 12
+    },
+    "6880": {
+      "Tracker": 0,
+      "UPGRADE": 8
+    },
+    "10198": {
+      "UPGRADE": 8
+    }
+  },
+  "BAYLOR-UNIV": {
+    "5642": {
+      "HCAL": 5
+    },
+    "7789": {
+      "HCAL": 8,
+      "General": 1.33
+    },
+    "7905": {
+      "Offline And Computing": 0.5,
+      "HCAL": 6
+    },
+    "7947": {
+      "HCAL": 9
+    },
+    "10638": {
+      "HCAL": 6
+    }
+  },
+  "MEXICO-CINVESTAV": {
+    "5003": {
+      "Offline And Computing": 1.2
+    },
+    "7164": {
+      "Offline And Computing": 0
+    },
+    "7237": {
+      "Tracker": 0
+    },
+    "7899": {
+      "Tracker": 0
+    },
+    "9356": {
+      "Tracker": 2
+    },
+    "10041": {
+      "Tracker": 2
+    },
+    "10466": {
+      "Offline And Computing": 3
+    },
+    "10505": {
+      "Tracker": 3.5
+    },
+    "10567": {
+      "Tracker": 2
+    }
+  },
+  "MOSCOW-ITEP": {
+    "405": {
+      "HCAL": 3
+    },
+    "3473": {
+      "HCAL": 3
+    },
+    "4445": {
+      "Offline And Computing": 0,
+      "Trigger Coordination": 4
+    },
+    "4551": {
+      "HCAL": 6
+    },
+    "4774": {
+      "HCAL": 4
+    },
+    "5037": {
+      "HCAL": 7
+    },
+    "7652": {
+      "PPD": 3,
+      "Offline And Computing": 2
+    },
+    "8418": {
+      "HCAL": 2
+    },
+    "9209": {
+      "Offline And Computing": 2
+    },
+    "11099": {
+      "Trigger Coordination": 2
+    }
+  },
+  "IIT-MADRAS": {
+    "11076": {
+      "PPD": 1,
+      "Tracker": 2,
+      "Trigger Coordination": 3
+    }
+  },
+  "FIRENZE": {
+    "271": {
+      "Tracker": 3.3
+    },
+    "272": {
+      "Tracker": 0.8
+    },
+    "273": {
+      "Tracker": 1.5
+    },
+    "275": {
+      "Tracker": 4.05
+    },
+    "986": {
+      "Tracker": 1.1
+    },
+    "1756": {
+      "Offline And Computing": 2.5
+    },
+    "1962": {
+      "Offline And Computing": 1,
+      "Tracker": 5.4
+    },
+    "3893": {
+      "Tracker": 1
+    },
+    "5072": {
+      "Offline And Computing": 1
+    },
+    "10512": {
+      "Offline And Computing": 4
+    },
+    "11055": {
+      "Offline And Computing": 2
+    }
+  },
+  "LIVERMORE": {
+    "710": {
+      "CT-PPS": 1.5
+    },
+    "5320": {
+      "General": 4,
+      "Offline And Computing": 4
+    },
+    "6419": {
+      "CT-PPS": 1.5
+    }
+  },
+  "WARSAW-INS": {
+    "346": {
+      "L1 Trigger": 4
+    },
+    "1210": {
+      "L1 Trigger": 4
+    },
+    "2364": {
+      "L1 Trigger": 6
+    },
+    "3036": {
+      "Trigger Coordination": 4,
+      "L1 Trigger": 2
+    },
+    "3311": {
+      "Offline And Computing": 2.9
+    },
+    "5593": {
+      "L1 Trigger": 3.5
+    },
+    "5621": {
+      "Trigger Coordination": 2,
+      "Offline And Computing": 2
+    },
+    "8327": {
+      "L1 Trigger": 1
+    }
+  },
+  "VILNIUS-UNIV": {
+    "6520": {
+      "Run Coordination": 4
+    },
+    "7117": {
+      "HCAL": 5
+    },
+    "7702": {
+      "PPD": 12
+    },
+    "7866": {
+      "Run Coordination": 4
+    }
+  },
+  "PEKING-UNIV": {
+    "1065": {
+      "Muon-RPC": 1,
+      "General": 0.5
+    },
+    "5841": {
+      "PPD": 3
+    },
+    "8585": {
+      "Tracker": 1
+    },
+    "8586": {
+      "General": 0
+    },
+    "8961": {
+      "PPD": 0.3,
+      "UPGRADE": 0
+    },
+    "9944": {
+      "Offline And Computing": 0.5
+    },
+    "9956": {
+      "Offline And Computing": 0
+    },
+    "9969": {
+      "UPGRADE": 4
+    },
+    "10003": {
+      "Offline And Computing": 3
+    },
+    "10440": {
+      "Offline And Computing": 0
+    },
+    "11027": {
+      "UPGRADE": 0,
+      "Offline And Computing": 0
+    },
+    "11065": {
+      "Offline And Computing": 0
+    }
+  },
+  "MOSCOW-INR": {
+    "327": {
+      "HCAL": 5
+    },
+    "399": {
+      "HCAL": 5
+    },
+    "1383": {
+      "ECAL": 4.5
+    },
+    "1464": {
+      "HCAL": 2
+    },
+    "2369": {
+      "Offline And Computing": 6
+    },
+    "4149": {
+      "HCAL": 3.5
+    },
+    "6243": {
+      "Offline And Computing": 2,
+      "HCAL": 8.5
+    },
+    "6663": {
+      "HCAL": 5
+    },
+    "8302": {
+      "HCAL": 8
+    }
+  },
+  "ISLAMABAD-NCP": {
+    "5665": {
+      "UPGRADE": 0
+    },
+    "6059": {
+      "UPGRADE": 0
+    },
+    "9258": {
+      "UPGRADE": 0
+    },
+    "9713": {
+      "UPGRADE": 0,
+      "Tracker": 2
+    },
+    "10213": {
+      "Muon-RPC": 6
+    },
+    "11070": {
+      "Tracker": 2
+    },
+    "11680": {
+      "Muon-RPC": 6
+    }
+  },
+  "BOSTON-UNIV": {
+    "604": {
+      "HCAL": 2.5
+    },
+    "1008": {
+      "HCAL": 1.5
+    },
+    "2011": {
+      "General": 0
+    },
+    "3244": {
+      "HCAL": 3.5
+    },
+    "5616": {
+      "Offline And Computing": 0.5,
+      "General": 4
+    },
+    "6041": {
+      "Offline And Computing": 0.5,
+      "Trigger Coordination": 6
+    },
+    "8658": {
+      "Offline And Computing": 0.5,
+      "Trigger Coordination": 2.5
+    },
+    "9592": {
+      "HCAL": 6
+    },
+    "9756": {
+      "Offline And Computing": 0.5,
+      "Trigger Coordination": 6
+    },
+    "10495": {
+      "HCAL": 0
+    },
+    "10909": {
+      "HCAL": 0
+    }
+  },
+  "RAL": {
+    "583": {
+      "ECAL": 4
+    },
+    "584": {
+      "General": 2
+    },
+    "585": {
+      "ECAL": 4.5
+    },
+    "2762": {
+      "General": 0.5
+    },
+    "5902": {
+      "L1 Trigger": 12
+    },
+    "6292": {
+      "L1 Trigger": 2,
+      "Offline And Computing": 2
+    },
+    "6730": {
+      "L1 Trigger": 12
+    },
+    "6763": {
+      "General": 4
+    },
+    "7060": {
+      "Offline And Computing": 9
+    },
+    "7077": {
+      "Offline And Computing": 3
+    },
+    "7615": {
+      "Offline And Computing": 12
+    },
+    "8356": {
+      "L1 Trigger": 10
+    },
+    "8423": {
+      "L1 Trigger": 10
+    },
+    "10709": {
+      "Tracker": 1.25
+    }
+  },
+  "IOANNINA": {
+    "199": {
+      "L1 Trigger": 0.5
+    },
+    "200": {
+      "L1 Trigger": 0.5
+    },
+    "808": {
+      "General": 4
+    },
+    "2490": {
+      "L1 Trigger": 0.5
+    },
+    "8243": {
+      "Offline And Computing": 4
+    },
+    "8851": {
+      "L1 Trigger": 6
+    },
+    "9130": {
+      "L1 Trigger": 12
+    },
+    "9166": {
+      "L1 Trigger": 12
+    },
+    "10470": {
+      "General": 0
+    }
+  },
+  "CARNEGIE-MELLON": {
+    "654": {
+      "Muon-CSC": 2,
+      "General": 3
+    },
+    "3043": {
+      "Muon-CSC": 6.5
+    },
+    "4848": {
+      "UPGRADE": 1.5,
+      "ECAL": 0.5
+    },
+    "7168": {
+      "UPGRADE": 0
+    },
+    "7545": {
+      "ECAL": 1.5
+    },
+    "9262": {
+      "UPGRADE": 0
+    },
+    "10183": {
+      "ECAL": 4,
+      "UPGRADE": 2
+    },
+    "10744": {
+      "UPGRADE": 3
+    }
+  },
+  "PUNE-IISER": {
+    "4580": {
+      "HCAL": 12,
+      "Offline And Computing": 6
+    },
+    "10639": {
+      "Offline And Computing": 4
+    },
+    "10656": {
+      "Offline And Computing": 5
+    },
+    "10903": {
+      "HCAL": 2.5
+    },
+    "10932": {
+      "Offline And Computing": 6
+    },
+    "11040": {
+      "Offline And Computing": 6
+    },
+    "11268": {
+      "HCAL": 2
+    }
+  },
+  "MOSCOW-LEBEDEV": {
+    "2432": {
+      "HCAL": 6
+    },
+    "6457": {
+      "Offline And Computing": 5,
+      "HCAL": 4
+    },
+    "6946": {
+      "HCAL": 0
+    },
+    "7625": {
+      "HCAL": 4,
+      "Trigger Coordination": 0.5
+    }
+  },
+  "MALAYA": {
+    "7799": {
+      "Trigger Coordination": 1.5
+    },
+    "8203": {
+      "Muon-DT": 10
+    },
+    "9845": {
+      "Muon-DT": 3
+    },
+    "10138": {
+      "Trigger Coordination": 1.5
+    },
+    "10254": {
+      "Trigger Coordination": 1.5
+    },
+    "10362": {
+      "Muon-DT": 3
+    },
+    "10481": {
+      "Muon-DT": 3
+    },
+    "10585": {
+      "Offline And Computing": 0
+    },
+    "10648": {
+      "Offline And Computing": 8
+    },
+    "10693": {
+      "Muon-DT": 3
+    }
+  },
+  "KANSAS-STATE": {
+    "5210": {
+      "HCAL": 4
+    },
+    "5831": {
+      "HCAL": 4
+    },
+    "6634": {
+      "Offline And Computing": 0.5,
+      "HCAL": 3,
+      "PPD": 1
+    },
+    "7300": {
+      "PPD": 0,
+      "Tracker": 0.5
+    },
+    "7407": {
+      "HCAL": 2
+    },
+    "7663": {
+      "Tracker": 3
+    },
+    "7819": {
+      "Offline And Computing": 0.5
+    },
+    "9126": {
+      "Offline And Computing": 0.5,
+      "Run Coordination": 3,
+      "PPD": 1
+    },
+    "9238": {
+      "HCAL": 3
+    },
+    "11193": {
+      "PPD": 1,
+      "Run Coordination": 0
+    },
+    "11203": {
+      "Tracker": 0
+    }
+  },
+  "DEMOKRITOS": {
+    "1098": {
+      "Tracker": 1
+    },
+    "1524": {
+      "Tracker": 3
+    },
+    "1899": {
+      "PPD": 2
+    },
+    "2659": {
+      "UPGRADE": 1
+    },
+    "8779": {
+      "Tracker": 1
+    },
+    "8970": {
+      "PPD": 3
+    },
+    "9709": {
+      "Tracker": 3,
+      "UPGRADE": 3
+    },
+    "10389": {
+      "ECAL": 0
+    },
+    "10426": {
+      "PPD": 1
+    },
+    "10427": {
+      "ECAL": 2
+    }
+  },
+  "DUBLIN-UCD": {
+    "2907": {
+      "Trigger Coordination": 5
+    }
+  },
+  "AACHEN-3B": {
+    "1984": {
+      "Offline And Computing": 3.5
+    },
+    "3626": {
+      "Offline And Computing": 3.3
+    },
+    "7815": {
+      "L1 Trigger": 3
+    },
+    "8646": {
+      "PPD": 3
+    },
+    "9049": {
+      "PPD": 0,
+      "Offline And Computing": 0
+    },
+    "9066": {
+      "HCAL": 5,
+      "L1 Trigger": 4
+    },
+    "9731": {
+      "PPD": 3,
+      "Offline And Computing": 3
+    }
+  },
+  "MEXICO-PUEBLA": {
+    "5781": {
+      "Muon-RPC": 5
+    },
+    "9826": {
+      "Muon-RPC": 4
+    },
+    "11013": {
+      "Muon-RPC": 4
+    }
+  },
+  "SEOUL-UNIV": {
+    "4629": {
+      "UPGRADE": 0
+    },
+    "6456": {
+      "UPGRADE": 0
+    },
+    "6737": {
+      "UPGRADE": 0
+    },
+    "7231": {
+      "UPGRADE": 0
+    },
+    "7564": {
+      "Offline And Computing": 0.5,
+      "UPGRADE": 2
+    },
+    "10346": {
+      "Offline And Computing": 0.5,
+      "UPGRADE": 3
+    },
+    "11132": {
+      "UPGRADE": 0
+    }
+  },
+  "PADOVA": {
+    "282": {
+      "Tracker": 3
+    },
+    "293": {
+      "Muon-DT": 2
+    },
+    "1271": {
+      "General": 4
+    },
+    "2349": {
+      "Muon-DT": 2
+    },
+    "2350": {
+      "Muon-DT": 6
+    },
+    "2418": {
+      "Trigger Coordination": 4
+    },
+    "2742": {
+      "Muon-DT": 2
+    },
+    "2817": {
+      "Muon-DT": 7
+    },
+    "2961": {
+      "Offline And Computing": 4.1
+    },
+    "2967": {
+      "Muon-DT": 8
+    },
+    "3038": {
+      "Muon-DT": 6
+    },
+    "3316": {
+      "General": 2
+    },
+    "3575": {
+      "Muon-DT": 3
+    },
+    "4053": {
+      "PPD": 4
+    },
+    "4060": {
+      "Offline And Computing": 2
+    },
+    "4108": {
+      "Offline And Computing": 6.1
+    },
+    "5901": {
+      "Offline And Computing": 4.1
+    },
+    "6160": {
+      "Trigger Coordination": 6,
+      "Tracker": 2
+    },
+    "6984": {
+      "Muon-DT": 3,
+      "Tracker": 1
+    },
+    "8146": {
+      "Muon-DT": 2
+    },
+    "8437": {
+      "Offline And Computing": 2.1
+    },
+    "8656": {
+      "Trigger Coordination": 4
+    },
+    "8914": {
+      "Tracker": 1
+    },
+    "10625": {
+      "Offline And Computing": 3
+    },
+    "10650": {
+      "PPD": 3
+    }
+  },
+  "LAPPEENRANTA-LUT": {
+    "1185": {
+      "UPGRADE": 2
+    }
+  },
+  "SACLAY": {
+    "145": {
+      "ECAL": 3
+    },
+    "1087": {
+      "ECAL": 7
+    },
+    "1156": {
+      "ECAL": 4
+    },
+    "2850": {
+      "ECAL": 2
+    },
+    "3343": {
+      "ECAL": 4
+    },
+    "3622": {
+      "Offline And Computing": 1
+    },
+    "4345": {
+      "ECAL": 4
+    },
+    "4579": {
+      "General": 4
+    },
+    "4978": {
+      "ECAL": 1
+    },
+    "6037": {
+      "ECAL": 4
+    },
+    "6070": {
+      "ECAL": 2,
+      "Offline And Computing": 2
+    },
+    "6132": {
+      "ECAL": 2
+    },
+    "7637": {
+      "ECAL": 4
+    },
+    "8698": {
+      "ECAL": 0
+    },
+    "8814": {
+      "Offline And Computing": 3,
+      "PPD": 1
+    },
+    "9086": {
+      "ECAL": 3,
+      "PPD": 0
+    },
+    "10900": {
+      "ECAL": 6
+    }
+  },
+  "MEPHI": {
+    "413": {
+      "HCAL": 4
+    },
+    "10508": {
+      "HCAL": 0
+    },
+    "11000": {
+      "HCAL": 4
+    },
+    "11001": {
+      "HCAL": 3
+    },
+    "11012": {
+      "HCAL": 0
+    },
+    "11015": {
+      "HCAL": 4
+    },
+    "11052": {
+      "HCAL": 2
+    }
+  },
+  "HELSINKI-UNIV": {
+    "3843": {
+      "PPD": 4
+    },
+    "7008": {
+      "General": 0.5
+    }
+  },
+  "ZURICH-UNIV": {
+    "1141": {
+      "Tracker": 3
+    },
+    "5268": {
+      "PPD": 6
+    },
+    "5985": {
+      "Tracker": 4
+    },
+    "6161": {
+      "Offline And Computing": 2,
+      "Tracker": 2
+    },
+    "7039": {
+      "Tracker": 2
+    },
+    "7096": {
+      "Tracker": 4
+    },
+    "7461": {
+      "Tracker": 4
+    },
+    "7616": {
+      "Tracker": 2
+    },
+    "9354": {
+      "Tracker": 4
+    },
+    "9498": {
+      "PPD": 2
+    },
+    "9550": {
+      "Tracker": 1.5
+    },
+    "9730": {
+      "Tracker": 2
+    },
+    "10008": {
+      "Tracker": 4
+    },
+    "10441": {
+      "Tracker": 5
+    },
+    "10513": {
+      "Trigger Coordination": 4
+    },
+    "10617": {
+      "Tracker": 3
+    }
+  },
+  "MADRID-UNIV": {
+    "3472": {
+      "L1 Trigger": 4
+    },
+    "9734": {
+      "L1 Trigger": 4
+    },
+    "9996": {
+      "L1 Trigger": 3
+    }
+  },
+  "BUDAPEST": {
+    "207": {
+      "General": 0.5,
+      "Tracker": 2
+    },
+    "860": {
+      "General": 0.5
+    },
+    "861": {
+      "Offline And Computing": 4
+    },
+    "2825": {
+      "Tracker": 2.5
+    },
+    "6410": {
+      "Tracker": 4.5
+    },
+    "8136": {
+      "Offline And Computing": 4
+    },
+    "9742": {
+      "Tracker": 4
+    },
+    "10173": {
+      "Offline And Computing": 1
+    },
+    "10247": {
+      "Tracker": 5
+    }
+  },
+  "UNIANDES": {
+    "5825": {
+      "PPD": 3
+    },
+    "7279": {
+      "Muon-RPC": 10
+    },
+    "10959": {
+      "UPGRADE": 5
+    }
+  },
+  "SOFIA-ISER": {
+    "6080": {
+      "General": 0
+    }
+  },
+  "DEBRECEN-IEP": {
+    "6943": {
+      "Muon-DT": 4
+    },
+    "9162": {
+      "Muon-DT": 6
+    },
+    "10242": {
+      "Tracker": 6
+    }
+  },
+  "ALABAMA-UNIV": {
+    "5079": {
+      "General": 4
+    },
+    "5603": {
+      "PPD": 3,
+      "HCAL": 2
+    },
+    "5669": {
+      "HCAL": 6
+    },
+    "7120": {
+      "HCAL": 0
+    },
+    "10128": {
+      "HCAL": 0
+    }
+  },
+  "CHONNAM": {
+    "4642": {
+      "Offline And Computing": 0.5,
+      "PPD": 2
+    },
+    "9305": {
+      "PPD": 2,
+      "Offline And Computing": 1
+    }
+  },
+  "FLORIDA-TECH": {
+    "793": {
+      "General": 0.5
+    },
+    "3656": {
+      "UPGRADE": 3
+    },
+    "5837": {
+      "Offline And Computing": 0.5,
+      "HCAL": 0
+    },
+    "7393": {
+      "HCAL": 5
+    },
+    "9291": {
+      "UPGRADE": 3
+    },
+    "9658": {
+      "HCAL": 0
+    }
+  },
+  "NOVOSIBIRSK-NSU": {
+    "11583": {
+      "ECAL": 3
+    },
+    "11620": {
+      "ECAL": 3
+    },
+    "11752": {
+      "ECAL": 1
+    }
+  },
+  "YEREVAN": {
+    "4": {
+      "HCAL": 0.5
+    },
+    "5966": {
+      "HCAL": 4
+    },
+    "6473": {
+      "HCAL": 0.5
+    }
+  },
+  "TENNESSEE": {
+    "1038": {
+      "BRIL": 3
+    },
+    "5076": {
+      "Trigger Coordination": 0,
+      "BRIL": 6
+    },
+    "9006": {
+      "BRIL": 4,
+      "Tracker": 0
+    },
+    "9013": {
+      "BRIL": 2
+    },
+    "10996": {
+      "BRIL": 3
+    }
+  },
+  "KANGWON": {
+    "6106": {
+      "Tracker": 3,
+      "PPD": 2
+    },
+    "9623": {
+      "Tracker": 1
+    },
+    "9624": {
+      "Tracker": 0
+    }
+  },
+  "PURDUE-CALUMET": {
+    "4902": {
+      "Offline And Computing": 2
+    },
+    "9797": {
+      "Tracker": 1.5,
+      "Offline And Computing": 0.5
+    }
+  },
+  "FAIRFIELD": {
+    "659": {
+      "HCAL": 0,
+      "UPGRADE": 0
+    }
+  },
+  "LYON_CC": {
+    "8536": {
+      "Offline And Computing": 11
+    }
+  }
+}
