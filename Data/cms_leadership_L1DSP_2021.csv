@@ -1,0 +1,208 @@
+role,,,FRA,GER,ITA,UK,CH,CERN,USA,RDMS,O/CERN,O/non Cern,Women
+,,,,,,,,,,,,,
+total adm,,,0,1,1,1,0,5,2,0,1,0,0
+2007,Office,Virdee,,,,1,,,,,,,
+DSP,Office,Tonelli,,,1,,,,1,,,,
+DSP,Office,Cousins,,,,,,,,,,,
+Phys,Office,Sphicas,,,,,,,,,1,,
+Offline,Office,j. Harvey,,,,,,1,,,,,
+Computing,Office,Kasemann,,1,,,,,,,,,
+Trigger,Office,Smith,,,,,,,1,,,,
+Run,Office,Camporesi,,,,,,1,,,,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PUB comm,Office,Rolandi,,,,,,1,,,,,
+,,,,,,,,,,,,,
+total adm,,,0,0,2,0,0,4,4,0,0,1,1
+2010,Office,Tonelli,,,1,,,,,,,,
+DSP,Office,Incandela,,,,,,,1,,,,
+DSP,Office,De Roeck,,,,,,1,,,,,
+Phys,Office,Rolandi,,,,,,1,,,,,
+Offline,Office,Sexton Kennedy,,,,,,,1,,,,
+Computing,Office,Fisk,,,,,,,1,,,,
+Trigger,Office,Smith,,,,,,,1,,,,
+Run,Office,Chamizo,,,,,,,,,,1,1
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+Pub comm,Office,Tenchini,,,1,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,1,0,2,0,0,3,5,0,1,1,3
+2012,Office,Incandela,,,,,,,1,,,,
+DSP,Office,Camporesi,,,,,,1,,,,,
+DSP,Office,Varela,,,,,,,,,,,
+Phys,Office,Landsberg,,,,,,,1,,,,
+Offline,Office,Sexton Kennedy,,,,,,,1,,,,1
+Computing,Office,Fisk,,,,,,,1,,,,
+Trigger,Office,Carlin,,,1,,,,,,,,
+Run,Office,Chamizo,,,,,,,,,,1,1
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PPD,Office,Silvestris,,,1,,,,,,,,1
+Pub Comm,Office,Sphicas,,,,,,,,,1,,
+Upgrade,Office,Spalding,,,,,,,1,,,,
+Upgrade,Office,Contardo,1,,,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,2,1,0,0,0,6,2,0,1,0,2
+2014,Office,Camporesi,,,,,,1,,,,,
+DSP,Office,Sphicas,,,,,,,,,1,,
+DSP,Office,Borras,,1,,,,,,,,,1
+Phys,Office,Malgeri,,,,,,1,,,,,
+Offline,Office,Lange,,,,,,,1,,,,
+Computing,Office,Girone,,,,,,,,,,,1
+Trigger,Office,Carlin,,,,,,1,,,,,
+Run,Office,Rakness,,,,,,,1,,,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PPD,Office,Cerminara,,,,,,1,,,,,
+Pub comm,Office,Hamel de M.,1,,,,,,,,,,
+Upgrade,Office,Contardo,1,,,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,1,1,0,0,0,7,3,0,1,0,3
+2015,Office,Camporesi,,,,,,1,,,,,
+DSP,Office,Sphicas,,,,,,,,,1,,
+DSP,Office,Borras,,1,,,,,,,,,1
+Phys,Office,Malgeri,,,,,,1,,,,,
+Phys,Office,Olsen,,,,,,,1,,,,
+Offline,Office,Lange,,,,,,,1,,,,
+Computing,Office,Girone,,,,,,1,,,,,1
+Trigger,Office,Bose,,,,,,,1,,,,1
+Run,Office,Schwick,,,,,,1,,,,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PPD,Office,Pierini,,,,,,1,,,,,
+Upgrade,Office,Contardo,1,,,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,1,1,0,0,0,7,3,0,2,0,2
+,,,,,,,,,,,,,
+2016,Office,Camporesi,,,,,,1,,,,,
+DSP,Office,Sphicas,,,,,,,,,1,,
+DSP,Office,Borras,,1,,,,,,,,,1
+Phys,Office,Olsen,,,,,,,1,,,,
+Phys,Office,Alcaraz,,,,,,,,,1,,
+Computing,Office,Girone,,,,,,1,,,,,1
+Offline?comp,Office,Lange,,,,,,,1,,,,
+Trigger,Office,Bocci,,,,,,1,,,,,
+Run,Office,Rakness,,,,,,,1,,,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PPD,Office,Pierini,,,,,,1,,,,,
+PPD,Office,Cerminara,,,,,,1,,,,,
+Upgrade,Office,Contardo,1,,,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,1,0,4,0,0,4,5,0,2,0,2
+2017,Office,Butler,,,,,,,1,,,,
+DSP,Office,Dissertori,,,,,,,,,,,
+DSP,Office,Carlin,,,1,,,,,,,,
+Phys,Office,Alcaraz,,,,,,,,,1,,
+Phys,Office,Rahatlou,,,1,,,,,,,,
+Offline?comp,Office,Sexton-Kennedy,,,,,,,1,,,,1
+Offline?comp,Office,Bonacorsi,,,1,,,,,,,,
+Trigger,Office,Bocci,,,,,,1,,,,,
+Trigger,Office,Gennai,,,1,,,,,,,,
+Run,Office,Rakness,,,,,,,1,,,,
+Run,Office,Goy-Lopez,,,,,,,,,1,,1
+PubCom,Office,Gary,,,,,,,1,,,,
+PPD,Office,Cerminara,,,,,,1,,,,,
+PPD,Office,Klute,,,,,,,1,,,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+Upgrade,Office,Contardo,1,,,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,1,0,6,0,0,3,5,0,1,0,3
+,,,,,,,,,,,,,
+2018,Office,Butler,,,,,,,1,,,,
+DSP,Office,Dissertori,,,,,,,,,,,
+DSP,Office,Carlin,,,1,,,,,,,,
+Phys,Office,Bose,,,,,,,1,,,,1
+Phys,Office,Rahatlou,,,1,,,,,,,,
+Offline?comp,Office,Boccali,,,1,,,,,,,,
+Offline?comp,Office,Bonacorsi,,,1,,,,,,,,
+Trigger,Office,Pieri,,,,,,,1,,,,
+Trigger,Office,Gennai,,,1,,,,,,,,
+Run,Office,Silvestris,,,1,,,,,,,,1
+Run,Office,Goy-Lopez,,,,,,,,,1,,1
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PubCom,Office,Gary,,,,,,,1,,,,
+PPD,Office,Klute,,,,,,,1,,,,
+PPD,Office,Franzoni,,,,,,1,,,,,
+Upgrade,Office,Contardo,1,,,,,,,,,,
+,,,,,,,,,,,,,
+total adm,,,0,1,4,1,0,5,5,0,1,1,4
+2019,Office,Carlin,,,1,,,,,,,,
+DSP,Office,McBride,,,,,,,1,,,,1
+DSP,Office,Malgeri,,,,,,1,,,,,
+Phys,Office,Bose,,,,,,,1,,,,1
+Phys,Office,Adam,,,,,,,,,1,,
+Offline?comp,Office,Klute,,,,,,,1,,,,
+Offline?comp,Office,Boccali,,,1,,,,,,,,
+Trigger,Office,Pieri,,,,,,,1,,,,
+Trigger,Office,Gennai,,,1,,,,,,,,
+Run,Office,Silvestris,,,1,,,,,,,,1
+Run,Office,Paramavesaran,,,,1,,,,,,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PubCom,Office,Klima,,,,,,,1,,,,
+PPD,Office,Franzoni,,,,,,1,,,,,
+PPD,Office,Srimanhobas,,,,,,,,,,1,
+Upgrade,Office,Hartmann,,1,,,,,,,,,
+UP tech,Office,Garrido,,,,,,1,,,,,1
+,,,,,,,,,,,,,
+total adm,,,0,1,3,1,0,5,4,0,3,1,3
+2020,Office,Carlin,,,1,,,,,,,,
+DSP,Office,McBride,,,,,,,1,,,,1
+DSP,Office,Malgeri,,,,,,1,,,,,
+Phys,Office,Pieri,,,,,,,1,,,,
+Phys,Office,Adam,,,,,,,,,1,,
+Offline?comp,Office,Piparo,,,,,,1,,,,,
+Offline?comp,Office,Klute,,,,,,,1,,,,
+Trigger,Office,Harper,,,,1,,,,,,,
+Trigger,Office,Gennai,,,1,,,,,,,,
+Run,Office,Silvestris,,,1,,,,,,,,1
+Run,Office,Vormwald,,,,,,,,,1,,
+Tech,Office,Ball,,,,,,1,,,,,
+Dtech,Office,Zeuner,,,,,,1,,,,,
+PPD,Office,Meyer,,,,,,,,,1,,
+PPD,Office,Srimanhobas,,,,,,,,,,1,
+PubCom,Office,Klima,,,,,,,1,,,,
+Upgrade,Office,Hartmann,,1,,,,,,,,,
+UP tech,Office,Garrido,,,,,,1,,,,,1
+,,,,,,,,,,,,,
+total adm,,,2,1,2,1,0,5,6,0,1,0,3
+2021,Office,Malgeri,,,,,,1,,,,,
+DSP,Office,Olsen,,,,,,,1,,,,
+DSP,Office,Monchenault,1,,,,,,,,,,
+Phys,Office,Rizzi,,,1,,,,,,,,
+Phys,Office,Pieri,,,,,,,1,,,,
+Offline?comp,Office,Letts,,,,,,,1,,,,
+Offline?comp,Office,Piparo,,,,,,1,,,,,
+Trigger,Office,Acosta,,,,,,,1,,,,
+Trigger,Office,Harper,,,,1,,,,,,,
+Run,Office,Boudoul,1,,,,,,,,,,1
+Run,Office,Masetti,,,1,,,,,,,,
+Tech,Office,Zeuner,,,,,,1,,,,,
+Dtech,Office,T…..,,,,,,1,,,,,1
+PubCom,Office,Klima,,,,,,,1,,,,
+PPD,Office,Rappoccio,,,,,,,1,,,,
+PPD,Office,Meyer,,,,,,,,,1,,
+Upgrade,Office,Hartmann,,1,,,,,,,,,
+UP tech,Office,Garrido,,,,,,1,,,,,1
+,,,,,,,,,,,,,
+total adm,,,2,1,3,0,1,4,6,0,0,0,4
+2022,Office,Malgeri,,,,,,1,,,,,
+DSP,Office,Olsen,,,,,,,1,,,,
+DSP,Office,Monchenault,1,,,,,,,,,,
+Phys,Office,Rizzi,,,1,,,,,,,,
+Phys,Office,Canelli,,,,,1,,,,,,1
+Offline?comp,Office,Letts,,,,,,,1,,,,
+Offline?comp,Office,Piparo,,,,,,1,,,,,
+Trigger,Office,Acosta,,,,,,,1,,,,
+Trigger,Office,Donato,,,1,,,,,,,,
+Run,Office,Boudoul,1,,,,,,,,,,1
+Run,Office,Masetti,,,1,,,,,,,,
+Tech,Office,Zeuner,,,,,,1,,,,,
+Upg Tech,Office,Tropea,,,,,,1,,,,,1
+PubCom,Office,Klima,,,,,,,1,,,,
+PPD,Office,Rappoccio,,,,,,,1,,,,
+PPD,Office,Maeshima,,,,,,,1,,,,1
+Upgrade,Office,Hartmann,,1,,,,,,,,,

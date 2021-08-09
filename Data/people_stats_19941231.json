@@ -1,0 +1,2585 @@
+[
+  {
+    "cms_id": 32,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MINSK-RIAPP",
+    "is_author": null
+  },
+  {
+    "cms_id": 31,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MINSK-RIAPP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "YEREVAN",
+    "is_author": null
+  },
+  {
+    "cms_id": 75,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 78,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 83,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "HEFEI-USTC",
+    "is_author": null
+  },
+  {
+    "cms_id": 55,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SOFIA-INRNE",
+    "is_author": null
+  },
+  {
+    "cms_id": 86,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "SPLIT-FESB",
+    "is_author": null
+  },
+  {
+    "cms_id": 87,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "SPLIT-FESB",
+    "is_author": null
+  },
+  {
+    "cms_id": 91,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BRNO",
+    "is_author": null
+  },
+  {
+    "cms_id": 92,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "BRNO",
+    "is_author": null
+  },
+  {
+    "cms_id": 93,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "BRNO",
+    "is_author": null
+  },
+  {
+    "cms_id": 94,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BRNO",
+    "is_author": null
+  },
+  {
+    "cms_id": 95,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "PRAGUE-ICM",
+    "is_author": null
+  },
+  {
+    "cms_id": 100,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "TALLINN",
+    "is_author": null
+  },
+  {
+    "cms_id": 101,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "TALLINN",
+    "is_author": null
+  },
+  {
+    "cms_id": 103,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TALLINN",
+    "is_author": null
+  },
+  {
+    "cms_id": 107,
+    "status_cms": "NOSHOW",
+    "activity_cms": "Physicist",
+    "inst_code": "JYVASKYLA",
+    "is_author": null
+  },
+  {
+    "cms_id": 123,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "LYON",
+    "is_author": null
+  },
+  {
+    "cms_id": 133,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 136,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 138,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 143,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 171,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TBILISI-TSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 176,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 177,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 211,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "DEBRECEN-IEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 214,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR",
+    "is_author": null
+  },
+  {
+    "cms_id": 224,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR",
+    "is_author": null
+  },
+  {
+    "cms_id": 226,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR",
+    "is_author": null
+  },
+  {
+    "cms_id": 228,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BHUBANESWAR",
+    "is_author": null
+  },
+  {
+    "cms_id": 263,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "AQUILA",
+    "is_author": null
+  },
+  {
+    "cms_id": 266,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 267,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 316,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 318,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 328,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 330,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 339,
+    "status_cms": "NOTCMS",
+    "activity_cms": null,
+    "inst_code": "TSUKUBA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 340,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "RIGA",
+    "is_author": null
+  },
+  {
+    "cms_id": 341,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BRUSSEL-VUB",
+    "is_author": null
+  },
+  {
+    "cms_id": 353,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 394,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 397,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 411,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 414,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 415,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 425,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-MSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 439,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "NOVOSIBIRSK",
+    "is_author": null
+  },
+  {
+    "cms_id": 441,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "NOVOSIBIRSK",
+    "is_author": null
+  },
+  {
+    "cms_id": 474,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "ZILINA",
+    "is_author": null
+  },
+  {
+    "cms_id": 492,
+    "status_cms": "NOTCMS",
+    "activity_cms": null,
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 499,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 521,
+    "status_cms": "NOTCMS",
+    "activity_cms": null,
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 527,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 543,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 572,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 586,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 590,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 594,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KHARKOV-KSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 595,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KHARKOV-ISMA",
+    "is_author": null
+  },
+  {
+    "cms_id": 599,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KHARKOV-KIPT",
+    "is_author": null
+  },
+  {
+    "cms_id": 602,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KHARKOV-ISMA",
+    "is_author": null
+  },
+  {
+    "cms_id": 612,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BOSTON-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 613,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "BROOKHAVEN",
+    "is_author": null
+  },
+  {
+    "cms_id": 614,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "BROOKHAVEN",
+    "is_author": null
+  },
+  {
+    "cms_id": 615,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BROOKHAVEN",
+    "is_author": null
+  },
+  {
+    "cms_id": 629,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "UCLA",
+    "is_author": null
+  },
+  {
+    "cms_id": 642,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCRIVERSIDE",
+    "is_author": null
+  },
+  {
+    "cms_id": 645,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCSD",
+    "is_author": null
+  },
+  {
+    "cms_id": 646,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCSD",
+    "is_author": null
+  },
+  {
+    "cms_id": 650,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCSD",
+    "is_author": null
+  },
+  {
+    "cms_id": 651,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCSD",
+    "is_author": null
+  },
+  {
+    "cms_id": 656,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CARNEGIE-MELLON",
+    "is_author": null
+  },
+  {
+    "cms_id": 660,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 665,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 677,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 683,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 696,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-SCRI",
+    "is_author": null
+  },
+  {
+    "cms_id": 698,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "FLORIDA-SCRI",
+    "is_author": null
+  },
+  {
+    "cms_id": 711,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "LIVERMORE",
+    "is_author": null
+  },
+  {
+    "cms_id": 714,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "LOS_ALAMOS",
+    "is_author": null
+  },
+  {
+    "cms_id": 715,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "LOS_ALAMOS",
+    "is_author": null
+  },
+  {
+    "cms_id": 717,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "LOS_ALAMOS",
+    "is_author": null
+  },
+  {
+    "cms_id": 742,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "MISSISSIPPI",
+    "is_author": null
+  },
+  {
+    "cms_id": 747,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "NEBRASKA",
+    "is_author": null
+  },
+  {
+    "cms_id": 748,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "NEBRASKA",
+    "is_author": null
+  },
+  {
+    "cms_id": 782,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PURDUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 794,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "STONY_BROOK",
+    "is_author": null
+  },
+  {
+    "cms_id": 796,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TEXAS-DALLAS",
+    "is_author": null
+  },
+  {
+    "cms_id": 797,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "TEXAS-DALLAS",
+    "is_author": null
+  },
+  {
+    "cms_id": 798,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TEXAS-DALLAS",
+    "is_author": null
+  },
+  {
+    "cms_id": 810,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "WISCONSIN",
+    "is_author": null
+  },
+  {
+    "cms_id": 831,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 838,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 839,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "PRINCETON",
+    "is_author": null
+  },
+  {
+    "cms_id": 852,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "PSI",
+    "is_author": null
+  },
+  {
+    "cms_id": 855,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 856,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 857,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 883,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 907,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 911,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 943,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 945,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 947,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 952,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "IOANNINA",
+    "is_author": null
+  },
+  {
+    "cms_id": 955,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 979,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "PADOVA",
+    "is_author": null
+  },
+  {
+    "cms_id": 985,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ROMA-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 990,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "DELHI-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 1000,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 1010,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PROTVINO",
+    "is_author": null
+  },
+  {
+    "cms_id": 1021,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "STRASBOURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 1033,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KHARKOV-ISMA",
+    "is_author": null
+  },
+  {
+    "cms_id": 1041,
+    "status_cms": "EXMEMBER",
+    "activity_cms": null,
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1057,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "HEFEI-USTC",
+    "is_author": null
+  },
+  {
+    "cms_id": 396,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "NORTHEASTERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1072,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1073,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1082,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 1083,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1097,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "JYVASKYLA",
+    "is_author": null
+  },
+  {
+    "cms_id": 1100,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ISLAMABAD-NCP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1121,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "LAPP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1129,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 1133,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 1139,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "HELSINKI-HIP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1165,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ISLAMABAD-NCP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1167,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "PRAGUE-CTU",
+    "is_author": null
+  },
+  {
+    "cms_id": 1171,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "JOHNS-HOPKINS",
+    "is_author": null
+  },
+  {
+    "cms_id": 1175,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "NICOSIA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 1186,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "LIP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1205,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1208,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "LAPP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1224,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 407,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 413,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 566,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BRUNEL",
+    "is_author": null
+  },
+  {
+    "cms_id": 623,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "UCDAVIS",
+    "is_author": null
+  },
+  {
+    "cms_id": 627,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 669,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 808,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 812,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 901,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 953,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 1081,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 1201,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 830,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 43,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LOUVAIN",
+    "is_author": null
+  },
+  {
+    "cms_id": 72,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 73,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 74,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 76,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 88,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SPLIT-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 96,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 132,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 134,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 137,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 139,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 140,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 145,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 147,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 149,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 159,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "STRASBOURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 165,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "STRASBOURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 169,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TBILISI-TSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 172,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TBILISI-TSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 173,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TBILISI-TSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 174,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PSI",
+    "is_author": null
+  },
+  {
+    "cms_id": 183,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-3A",
+    "is_author": null
+  },
+  {
+    "cms_id": 188,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-3B",
+    "is_author": null
+  },
+  {
+    "cms_id": 192,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DEMOKRITOS",
+    "is_author": null
+  },
+  {
+    "cms_id": 209,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BUDAPEST",
+    "is_author": null
+  },
+  {
+    "cms_id": 210,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DEBRECEN-IEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 212,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "DEBRECEN-IEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 213,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR",
+    "is_author": null
+  },
+  {
+    "cms_id": 222,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR",
+    "is_author": null
+  },
+  {
+    "cms_id": 225,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR",
+    "is_author": null
+  },
+  {
+    "cms_id": 243,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOLOGNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 257,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CATANIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 259,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CATANIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 268,
+    "status_cms": null,
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 270,
+    "status_cms": null,
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 280,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "GENOVA",
+    "is_author": null
+  },
+  {
+    "cms_id": 302,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 312,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 315,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 358,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 359,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 365,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 376,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 386,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DUBNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 392,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 393,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "YALE",
+    "is_author": null
+  },
+  {
+    "cms_id": 399,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 400,
+    "status_cms": "CMS",
+    "activity_cms": "Other",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 404,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 408,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ROCHESTER",
+    "is_author": null
+  },
+  {
+    "cms_id": 409,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 424,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-LEBEDEV",
+    "is_author": null
+  },
+  {
+    "cms_id": 428,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-MSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 468,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "PROTVINO",
+    "is_author": null
+  },
+  {
+    "cms_id": 470,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "PROTVINO",
+    "is_author": null
+  },
+  {
+    "cms_id": 472,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 476,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 477,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 478,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 479,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 480,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 486,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MADRID-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 489,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SANTANDER",
+    "is_author": null
+  },
+  {
+    "cms_id": 498,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 503,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 510,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Other",
+    "inst_code": "DESY",
+    "is_author": null
+  },
+  {
+    "cms_id": 528,
+    "status_cms": "NOTCMS",
+    "activity_cms": null,
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 554,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 557,
+    "status_cms": "CMS",
+    "activity_cms": "Administrative",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 564,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BRISTOL",
+    "is_author": null
+  },
+  {
+    "cms_id": 584,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 591,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 592,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "RAL",
+    "is_author": null
+  },
+  {
+    "cms_id": 622,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "UCDAVIS",
+    "is_author": null
+  },
+  {
+    "cms_id": 631,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "UCLA",
+    "is_author": null
+  },
+  {
+    "cms_id": 638,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "UCLA",
+    "is_author": null
+  },
+  {
+    "cms_id": 661,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 664,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 671,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 673,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 676,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 682,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 691,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 693,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-STATE",
+    "is_author": null
+  },
+  {
+    "cms_id": 695,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "FLORIDA-STATE",
+    "is_author": null
+  },
+  {
+    "cms_id": 705,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "AMES",
+    "is_author": null
+  },
+  {
+    "cms_id": 719,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 720,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "MARYLAND",
+    "is_author": null
+  },
+  {
+    "cms_id": 728,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MIT",
+    "is_author": null
+  },
+  {
+    "cms_id": 732,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "MIT",
+    "is_author": null
+  },
+  {
+    "cms_id": 737,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MINNESOTA",
+    "is_author": null
+  },
+  {
+    "cms_id": 744,
+    "status_cms": null,
+    "activity_cms": "Physicist",
+    "inst_code": "MISSISSIPPI",
+    "is_author": null
+  },
+  {
+    "cms_id": 753,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "NORTHEASTERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 754,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "NORTHEASTERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 758,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "NORTHWESTERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 760,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "NOTRE_DAME",
+    "is_author": null
+  },
+  {
+    "cms_id": 765,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "OHIO-STATE",
+    "is_author": null
+  },
+  {
+    "cms_id": 768,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "OHIO-STATE",
+    "is_author": null
+  },
+  {
+    "cms_id": 773,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PRINCETON",
+    "is_author": null
+  },
+  {
+    "cms_id": 778,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "PURDUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 781,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PURDUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 786,
+    "status_cms": null,
+    "activity_cms": "Physicist",
+    "inst_code": "RICE",
+    "is_author": null
+  },
+  {
+    "cms_id": 787,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RICE",
+    "is_author": null
+  },
+  {
+    "cms_id": 807,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "WISCONSIN",
+    "is_author": null
+  },
+  {
+    "cms_id": 809,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "WISCONSIN",
+    "is_author": null
+  },
+  {
+    "cms_id": 811,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "WISCONSIN",
+    "is_author": null
+  },
+  {
+    "cms_id": 814,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "WISCONSIN",
+    "is_author": null
+  },
+  {
+    "cms_id": 819,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TASHKENT",
+    "is_author": null
+  },
+  {
+    "cms_id": 827,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 828,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 833,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "MOSCOW-INR",
+    "is_author": null
+  },
+  {
+    "cms_id": 834,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-3B",
+    "is_author": null
+  },
+  {
+    "cms_id": 836,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "AACHEN-3B",
+    "is_author": null
+  },
+  {
+    "cms_id": 840,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "PRINCETON",
+    "is_author": null
+  },
+  {
+    "cms_id": 841,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "HELSINKI-HUT",
+    "is_author": null
+  },
+  {
+    "cms_id": 844,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MONS",
+    "is_author": null
+  },
+  {
+    "cms_id": 854,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 868,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BARI",
+    "is_author": null
+  },
+  {
+    "cms_id": 884,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PADOVA",
+    "is_author": null
+  },
+  {
+    "cms_id": 891,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 902,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DEMOKRITOS",
+    "is_author": null
+  },
+  {
+    "cms_id": 912,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 919,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 926,
+    "status_cms": null,
+    "activity_cms": "Engineer",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 932,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 933,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 937,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "FAIRFIELD",
+    "is_author": null
+  },
+  {
+    "cms_id": 938,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FAIRFIELD",
+    "is_author": null
+  },
+  {
+    "cms_id": 941,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "LIP",
+    "is_author": null
+  },
+  {
+    "cms_id": 962,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "IOWA",
+    "is_author": null
+  },
+  {
+    "cms_id": 974,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "LYON",
+    "is_author": null
+  },
+  {
+    "cms_id": 982,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "GENOVA",
+    "is_author": null
+  },
+  {
+    "cms_id": 993,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 994,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "AACHEN-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 995,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "AACHEN-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 998,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "AACHEN-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 1016,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 1062,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1075,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 1078,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": null
+  },
+  {
+    "cms_id": 1102,
+    "status_cms": null,
+    "activity_cms": "Physicist",
+    "inst_code": "KOREA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 1104,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SEOUL-SNU",
+    "is_author": null
+  },
+  {
+    "cms_id": 1105,
+    "status_cms": "CMS",
+    "activity_cms": "Administrative",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1110,
+    "status_cms": "",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1128,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 1136,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1145,
+    "status_cms": null,
+    "activity_cms": "Physicist",
+    "inst_code": "JOHNS-HOPKINS",
+    "is_author": null
+  },
+  {
+    "cms_id": 1161,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CHUNGLI-NCU",
+    "is_author": null
+  },
+  {
+    "cms_id": 1177,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 1179,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 1183,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 1225,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 13,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "HEPHY",
+    "is_author": null
+  },
+  {
+    "cms_id": 14,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MINSK-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 15,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MINSK-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 65,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SOFIA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 122,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LYON",
+    "is_author": null
+  },
+  {
+    "cms_id": 148,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 191,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "AACHEN-3A",
+    "is_author": null
+  },
+  {
+    "cms_id": 196,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "DEMOKRITOS",
+    "is_author": null
+  },
+  {
+    "cms_id": 232,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DELHI-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 233,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BARI",
+    "is_author": null
+  },
+  {
+    "cms_id": 247,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOLOGNA",
+    "is_author": null
+  },
+  {
+    "cms_id": 271,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 272,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 273,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FIRENZE",
+    "is_author": null
+  },
+  {
+    "cms_id": 300,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PADOVA",
+    "is_author": null
+  },
+  {
+    "cms_id": 331,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ROMA-1",
+    "is_author": null
+  },
+  {
+    "cms_id": 342,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "WARSAW-IEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 344,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "WARSAW-IEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 350,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LIP",
+    "is_author": null
+  },
+  {
+    "cms_id": 402,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": null
+  },
+  {
+    "cms_id": 405,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-ITEP",
+    "is_author": null
+  },
+  {
+    "cms_id": 426,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-MSU",
+    "is_author": null
+  },
+  {
+    "cms_id": 436,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "NOVOSIBIRSK",
+    "is_author": null
+  },
+  {
+    "cms_id": 473,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ST-PETERSBURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 481,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 497,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 501,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 508,
+    "status_cms": "RELATED",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 513,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 514,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Technician",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 519,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 523,
+    "status_cms": "RELATED",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 570,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LONDON-IC",
+    "is_author": null
+  },
+  {
+    "cms_id": 596,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "KHARKOV-KIPT",
+    "is_author": null
+  },
+  {
+    "cms_id": 598,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "KHARKOV-KIPT",
+    "is_author": null
+  },
+  {
+    "cms_id": 604,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "BOSTON-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 625,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "UCDAVIS",
+    "is_author": null
+  },
+  {
+    "cms_id": 637,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCLA",
+    "is_author": null
+  },
+  {
+    "cms_id": 644,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "UCSD",
+    "is_author": null
+  },
+  {
+    "cms_id": 659,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FAIRFIELD",
+    "is_author": null
+  },
+  {
+    "cms_id": 670,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 681,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": null
+  },
+  {
+    "cms_id": 694,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-STATE",
+    "is_author": null
+  },
+  {
+    "cms_id": 702,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "IOWA",
+    "is_author": null
+  },
+  {
+    "cms_id": 703,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "IOWA",
+    "is_author": null
+  },
+  {
+    "cms_id": 718,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MARYLAND",
+    "is_author": null
+  },
+  {
+    "cms_id": 763,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "NOTRE_DAME",
+    "is_author": null
+  },
+  {
+    "cms_id": 764,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 770,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PRINCETON",
+    "is_author": null
+  },
+  {
+    "cms_id": 774,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PRINCETON",
+    "is_author": null
+  },
+  {
+    "cms_id": 788,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ROCHESTER",
+    "is_author": null
+  },
+  {
+    "cms_id": 793,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FLORIDA-TECH",
+    "is_author": null
+  },
+  {
+    "cms_id": 801,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TEXAS-TECH",
+    "is_author": null
+  },
+  {
+    "cms_id": 916,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 922,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 924,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PISA",
+    "is_author": null
+  },
+  {
+    "cms_id": 936,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "FAIRFIELD",
+    "is_author": null
+  },
+  {
+    "cms_id": 946,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
+    "is_author": null
+  },
+  {
+    "cms_id": 972,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "STRASBOURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 1008,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOSTON-UNIV",
+    "is_author": null
+  },
+  {
+    "cms_id": 1018,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RICE",
+    "is_author": null
+  },
+  {
+    "cms_id": 1029,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "STRASBOURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 1030,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "STRASBOURG",
+    "is_author": null
+  },
+  {
+    "cms_id": 1085,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": null
+  },
+  {
+    "cms_id": 1087,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": null
+  },
+  {
+    "cms_id": 1101,
+    "status_cms": "NOTCMS",
+    "activity_cms": "Physicist",
+    "inst_code": "KAIST",
+    "is_author": null
+  },
+  {
+    "cms_id": 1108,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": null
+  },
+  {
+    "cms_id": 1144,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "NICOSIA-UNIV",
+    "is_author": null
+  }
+]

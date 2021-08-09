@@ -1,0 +1,57 @@
+,Abbreviation,Base funding,NSF MREFC,NSF CA
+University of Alabama,ALABAMA,DOE,,
+Baylor University,BAYLOR-UNIV,DOE,,
+Bethel University,,NSF,,
+Boston University,BOSTON-UNIV,DOE,,
+Brown University,BROWN-UNIV,DOE,,
+"University of California, Davis",UCDAVIS,DOE,,
+"University of California, Los Angeles",UCLA,DOE,YES,YES
+"University of California, Riverside",UCRIVERSIDE,DOE,,
+"University of California, San Diego",UCSD,DOE,,YES
+"University of California, Santa Barbara",UCSB,DOE,,
+California Institute of Technology,CALTECH,DOE,,YES
+Carnegie Mellon University,CARNEGIE-MELLON,DOE,,
+Catholic University of America,,,,
+University of Colorado,COLORADO,DOE,,
+Cornell University,CORNELL,NSF,YES,YES
+Fairfield University,FAIRFIELD,DOE,,
+Fermi National Accelerator Laboratory,FERMILAB,DOE,,
+University of Florida,FLORIDA-UNIV,DOE,YES,YES
+Florida International University,FLORIDA-FIU,DOE,,
+Florida State University,FLORIDA-STATE,DOE,,
+Florida Institute of Technology,FLORIDA-TECH,DOE,,
+University of Illinois at Chicago,CHICAGO,NSF,YES,YES
+University of Iowa,IOWA,DOE,,
+Johns Hopkins University,JOHNS-HOPKINS,NSF,,YES
+University of Kansas,KANSAS-UNIV,NSF,YES,YES
+Kansas State University,KANSAS-STATE,DOE,,
+Lawrence Livermore National Laboratory,LIVERMORE,DOE,,
+University of Maryland,MARYLAND,DOE,,
+Massachusetts Institute of Technology,MIT,DOE,,YES
+University of Minnesota,MINNESOTA,DOE,,
+University of Mississippi,MISSISSIPPI,,,
+University of Nebraska-Lincoln,NEBRASKA,NSF,YES,YES
+State University of New York at Buffalo,SUNY-BUFFALO,NSF,YES,
+Northeastern University,NORTHEASTERN,NSF,YES,YES
+Northern Illinois University,,,,
+Northwestern University,NORTHWESTERN,DOE,YES,YES
+University of Notre Dame,NOTRE_DAME,NSF,YES,YES
+Ohio State University,OHIO-STATE,DOE,YES,YES
+Princeton University,PRINCETON,DOE,,YES
+University of Puerto Rico,PUERTO_RICO,NSF,,
+Purdue University,PURDUE,DOE,YES,YES
+Purdue University Calumet,PURDUE-CALUMET,NSF,,
+Rice University,RICE,DOE,,
+University of Rochester,ROCHESTER,DOE,,
+Rockefeller University,ROCKEFELLER,,,
+Rutgers University,RUTGERS,NSF,YES,YES
+Simons Foundation,,,,
+University of Tennessee,TENNESSEE,DOE,,
+Texas A&M University,TEXAS-TAMU,DOE,YES,YES
+Texas Tech University,TEXAS-TECH,DOE,,
+Vanderbilt University,VANDERBILT,NSF,,YES
+University of Virginia,VIRGINIA-UNIV,DOE,,
+Wayne State University,WAYNE,DOE,,
+University of Wisconsin,WISCONSIN,DOE,YES,YES
+Center for High Throughput Computing - University of Wisconsin,WISCONSIN-CHTC,DOE,,
+,,13,15,20
