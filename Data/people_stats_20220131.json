@@ -2086,13 +2086,6 @@
     "is_author": false
   },
   {
-    "cms_id": 15356,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
     "cms_id": 15351,
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
@@ -2723,13 +2716,6 @@
     "is_author": false
   },
   {
-    "cms_id": 10953,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "KANSAS-STATE",
-    "is_author": true
-  },
-  {
     "cms_id": 13771,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
@@ -3227,27 +3213,6 @@
     "is_author": false
   },
   {
-    "cms_id": 11230,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer",
-    "inst_code": "CERN",
-    "is_author": true
-  },
-  {
-    "cms_id": 15416,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "KANSAS-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15403,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "MADRID-CIEMAT",
-    "is_author": false
-  },
-  {
     "cms_id": 13352,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
@@ -3728,27 +3693,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "CORNELL",
-    "is_author": false
-  },
-  {
-    "cms_id": 11159,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "PRINCETON",
-    "is_author": true
-  },
-  {
-    "cms_id": 15424,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "HELSINKI-HIP",
-    "is_author": false
-  },
-  {
-    "cms_id": 15471,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "GHENT",
     "is_author": false
   },
   {
@@ -4242,13 +4186,6 @@
     "is_author": false
   },
   {
-    "cms_id": 15509,
-    "status_cms": "CMS",
-    "activity_cms": "Technician",
-    "inst_code": "WASHINGTON-CUA",
-    "is_author": false
-  },
-  {
     "cms_id": 9712,
     "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
@@ -4708,41 +4645,6 @@
     "status_cms": "CMS",
     "activity_cms": "Engineer Mechanical",
     "inst_code": "CERN",
-    "is_author": false
-  },
-  {
-    "cms_id": 7108,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BEIJING-THU",
-    "is_author": true
-  },
-  {
-    "cms_id": 15155,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15478,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "GHENT",
-    "is_author": false
-  },
-  {
-    "cms_id": 14851,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ZURICH-ETH",
-    "is_author": false
-  },
-  {
-    "cms_id": 15075,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ZURICH-ETH",
     "is_author": false
   },
   {
@@ -5236,13 +5138,6 @@
     "is_author": false
   },
   {
-    "cms_id": 8903,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "RIO-CBPF",
-    "is_author": false
-  },
-  {
     "cms_id": 13883,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -5691,13 +5586,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14378,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
-    "is_author": false
-  },
-  {
     "cms_id": 15244,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -5822,13 +5710,6 @@
     "activity_cms": "Doctoral Student",
     "inst_code": "UCDAVIS",
     "is_author": true
-  },
-  {
-    "cms_id": 12799,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ADANA-CUKUROVA",
-    "is_author": false
   },
   {
     "cms_id": 15181,
@@ -27146,20 +27027,6 @@
     "is_author": true
   },
   {
-    "cms_id": 257,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "CATANIA",
-    "is_author": true
-  },
-  {
-    "cms_id": 342,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "WARSAW-IEP",
-    "is_author": false
-  },
-  {
     "cms_id": 350,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -27816,13 +27683,6 @@
     "activity_cms": "Physicist",
     "inst_code": "UCDAVIS",
     "is_author": false
-  },
-  {
-    "cms_id": 549,
-    "status_cms": "CMSEMERITUS",
-    "activity_cms": "Physicist",
-    "inst_code": "ZURICH-ETH",
-    "is_author": true
   },
   {
     "cms_id": 627,
@@ -28756,27 +28616,6 @@
     "is_author": true
   },
   {
-    "cms_id": 987,
-    "status_cms": "CMSEMERITUS",
-    "activity_cms": "Physicist",
-    "inst_code": "WISCONSIN",
-    "is_author": true
-  },
-  {
-    "cms_id": 1022,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "STRASBOURG",
-    "is_author": true
-  },
-  {
-    "cms_id": 1151,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "WARSAW-IEP",
-    "is_author": false
-  },
-  {
     "cms_id": 1173,
     "status_cms": "CMS",
     "activity_cms": "Engineer Software",
@@ -29482,13 +29321,6 @@
     "activity_cms": "Administrative",
     "inst_code": "ALABAMA",
     "is_author": false
-  },
-  {
-    "cms_id": 1172,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ST-PETERSBURG",
-    "is_author": true
   },
   {
     "cms_id": 1549,
@@ -30252,13 +30084,6 @@
     "activity_cms": "Physicist",
     "inst_code": "ACADEMIA_SINICA",
     "is_author": false
-  },
-  {
-    "cms_id": 1939,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "DEBRECEN-IEP",
-    "is_author": true
   },
   {
     "cms_id": 1969,
@@ -35693,13 +35518,6 @@
     "is_author": false
   },
   {
-    "cms_id": 4338,
-    "status_cms": "CMSEMERITUS",
-    "activity_cms": "Physicist",
-    "inst_code": "WISCONSIN",
-    "is_author": true
-  },
-  {
     "cms_id": 4631,
     "status_cms": "NOSHOW",
     "activity_cms": null,
@@ -38255,13 +38073,6 @@
     "is_author": true
   },
   {
-    "cms_id": 5512,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LYON",
-    "is_author": false
-  },
-  {
     "cms_id": 5841,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -38293,7 +38104,7 @@
     "cms_id": 5853,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
-    "inst_code": "MIT",
+    "inst_code": "KARLSRUHE-IEKP",
     "is_author": true
   },
   {
@@ -38836,27 +38647,6 @@
     "is_author": false
   },
   {
-    "cms_id": 5871,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LIP",
-    "is_author": true
-  },
-  {
-    "cms_id": 5946,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BOGAZICI",
-    "is_author": true
-  },
-  {
-    "cms_id": 6186,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "KANSAS-STATE",
-    "is_author": true
-  },
-  {
     "cms_id": 6198,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -39329,7 +39119,7 @@
     "cms_id": 6469,
     "status_cms": "CMS",
     "activity_cms": "Engineer Software",
-    "inst_code": "FLORIDA-UNIV",
+    "inst_code": "RICE",
     "is_author": false
   },
   {
@@ -39547,13 +39337,6 @@
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "WISCONSIN",
-    "is_author": true
-  },
-  {
-    "cms_id": 6251,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "IOWA",
     "is_author": true
   },
   {
@@ -40089,13 +39872,6 @@
     "is_author": true
   },
   {
-    "cms_id": 6739,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ANTWERPEN",
-    "is_author": true
-  },
-  {
     "cms_id": 7023,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -40519,7 +40295,7 @@
     "cms_id": 7323,
     "status_cms": "CMS",
     "activity_cms": "Engineer Software",
-    "inst_code": "RIO-UERJ",
+    "inst_code": "MIT",
     "is_author": false
   },
   {
@@ -41279,13 +41055,6 @@
     "is_author": false
   },
   {
-    "cms_id": 7807,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "MADRID-CIEMAT",
-    "is_author": true
-  },
-  {
     "cms_id": 8037,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -41704,13 +41473,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "BRISTOL",
     "is_author": false
-  },
-  {
-    "cms_id": 8339,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CERN",
-    "is_author": true
   },
   {
     "cms_id": 8446,
@@ -42963,13 +42725,6 @@
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "RUTGERS",
-    "is_author": true
-  },
-  {
-    "cms_id": 8602,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "KOLKATA-SAHA",
     "is_author": true
   },
   {
@@ -46620,20 +46375,6 @@
     "is_author": false
   },
   {
-    "cms_id": 9504,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ATOMKI",
-    "is_author": true
-  },
-  {
-    "cms_id": 9557,
-    "status_cms": "CMS",
-    "activity_cms": "Administrative",
-    "inst_code": "DESY",
-    "is_author": false
-  },
-  {
     "cms_id": 9636,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -47786,13 +47527,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "KARLSRUHE-IEKP",
-    "is_author": false
-  },
-  {
-    "cms_id": 9905,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "MADRID-CIEMAT",
     "is_author": false
   },
   {
@@ -49133,13 +48867,6 @@
     "is_author": false
   },
   {
-    "cms_id": 10117,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "SEOUL-SEJONG",
-    "is_author": true
-  },
-  {
     "cms_id": 10193,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -50414,20 +50141,6 @@
     "is_author": false
   },
   {
-    "cms_id": 10386,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LYON",
-    "is_author": false
-  },
-  {
-    "cms_id": 10366,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "TEXAS-TAMU",
-    "is_author": true
-  },
-  {
     "cms_id": 10504,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -50916,20 +50629,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "CERN",
     "is_author": false
-  },
-  {
-    "cms_id": 10556,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
-    "cms_id": 10605,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "BARI",
-    "is_author": true
   },
   {
     "cms_id": 10624,
@@ -52241,13 +51940,6 @@
     "is_author": false
   },
   {
-    "cms_id": 10853,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "HELSINKI-HIP",
-    "is_author": false
-  },
-  {
     "cms_id": 10935,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -52715,13 +52407,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "COLORADO",
     "is_author": false
-  },
-  {
-    "cms_id": 11006,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KOREA-UNIV",
-    "is_author": true
   },
   {
     "cms_id": 11092,
@@ -53212,27 +52897,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "ZURICH-ETH",
     "is_author": false
-  },
-  {
-    "cms_id": 11105,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BEIJING-THU",
-    "is_author": true
-  },
-  {
-    "cms_id": 11203,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KANSAS-STATE",
-    "is_author": true
-  },
-  {
-    "cms_id": 11114,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ANTWERPEN",
-    "is_author": true
   },
   {
     "cms_id": 11227,
@@ -55300,13 +54964,6 @@
     "is_author": false
   },
   {
-    "cms_id": 11635,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KANSAS-STATE",
-    "is_author": true
-  },
-  {
     "cms_id": 11762,
     "status_cms": "EXMEMBER",
     "activity_cms": "Technician",
@@ -56651,13 +56308,6 @@
     "is_author": false
   },
   {
-    "cms_id": 12111,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "KANSAS-STATE",
-    "is_author": false
-  },
-  {
     "cms_id": 12121,
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
@@ -57201,20 +56851,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "SUNY-BUFFALO",
-    "is_author": false
-  },
-  {
-    "cms_id": 12130,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ISTANBUL-UNIV",
-    "is_author": true
-  },
-  {
-    "cms_id": 12230,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "HELSINKI-HIP",
     "is_author": false
   },
   {
@@ -58870,13 +58506,6 @@
     "is_author": false
   },
   {
-    "cms_id": 12603,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "STRASBOURG",
-    "is_author": false
-  },
-  {
     "cms_id": 12664,
     "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
@@ -59906,13 +59535,6 @@
     "is_author": false
   },
   {
-    "cms_id": 12862,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
-    "is_author": false
-  },
-  {
     "cms_id": 12953,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -60872,13 +60494,6 @@
     "is_author": false
   },
   {
-    "cms_id": 13197,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
-    "is_author": false
-  },
-  {
     "cms_id": 13217,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -61213,27 +60828,6 @@
     "activity_cms": "Doctoral Student",
     "inst_code": "SPLIT-FESB",
     "is_author": true
-  },
-  {
-    "cms_id": 13302,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "MOSCOW-INR",
-    "is_author": false
-  },
-  {
-    "cms_id": 13224,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "TEXAS-TAMU",
-    "is_author": false
-  },
-  {
-    "cms_id": 13339,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "WARSAW-IEP",
-    "is_author": false
   },
   {
     "cms_id": 13345,
@@ -61733,34 +61327,6 @@
     "is_author": false
   },
   {
-    "cms_id": 13556,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
-    "cms_id": 13514,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "UCSB",
-    "is_author": false
-  },
-  {
-    "cms_id": 13505,
-    "status_cms": "CMS",
-    "activity_cms": "Theoretical Physicist",
-    "inst_code": "ISLAMABAD-NCP",
-    "is_author": false
-  },
-  {
-    "cms_id": 13582,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "PUERTO_RICO",
-    "is_author": false
-  },
-  {
     "cms_id": 13606,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -62024,13 +61590,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "FAYOUM-CHEP-FU",
-    "is_author": false
-  },
-  {
-    "cms_id": 13657,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "CHANDIGARH",
     "is_author": false
   },
   {
@@ -62384,20 +61943,6 @@
     "is_author": false
   },
   {
-    "cms_id": 13871,
-    "status_cms": "CMS",
-    "activity_cms": "Technician",
-    "inst_code": "ROMA-1",
-    "is_author": false
-  },
-  {
-    "cms_id": 13854,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "TEXAS-TAMU",
-    "is_author": false
-  },
-  {
     "cms_id": 13892,
     "status_cms": "EXMEMBER",
     "activity_cms": "Administrative",
@@ -62598,20 +62143,6 @@
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
     "inst_code": "ZURICH-ETH",
-    "is_author": false
-  },
-  {
-    "cms_id": 14025,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "TEXAS-TAMU",
-    "is_author": false
-  },
-  {
-    "cms_id": 13928,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "UCSB",
     "is_author": false
   },
   {
@@ -62875,13 +62406,6 @@
   },
   {
     "cms_id": 14167,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "DUNDEE-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 14166,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "DUNDEE-UNIV",
@@ -63375,20 +62899,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Engineer Electronics",
     "inst_code": "BANGALORE-IISC",
-    "is_author": false
-  },
-  {
-    "cms_id": 14294,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "IIT-MADRAS",
-    "is_author": false
-  },
-  {
-    "cms_id": 14277,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "LONDON-IC",
     "is_author": false
   },
   {
@@ -64180,13 +63690,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "BUDAPEST-ELU",
-    "is_author": false
-  },
-  {
-    "cms_id": 14299,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "CHANDIGARH",
     "is_author": false
   },
   {
@@ -66076,7 +65579,7 @@
     "cms_id": 12135,
     "status_cms": "CMS",
     "activity_cms": "Engineer Electronics",
-    "inst_code": "BRUXELLES-ULB",
+    "inst_code": "ISLAMABAD-NCP",
     "is_author": false
   },
   {
@@ -66497,13 +66000,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "QUITO-EPN",
-    "is_author": false
-  },
-  {
-    "cms_id": 14296,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "LONDON-IC",
     "is_author": false
   },
   {
@@ -66981,13 +66477,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "DUBLIN-UCD",
     "is_author": false
-  },
-  {
-    "cms_id": 13531,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "POLYTECHNIQUE",
-    "is_author": true
   },
   {
     "cms_id": 7512,
@@ -68908,13 +68397,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14403,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "UCSB",
-    "is_author": false
-  },
-  {
     "cms_id": 7886,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -69283,27 +68765,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "NEBRASKA",
-    "is_author": false
-  },
-  {
-    "cms_id": 14663,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "MINSK-INP",
-    "is_author": false
-  },
-  {
-    "cms_id": 12930,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "MALAYA",
-    "is_author": false
-  },
-  {
-    "cms_id": 13665,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HEPHY",
     "is_author": false
   },
   {
@@ -69710,13 +69171,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "KARLSRUHE-IEKP",
-    "is_author": false
-  },
-  {
-    "cms_id": 14425,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "UCSB",
     "is_author": false
   },
   {
@@ -70235,13 +69689,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
     "inst_code": "BANGALORE-IISC",
-    "is_author": false
-  },
-  {
-    "cms_id": 14459,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "TEXAS-TAMU",
     "is_author": false
   },
   {
@@ -70768,13 +70215,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "NAPOLI",
     "is_author": false
-  },
-  {
-    "cms_id": 13922,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "SACLAY",
-    "is_author": true
   },
   {
     "cms_id": 13155,
@@ -72142,27 +71582,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14538,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ZHEJIANG-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 14606,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "MINSK-INP",
-    "is_author": false
-  },
-  {
-    "cms_id": 10041,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "MEXICO-CINVESTAV",
-    "is_author": true
-  },
-  {
     "cms_id": 8361,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -72286,13 +71705,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "CERN",
-    "is_author": false
-  },
-  {
-    "cms_id": 14487,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "WASHINGTON-CUA",
     "is_author": false
   },
   {
@@ -74515,27 +73927,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14576,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "VANDERBILT",
-    "is_author": false
-  },
-  {
-    "cms_id": 14820,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "CHANDIGARH",
-    "is_author": false
-  },
-  {
-    "cms_id": 8909,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
     "cms_id": 12677,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -74956,20 +74347,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14755,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Mechanical",
-    "inst_code": "UCDAVIS",
-    "is_author": false
-  },
-  {
-    "cms_id": 10546,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "MIT",
-    "is_author": true
-  },
-  {
     "cms_id": 14063,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
@@ -75248,48 +74625,6 @@
     "activity_cms": "Doctoral Student",
     "inst_code": "PADOVA",
     "is_author": true
-  },
-  {
-    "cms_id": 14868,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KANSAS-STATE",
-    "is_author": false
-  },
-  {
-    "cms_id": 9498,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CERN",
-    "is_author": true
-  },
-  {
-    "cms_id": 13166,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "MOSCOW-INR",
-    "is_author": false
-  },
-  {
-    "cms_id": 14927,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "GUANGZHOU-SYSU",
-    "is_author": false
-  },
-  {
-    "cms_id": 14929,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "GUANGZHOU-SYSU",
-    "is_author": false
-  },
-  {
-    "cms_id": 14700,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer",
-    "inst_code": "MALAYA",
-    "is_author": false
   },
   {
     "cms_id": 13972,
@@ -76104,27 +75439,6 @@
     "is_author": false
   },
   {
-    "cms_id": 1451,
-    "status_cms": "CMSEXTENDED",
-    "activity_cms": "Physicist",
-    "inst_code": "POLYTECHNIQUE",
-    "is_author": true
-  },
-  {
-    "cms_id": 14910,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "CHANDIGARH",
-    "is_author": false
-  },
-  {
-    "cms_id": 10017,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "FAYOUM-CHEP-FU",
-    "is_author": true
-  },
-  {
     "cms_id": 11803,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
@@ -76538,13 +75852,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14676,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "BEIJING-THU",
-    "is_author": false
-  },
-  {
     "cms_id": 10123,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -76909,27 +76216,6 @@
     "is_author": false
   },
   {
-    "cms_id": 8338,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Engineer",
-    "inst_code": "WAYNE",
-    "is_author": false
-  },
-  {
-    "cms_id": 14616,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "BARI",
-    "is_author": false
-  },
-  {
-    "cms_id": 14206,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BARI",
-    "is_author": false
-  },
-  {
     "cms_id": 14688,
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
@@ -77243,13 +76529,6 @@
     "activity_cms": "Doctoral Student",
     "inst_code": "FLORIDA-UNIV",
     "is_author": true
-  },
-  {
-    "cms_id": 14738,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "UCSB",
-    "is_author": false
   },
   {
     "cms_id": 14102,
@@ -77658,20 +76937,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14782,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BEIJING-THU",
-    "is_author": false
-  },
-  {
-    "cms_id": 13213,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "JOHNS-HOPKINS",
-    "is_author": false
-  },
-  {
     "cms_id": 6748,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -77999,27 +77264,6 @@
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "CERN",
     "is_author": false
-  },
-  {
-    "cms_id": 14771,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "NISER",
-    "is_author": false
-  },
-  {
-    "cms_id": 14798,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ROCHESTER",
-    "is_author": false
-  },
-  {
-    "cms_id": 14117,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "POLYTECHNIQUE",
-    "is_author": true
   },
   {
     "cms_id": 8929,
@@ -78484,27 +77728,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14841,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "RUTGERS",
-    "is_author": false
-  },
-  {
-    "cms_id": 11032,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Engineer Mechanical",
-    "inst_code": "SANTANDER",
-    "is_author": false
-  },
-  {
-    "cms_id": 13187,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "NISER",
-    "is_author": false
-  },
-  {
     "cms_id": 14497,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -78890,20 +78113,6 @@
     "is_author": false
   },
   {
-    "cms_id": 14857,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "ZURICH-ETH",
-    "is_author": false
-  },
-  {
-    "cms_id": 14989,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
     "cms_id": 805,
     "status_cms": "EXMEMBER",
     "activity_cms": "Physicist",
@@ -79247,27 +78456,6 @@
     "is_author": true
   },
   {
-    "cms_id": 14822,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Software",
-    "inst_code": "HEPHY",
-    "is_author": false
-  },
-  {
-    "cms_id": 12347,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ATHENS",
-    "is_author": true
-  },
-  {
-    "cms_id": 13669,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "RIGA-RTU",
-    "is_author": false
-  },
-  {
     "cms_id": 2626,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -79567,41 +78755,6 @@
     "activity_cms": "Physicist",
     "inst_code": "SACLAY",
     "is_author": true
-  },
-  {
-    "cms_id": 14064,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LONDON-IC",
-    "is_author": true
-  },
-  {
-    "cms_id": 3276,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer",
-    "inst_code": "ST-PETERSBURG",
-    "is_author": true
-  },
-  {
-    "cms_id": 3667,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ST-PETERSBURG",
-    "is_author": false
-  },
-  {
-    "cms_id": 5827,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ASRT-ENHEP",
-    "is_author": false
-  },
-  {
-    "cms_id": 7181,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ASRT-ENHEP",
-    "is_author": false
   },
   {
     "cms_id": 14960,
@@ -79972,13 +79125,6 @@
     "status_cms": "CMS",
     "activity_cms": "Engineer",
     "inst_code": "CERN",
-    "is_author": true
-  },
-  {
-    "cms_id": 10299,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BEIJING-IHEP",
     "is_author": true
   },
   {
@@ -80365,20 +79511,6 @@
     "activity_cms": "Physicist",
     "inst_code": "HAMBURG-UNIV",
     "is_author": true
-  },
-  {
-    "cms_id": 8915,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CERN",
-    "is_author": true
-  },
-  {
-    "cms_id": 7616,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "ZURICH-UNIV",
-    "is_author": false
   },
   {
     "cms_id": 7395,
@@ -87605,20 +86737,6 @@
     "is_author": false
   },
   {
-    "cms_id": 12783,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ADANA-CUKUROVA",
-    "is_author": false
-  },
-  {
-    "cms_id": 15069,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "UNIANDES",
-    "is_author": false
-  },
-  {
     "cms_id": 2320,
     "status_cms": "EXMEMBER",
     "activity_cms": "Physicist",
@@ -88106,13 +87224,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "KARLSRUHE-IEKP",
-    "is_author": false
-  },
-  {
-    "cms_id": 15114,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "VILNIUS-UNIV",
     "is_author": false
   },
   {
@@ -88624,48 +87735,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
     "inst_code": "ROMA-1",
-    "is_author": false
-  },
-  {
-    "cms_id": 15132,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Software",
-    "inst_code": "HELSINKI-HIP",
-    "is_author": false
-  },
-  {
-    "cms_id": 15033,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
-    "cms_id": 14430,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15034,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
-    "cms_id": 15035,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
-    "cms_id": 12253,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "JOHNS-HOPKINS",
     "is_author": false
   },
   {
@@ -89653,20 +88722,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Physicist",
     "inst_code": "LONDON-IC",
-    "is_author": false
-  },
-  {
-    "cms_id": 15162,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "CATANIA",
-    "is_author": false
-  },
-  {
-    "cms_id": 15185,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KANSAS-STATE",
     "is_author": false
   },
   {
@@ -91864,7 +90919,7 @@
     "cms_id": 14685,
     "status_cms": "CMS",
     "activity_cms": "Engineer Software",
-    "inst_code": "FLORIDA-UNIV",
+    "inst_code": "RICE",
     "is_author": false
   },
   {
@@ -92145,20 +91200,6 @@
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
     "inst_code": "SANTANDER",
-    "is_author": false
-  },
-  {
-    "cms_id": 1257,
-    "status_cms": "DECEASED",
-    "activity_cms": "Physicist",
-    "inst_code": "KARLSRUHE-IEKP",
-    "is_author": true
-  },
-  {
-    "cms_id": 13911,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "AACHEN-3A",
     "is_author": false
   },
   {
@@ -92467,27 +91508,6 @@
     "status_cms": "CMSEMERITUS",
     "activity_cms": "Physicist",
     "inst_code": "STRASBOURG",
-    "is_author": true
-  },
-  {
-    "cms_id": 15636,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer",
-    "inst_code": "PADOVA",
-    "is_author": false
-  },
-  {
-    "cms_id": 9330,
-    "status_cms": "CMSEXTENDED",
-    "activity_cms": "Physicist",
-    "inst_code": "DESY",
-    "is_author": true
-  },
-  {
-    "cms_id": 10865,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "WISCONSIN",
     "is_author": true
   },
   {
@@ -92820,27 +91840,6 @@
     "is_author": false
   },
   {
-    "cms_id": 216,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "SEOUL-KYUNGHEE",
-    "is_author": true
-  },
-  {
-    "cms_id": 302,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "PAVIA",
-    "is_author": true
-  },
-  {
-    "cms_id": 5449,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "VIRGINIA-UNIV",
-    "is_author": true
-  },
-  {
     "cms_id": 52,
     "status_cms": "CMS",
     "activity_cms": "Engineer Electronics",
@@ -93140,34 +92139,6 @@
     "activity_cms": "Doctoral Student",
     "inst_code": "FLORIDA-UNIV",
     "is_author": true
-  },
-  {
-    "cms_id": 981,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "PADOVA",
-    "is_author": true
-  },
-  {
-    "cms_id": 6728,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "WAYNE",
-    "is_author": false
-  },
-  {
-    "cms_id": 7255,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "TIFR-A",
-    "is_author": false
-  },
-  {
-    "cms_id": 14333,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BRUXELLES-ULB",
-    "is_author": false
   },
   {
     "cms_id": 14711,
@@ -93695,55 +92666,6 @@
     "is_author": false
   },
   {
-    "cms_id": 9389,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ASRT-ENHEP",
-    "is_author": true
-  },
-  {
-    "cms_id": 9952,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CERN",
-    "is_author": false
-  },
-  {
-    "cms_id": 12398,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ASRT-ENHEP",
-    "is_author": true
-  },
-  {
-    "cms_id": 1787,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "CERN",
-    "is_author": true
-  },
-  {
-    "cms_id": 8520,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "BEIJING-IHEP",
-    "is_author": false
-  },
-  {
-    "cms_id": 15649,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "DESY",
-    "is_author": false
-  },
-  {
-    "cms_id": 15647,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "CERN",
-    "is_author": false
-  },
-  {
     "cms_id": 15655,
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
@@ -94129,76 +93051,6 @@
     "is_author": true
   },
   {
-    "cms_id": 1890,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Software",
-    "inst_code": "BOLOGNA",
-    "is_author": true
-  },
-  {
-    "cms_id": 6463,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LONDON-IC",
-    "is_author": true
-  },
-  {
-    "cms_id": 8835,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BOLOGNA",
-    "is_author": true
-  },
-  {
-    "cms_id": 15675,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "CATANIA",
-    "is_author": false
-  },
-  {
-    "cms_id": 14902,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ATHENS-NTUA",
-    "is_author": false
-  },
-  {
-    "cms_id": 15663,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "DESY",
-    "is_author": false
-  },
-  {
-    "cms_id": 15665,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "DESY",
-    "is_author": false
-  },
-  {
-    "cms_id": 15666,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "HAMBURG-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15671,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "AACHEN-3A",
-    "is_author": false
-  },
-  {
-    "cms_id": 14625,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SOFIA-UNIV",
-    "is_author": false
-  },
-  {
     "cms_id": 14081,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
@@ -94574,62 +93426,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "SAO_PAULO",
-    "is_author": false
-  },
-  {
-    "cms_id": 10227,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "MIT",
-    "is_author": true
-  },
-  {
-    "cms_id": 11806,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SANTANDER",
-    "is_author": false
-  },
-  {
-    "cms_id": 10717,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "WAYNE",
-    "is_author": false
-  },
-  {
-    "cms_id": 14443,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KOLKATA-SAHA",
-    "is_author": false
-  },
-  {
-    "cms_id": 15201,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "TIFR-B",
-    "is_author": false
-  },
-  {
-    "cms_id": 11796,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "PAVIA",
-    "is_author": false
-  },
-  {
-    "cms_id": 10604,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "PADOVA",
-    "is_author": false
-  },
-  {
-    "cms_id": 10001,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "DELHI-UNIV",
     "is_author": false
   },
   {
@@ -95014,7 +93810,7 @@
     "cms_id": 14211,
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
-    "inst_code": "PUNE-IISER",
+    "inst_code": "TEXAS-TECH",
     "is_author": false
   },
   {
@@ -95106,13 +93902,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "FERMILAB",
-    "is_author": false
-  },
-  {
-    "cms_id": 15702,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "CHICAGO",
     "is_author": false
   },
   {
@@ -95210,7 +93999,7 @@
     "cms_id": 10690,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
-    "inst_code": "FAYOUM-CHEP-FU",
+    "inst_code": "BRUXELLES-ULB",
     "is_author": false
   },
   {
@@ -95694,27 +94483,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "MINNESOTA",
-    "is_author": false
-  },
-  {
-    "cms_id": 15750,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "MALAYA",
-    "is_author": false
-  },
-  {
-    "cms_id": 15728,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "CHICAGO",
-    "is_author": false
-  },
-  {
-    "cms_id": 14749,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
     "is_author": false
   },
   {
@@ -96352,27 +95120,6 @@
     "status_cms": "CMS",
     "activity_cms": "Technician",
     "inst_code": "GHENT",
-    "is_author": false
-  },
-  {
-    "cms_id": 14664,
-    "status_cms": "CMS",
-    "activity_cms": "Theoretical Physicist",
-    "inst_code": "ISTANBUL-TECH",
-    "is_author": false
-  },
-  {
-    "cms_id": 14995,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ISTANBUL-TECH",
-    "is_author": false
-  },
-  {
-    "cms_id": 14866,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "HAMBURG-UNIV",
     "is_author": false
   },
   {
@@ -97055,27 +95802,6 @@
     "is_author": true
   },
   {
-    "cms_id": 8577,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ADANA-CUKUROVA",
-    "is_author": true
-  },
-  {
-    "cms_id": 10577,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SUNY-BUFFALO",
-    "is_author": false
-  },
-  {
-    "cms_id": 15803,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "WARSAW-IEP",
-    "is_author": false
-  },
-  {
     "cms_id": 14871,
     "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
@@ -97682,34 +96408,6 @@
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
     "inst_code": "GHENT",
-    "is_author": false
-  },
-  {
-    "cms_id": 10258,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "VIRGINIA-UNIV",
-    "is_author": true
-  },
-  {
-    "cms_id": 13201,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "UCSB",
-    "is_author": false
-  },
-  {
-    "cms_id": 15102,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "DESY",
-    "is_author": false
-  },
-  {
-    "cms_id": 14791,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "BARI",
     "is_author": false
   },
   {
@@ -98406,13 +97104,6 @@
     "is_author": true
   },
   {
-    "cms_id": 13682,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "RIGA-RTU",
-    "is_author": false
-  },
-  {
     "cms_id": 995,
     "status_cms": "EXMEMBER",
     "activity_cms": "Engineer",
@@ -99040,20 +97731,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "AACHEN-1",
-    "is_author": false
-  },
-  {
-    "cms_id": 14395,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "CERN-based",
-    "is_author": false
-  },
-  {
-    "cms_id": 11404,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Software",
-    "inst_code": "BANGKOK",
     "is_author": false
   },
   {
@@ -99747,20 +98424,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "BOSTON-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15896,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "CHICAGO",
-    "is_author": false
-  },
-  {
-    "cms_id": 15575,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "BAYLOR-UNIV",
     "is_author": false
   },
   {
@@ -100546,13 +99209,6 @@
     "activity_cms": "Physicist",
     "inst_code": "POLYTECHNIQUE",
     "is_author": true
-  },
-  {
-    "cms_id": 15940,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ISTANBUL-TECH",
-    "is_author": false
   },
   {
     "cms_id": 13952,
@@ -101752,41 +100408,6 @@
     "is_author": false
   },
   {
-    "cms_id": 12440,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "GHENT",
-    "is_author": false
-  },
-  {
-    "cms_id": 15060,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "FAYOUM-CHEP-FU",
-    "is_author": false
-  },
-  {
-    "cms_id": 15065,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "MINNESOTA",
-    "is_author": false
-  },
-  {
-    "cms_id": 13259,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KANSAS-STATE",
-    "is_author": false
-  },
-  {
-    "cms_id": 14757,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SEOUL-SEJONG",
-    "is_author": false
-  },
-  {
     "cms_id": 16106,
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
@@ -102592,20 +101213,6 @@
     "is_author": true
   },
   {
-    "cms_id": 11907,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BRISTOL",
-    "is_author": true
-  },
-  {
-    "cms_id": 16107,
-    "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "PRINCETON",
-    "is_author": false
-  },
-  {
     "cms_id": 15340,
     "status_cms": "CMS",
     "activity_cms": "Engineer Software",
@@ -103268,34 +101875,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "BROWN-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15171,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "TAIPEI-NTU",
-    "is_author": true
-  },
-  {
-    "cms_id": 4520,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BOLOGNA",
-    "is_author": true
-  },
-  {
-    "cms_id": 15588,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "KOLKATA-SAHA",
-    "is_author": false
-  },
-  {
-    "cms_id": 16125,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Software",
-    "inst_code": "BANGKOK",
     "is_author": false
   },
   {
@@ -104013,41 +102592,6 @@
     "is_author": false
   },
   {
-    "cms_id": 10156,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "MIT",
-    "is_author": true
-  },
-  {
-    "cms_id": 11707,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "MIT",
-    "is_author": true
-  },
-  {
-    "cms_id": 13223,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BOSTON-UNIV",
-    "is_author": true
-  },
-  {
-    "cms_id": 14031,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "CHICAGO",
-    "is_author": false
-  },
-  {
-    "cms_id": 10617,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "ZURICH-UNIV",
-    "is_author": false
-  },
-  {
     "cms_id": 4800,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -104752,41 +103296,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Physicist",
     "inst_code": "PISA",
-    "is_author": false
-  },
-  {
-    "cms_id": 4354,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer",
-    "inst_code": "CANTERBURY",
-    "is_author": true
-  },
-  {
-    "cms_id": 14002,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SEOUL-SNU",
-    "is_author": false
-  },
-  {
-    "cms_id": 13899,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SEOUL-SNU",
-    "is_author": false
-  },
-  {
-    "cms_id": 13579,
-    "status_cms": "CMSEXTENDED",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "DESY",
-    "is_author": true
-  },
-  {
-    "cms_id": 12371,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SEOUL-SNU",
     "is_author": false
   },
   {
@@ -106169,13 +104678,6 @@
     "is_author": true
   },
   {
-    "cms_id": 15400,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "PEKING-UNIV",
-    "is_author": false
-  },
-  {
     "cms_id": 14817,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
@@ -106883,20 +105385,6 @@
     "is_author": true
   },
   {
-    "cms_id": 8042,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ISLAMABAD-NCP",
-    "is_author": true
-  },
-  {
-    "cms_id": 13619,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "CHICAGO",
-    "is_author": true
-  },
-  {
     "cms_id": 12153,
     "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
@@ -106956,7 +105444,7 @@
     "cms_id": 10505,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
-    "inst_code": "MEXICO-CINVESTAV",
+    "inst_code": "TEXAS-TAMU",
     "is_author": false
   },
   {
@@ -107580,13 +106068,6 @@
     "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
     "inst_code": "NORTHEASTERN",
-    "is_author": true
-  },
-  {
-    "cms_id": 12473,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "HAMBURG-UNIV",
     "is_author": true
   },
   {
@@ -108273,20 +106754,6 @@
     "status_cms": "CMS",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "BOSTON-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 15572,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "FERMILAB",
-    "is_author": false
-  },
-  {
-    "cms_id": 16314,
-    "status_cms": "CMS",
-    "activity_cms": "Theoretical Physicist",
-    "inst_code": "ZHEJIANG-UNIV",
     "is_author": false
   },
   {
@@ -109046,20 +107513,6 @@
     "is_author": false
   },
   {
-    "cms_id": 6106,
-    "status_cms": "EXMEMBER",
-    "activity_cms": "Physicist",
-    "inst_code": "KANSAS-UNIV",
-    "is_author": true
-  },
-  {
-    "cms_id": 14495,
-    "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "RIGA-RTU",
-    "is_author": false
-  },
-  {
     "cms_id": 6769,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
@@ -109655,10 +108108,38 @@
     "is_author": false
   },
   {
-    "cms_id": 14675,
+    "cms_id": 14538,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
     "inst_code": "ZHEJIANG-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 14576,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "VANDERBILT",
+    "is_author": false
+  },
+  {
+    "cms_id": 14606,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "MINSK-INP",
+    "is_author": false
+  },
+  {
+    "cms_id": 14663,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "MINSK-INP",
+    "is_author": false
+  },
+  {
+    "cms_id": 14676,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "BEIJING-THU",
     "is_author": false
   },
   {
@@ -109669,17 +108150,73 @@
     "is_author": false
   },
   {
-    "cms_id": 13478,
+    "cms_id": 14755,
     "status_cms": "CMS",
-    "activity_cms": "Doctoral Student",
-    "inst_code": "SEOUL-HANYANG",
+    "activity_cms": "Engineer Mechanical",
+    "inst_code": "UCDAVIS",
     "is_author": false
   },
   {
-    "cms_id": 15868,
+    "cms_id": 14771,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "NISER",
+    "is_author": false
+  },
+  {
+    "cms_id": 14782,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-THU",
+    "is_author": false
+  },
+  {
+    "cms_id": 14798,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ROCHESTER",
+    "is_author": false
+  },
+  {
+    "cms_id": 14822,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "HEPHY",
+    "is_author": false
+  },
+  {
+    "cms_id": 14841,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "RUTGERS",
+    "is_author": false
+  },
+  {
+    "cms_id": 14857,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "ZURICH-ETH",
+    "is_author": false
+  },
+  {
+    "cms_id": 14868,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KANSAS-STATE",
+    "is_author": false
+  },
+  {
+    "cms_id": 216,
     "status_cms": "EXMEMBER",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "ROMA-1",
+    "activity_cms": "Physicist",
+    "inst_code": "SEOUL-KYUNGHEE",
+    "is_author": false
+  },
+  {
+    "cms_id": 302,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
     "is_author": false
   },
   {
@@ -109687,6 +108224,13 @@
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "FLORIDA-STATE",
+    "is_author": false
+  },
+  {
+    "cms_id": 719,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RAL",
     "is_author": true
   },
   {
@@ -109694,46 +108238,774 @@
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "MARYLAND",
-    "is_author": true
+    "is_author": false
+  },
+  {
+    "cms_id": 981,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PADOVA",
+    "is_author": false
+  },
+  {
+    "cms_id": 1022,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "STRASBOURG",
+    "is_author": false
   },
   {
     "cms_id": 1081,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "DESY",
-    "is_author": true
+    "is_author": false
+  },
+  {
+    "cms_id": 1172,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ST-PETERSBURG",
+    "is_author": false
+  },
+  {
+    "cms_id": 1257,
+    "status_cms": "DECEASED",
+    "activity_cms": "Physicist",
+    "inst_code": "KARLSRUHE-IEKP",
+    "is_author": false
   },
   {
     "cms_id": 1464,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "MOSCOW-INR",
+    "is_author": false
+  },
+  {
+    "cms_id": 1939,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DEBRECEN-IEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 3276,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "ST-PETERSBURG",
+    "is_author": false
+  },
+  {
+    "cms_id": 3445,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "AUCKLAND",
+    "is_author": false
+  },
+  {
+    "cms_id": 3667,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ST-PETERSBURG",
     "is_author": true
   },
   {
-    "cms_id": 2728,
+    "cms_id": 4354,
     "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "LYON",
-    "is_author": true
-  },
-  {
-    "cms_id": 3778,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CERN",
-    "is_author": true
+    "activity_cms": "Engineer",
+    "inst_code": "CANTERBURY",
+    "is_author": false
   },
   {
     "cms_id": 4547,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
     "inst_code": "BANGKOK",
+    "is_author": false
+  },
+  {
+    "cms_id": 5449,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "VIRGINIA-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 5827,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ASRT-ENHEP",
+    "is_author": true
+  },
+  {
+    "cms_id": 5946,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOGAZICI",
+    "is_author": false
+  },
+  {
+    "cms_id": 6106,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KANSAS-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 6728,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "WAYNE",
+    "is_author": true
+  },
+  {
+    "cms_id": 7181,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ASRT-ENHEP",
+    "is_author": true
+  },
+  {
+    "cms_id": 7255,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "TIFR-A",
+    "is_author": true
+  },
+  {
+    "cms_id": 7261,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ISTANBUL-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 7505,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ST-PETERSBURG",
+    "is_author": false
+  },
+  {
+    "cms_id": 7807,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": false
+  },
+  {
+    "cms_id": 8042,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ISLAMABAD-NCP",
+    "is_author": false
+  },
+  {
+    "cms_id": 8577,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ADANA-CUKUROVA",
+    "is_author": false
+  },
+  {
+    "cms_id": 8602,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "KOLKATA-SAHA",
+    "is_author": false
+  },
+  {
+    "cms_id": 8663,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": false
+  },
+  {
+    "cms_id": 8718,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BARI",
+    "is_author": true
+  },
+  {
+    "cms_id": 8903,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RIO-CBPF",
+    "is_author": true
+  },
+  {
+    "cms_id": 9330,
+    "status_cms": "CMSEXTENDED",
+    "activity_cms": "Physicist",
+    "inst_code": "DESY",
+    "is_author": false
+  },
+  {
+    "cms_id": 9389,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ASRT-ENHEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 9504,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ATOMKI",
+    "is_author": false
+  },
+  {
+    "cms_id": 9905,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": true
+  },
+  {
+    "cms_id": 9952,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": true
+  },
+  {
+    "cms_id": 9975,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CHUNGLI-NCU",
+    "is_author": false
+  },
+  {
+    "cms_id": 9984,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SEOUL-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 10041,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MEXICO-CINVESTAV",
+    "is_author": false
+  },
+  {
+    "cms_id": 10240,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "SEOUL-HANYANG",
+    "is_author": false
+  },
+  {
+    "cms_id": 10258,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "VIRGINIA-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 10299,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 10317,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CHUNGLI-NCU",
+    "is_author": false
+  },
+  {
+    "cms_id": 10386,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LYON",
+    "is_author": true
+  },
+  {
+    "cms_id": 10556,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 10865,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "WISCONSIN",
+    "is_author": false
+  },
+  {
+    "cms_id": 11105,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-THU",
+    "is_author": false
+  },
+  {
+    "cms_id": 11230,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "CERN",
+    "is_author": false
+  },
+  {
+    "cms_id": 11841,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": true
+  },
+  {
+    "cms_id": 11907,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BRISTOL",
+    "is_author": false
+  },
+  {
+    "cms_id": 12130,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ISTANBUL-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 12398,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ASRT-ENHEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 13922,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "SACLAY",
+    "is_author": false
+  },
+  {
+    "cms_id": 14333,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BRUXELLES-ULB",
+    "is_author": true
+  },
+  {
+    "cms_id": 15400,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PEKING-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 15572,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FERMILAB",
+    "is_author": true
+  },
+  {
+    "cms_id": 15636,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer",
+    "inst_code": "PADOVA",
+    "is_author": false
+  },
+  {
+    "cms_id": 1451,
+    "status_cms": "CMSEXTENDED",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": false
+  },
+  {
+    "cms_id": 1787,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": false
+  },
+  {
+    "cms_id": 12347,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "WISCONSIN",
+    "is_author": true
+  },
+  {
+    "cms_id": 257,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CATANIA",
+    "is_author": false
+  },
+  {
+    "cms_id": 12783,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ADANA-CUKUROVA",
+    "is_author": true
+  },
+  {
+    "cms_id": 12799,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ADANA-CUKUROVA",
+    "is_author": true
+  },
+  {
+    "cms_id": 14487,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "WASHINGTON-CUA",
+    "is_author": false
+  },
+  {
+    "cms_id": 14002,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SEOUL-SNU",
+    "is_author": true
+  },
+  {
+    "cms_id": 13531,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "POLYTECHNIQUE",
+    "is_author": true
+  },
+  {
+    "cms_id": 14117,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 15356,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": false
+  },
+  {
+    "cms_id": 8520,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 13166,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-INR",
+    "is_author": false
+  },
+  {
+    "cms_id": 11006,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KOREA-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 13871,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "ROMA-1",
+    "is_author": false
+  },
+  {
+    "cms_id": 549,
+    "status_cms": "CMSEMERITUS",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": true
+  },
+  {
+    "cms_id": 761,
+    "status_cms": "CMSEMERITUS",
+    "activity_cms": "Physicist",
+    "inst_code": "NOTRE_DAME",
+    "is_author": true
+  },
+  {
+    "cms_id": 987,
+    "status_cms": "CMSEMERITUS",
+    "activity_cms": "Physicist",
+    "inst_code": "WISCONSIN",
+    "is_author": true
+  },
+  {
+    "cms_id": 4338,
+    "status_cms": "CMSEMERITUS",
+    "activity_cms": "Physicist",
+    "inst_code": "WISCONSIN",
+    "is_author": true
+  },
+  {
+    "cms_id": 11806,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SANTANDER",
+    "is_author": false
+  },
+  {
+    "cms_id": 1890,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "BOLOGNA",
+    "is_author": true
+  },
+  {
+    "cms_id": 6251,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "IOWA",
+    "is_author": true
+  },
+  {
+    "cms_id": 8915,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": true
+  },
+  {
+    "cms_id": 9498,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-ETH",
+    "is_author": true
+  },
+  {
+    "cms_id": 11066,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 12473,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 12643,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BRUXELLES-ULB",
+    "is_author": true
+  },
+  {
+    "cms_id": 13302,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MOSCOW-INR",
+    "is_author": true
+  },
+  {
+    "cms_id": 13478,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LYON",
+    "is_author": true
+  },
+  {
+    "cms_id": 14378,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 15171,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "TAIPEI-NTU",
+    "is_author": true
+  },
+  {
+    "cms_id": 15403,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "MADRID-CIEMAT",
+    "is_author": true
+  },
+  {
+    "cms_id": 16403,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 16404,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "KARLSRUHE-IEKP",
+    "is_author": false
+  },
+  {
+    "cms_id": 16405,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "CERN",
+    "is_author": false
+  },
+  {
+    "cms_id": 2728,
+    "status_cms": "CMSEXTENDED",
+    "activity_cms": "Physicist",
+    "inst_code": "LYON",
+    "is_author": true
+  },
+  {
+    "cms_id": 5871,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LIP",
+    "is_author": true
+  },
+  {
+    "cms_id": 8835,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOLOGNA",
+    "is_author": true
+  },
+  {
+    "cms_id": 10138,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "MALAYA",
+    "is_author": true
+  },
+  {
+    "cms_id": 12862,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 15155,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 16406,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "FERMILAB",
+    "is_author": false
+  },
+  {
+    "cms_id": 4520,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOLOGNA",
+    "is_author": false
+  },
+  {
+    "cms_id": 15162,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "CATANIA",
+    "is_author": false
+  },
+  {
+    "cms_id": 10853,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "HELSINKI-HIP",
+    "is_author": false
+  },
+  {
+    "cms_id": 12230,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "HELSINKI-HIP",
+    "is_author": false
+  },
+  {
+    "cms_id": 15675,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "CATANIA",
+    "is_author": false
+  },
+  {
+    "cms_id": 15895,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "HELSINKI-HIP",
+    "is_author": false
+  },
+  {
+    "cms_id": 15132,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer Software",
+    "inst_code": "HELSINKI-HIP",
+    "is_author": false
+  },
+  {
+    "cms_id": 15424,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "HELSINKI-HIP",
+    "is_author": false
+  },
+  {
+    "cms_id": 7616,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ZURICH-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 14929,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "GUANGZHOU-SYSU",
+    "is_author": false
+  },
+  {
+    "cms_id": 3778,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "CERN",
+    "is_author": true
+  },
+  {
+    "cms_id": 5512,
+    "status_cms": "CMSEXTENDED",
+    "activity_cms": "Physicist",
+    "inst_code": "LYON",
+    "is_author": true
+  },
+  {
+    "cms_id": 6463,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "LONDON-IC",
     "is_author": true
   },
   {
     "cms_id": 7895,
-    "status_cms": "CMS",
+    "status_cms": "EXMEMBER",
     "activity_cms": "Engineer",
     "inst_code": "CERN",
     "is_author": true
@@ -109746,73 +109018,10 @@
     "is_author": true
   },
   {
-    "cms_id": 8663,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "FERMILAB",
-    "is_author": true
-  },
-  {
-    "cms_id": 11841,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer Electronics",
-    "inst_code": "MADRID-CIEMAT",
-    "is_author": false
-  },
-  {
-    "cms_id": 10240,
+    "cms_id": 8339,
     "status_cms": "EXMEMBER",
     "activity_cms": "Physicist",
-    "inst_code": "SEOUL-HANYANG",
-    "is_author": true
-  },
-  {
-    "cms_id": 10317,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CHUNGLI-NCU",
-    "is_author": true
-  },
-  {
-    "cms_id": 9975,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "CHUNGLI-NCU",
-    "is_author": true
-  },
-  {
-    "cms_id": 719,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "RAL",
-    "is_author": false
-  },
-  {
-    "cms_id": 3445,
-    "status_cms": "CMS",
-    "activity_cms": "Engineer",
-    "inst_code": "AUCKLAND",
-    "is_author": true
-  },
-  {
-    "cms_id": 7505,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ST-PETERSBURG",
-    "is_author": true
-  },
-  {
-    "cms_id": 9984,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "SEOUL-UNIV",
-    "is_author": false
-  },
-  {
-    "cms_id": 7261,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "ISTANBUL-UNIV",
+    "inst_code": "CERN",
     "is_author": true
   },
   {
@@ -109823,101 +109032,1207 @@
     "is_author": true
   },
   {
-    "cms_id": 11066,
+    "cms_id": 10117,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
-    "inst_code": "HAMBURG-UNIV",
+    "inst_code": "SEOUL-SEJONG",
     "is_author": true
   },
   {
-    "cms_id": 10138,
+    "cms_id": 10156,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
-    "inst_code": "MALAYA",
+    "inst_code": "MIT",
     "is_author": true
   },
   {
-    "cms_id": 8718,
+    "cms_id": 10227,
     "status_cms": "CMS",
     "activity_cms": "Physicist",
-    "inst_code": "BARI",
-    "is_author": false
-  },
-  {
-    "cms_id": 12643,
-    "status_cms": "CMS",
-    "activity_cms": "Physicist",
-    "inst_code": "BRUXELLES-ULB",
+    "inst_code": "MIT",
     "is_author": true
   },
   {
-    "cms_id": 761,
-    "status_cms": "CMSEMERITUS",
+    "cms_id": 10546,
+    "status_cms": "CMS",
     "activity_cms": "Physicist",
-    "inst_code": "NOTRE_DAME",
+    "inst_code": "MIT",
     "is_author": true
   },
   {
-    "cms_id": 15895,
+    "cms_id": 11707,
     "status_cms": "CMS",
-    "activity_cms": "Non-Doctoral Student",
-    "inst_code": "HELSINKI-HIP",
-    "is_author": false
+    "activity_cms": "Physicist",
+    "inst_code": "MIT",
+    "is_author": true
+  },
+  {
+    "cms_id": 14064,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "LONDON-IC",
+    "is_author": true
   },
   {
     "cms_id": 14168,
-    "status_cms": "CMS",
+    "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "QUITO-USFQ",
     "is_author": false
+  },
+  {
+    "cms_id": 10717,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "WAYNE",
+    "is_author": false
+  },
+  {
+    "cms_id": 11032,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer Mechanical",
+    "inst_code": "SANTANDER",
+    "is_author": false
+  },
+  {
+    "cms_id": 14294,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "IIT-MADRAS",
+    "is_author": true
+  },
+  {
+    "cms_id": 14666,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "BROWN-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 16407,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "DUNDEE-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 15649,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "DESY",
+    "is_author": true
+  },
+  {
+    "cms_id": 12440,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "GHENT",
+    "is_author": false
+  },
+  {
+    "cms_id": 15471,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "GHENT",
+    "is_author": false
+  },
+  {
+    "cms_id": 15478,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "GHENT",
+    "is_author": false
+  },
+  {
+    "cms_id": 15114,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "VILNIUS-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 16408,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "RIGA-RTU",
+    "is_author": false
+  },
+  {
+    "cms_id": 13657,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHANDIGARH",
+    "is_author": true
+  },
+  {
+    "cms_id": 13899,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SEOUL-SNU",
+    "is_author": true
+  },
+  {
+    "cms_id": 14820,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHANDIGARH",
+    "is_author": true
+  },
+  {
+    "cms_id": 9557,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Administrative",
+    "inst_code": "DESY",
+    "is_author": false
+  },
+  {
+    "cms_id": 16409,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": false
+  },
+  {
+    "cms_id": 16410,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "SANTANDER",
+    "is_author": false
+  },
+  {
+    "cms_id": 16411,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "KYUNGPOOK",
+    "is_author": false
+  },
+  {
+    "cms_id": 16412,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "ZURICH-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 10605,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BEIJING-THU",
+    "is_author": true
+  },
+  {
+    "cms_id": 15750,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "MALAYA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16413,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": false
+  },
+  {
+    "cms_id": 12930,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "MALAYA",
+    "is_author": false
+  },
+  {
+    "cms_id": 14700,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "MALAYA",
+    "is_author": false
+  },
+  {
+    "cms_id": 14927,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "GUANGZHOU-SYSU",
+    "is_author": false
+  },
+  {
+    "cms_id": 3640,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "ANTWERPEN",
+    "is_author": false
+  },
+  {
+    "cms_id": 10577,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SUNY-BUFFALO",
+    "is_author": true
+  },
+  {
+    "cms_id": 10953,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 13201,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "UCSB",
+    "is_author": true
+  },
+  {
+    "cms_id": 14296,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 14299,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHANDIGARH",
+    "is_author": true
+  },
+  {
+    "cms_id": 14443,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KOLKATA-SAHA",
+    "is_author": true
   },
   {
     "cms_id": 14564,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
     "inst_code": "ANTIOQUIA",
-    "is_author": false
-  },
-  {
-    "cms_id": 3640,
-    "status_cms": "CMSEMERITUS",
-    "activity_cms": "Physicist",
-    "inst_code": "ANTWERPEN",
     "is_author": true
   },
   {
-    "cms_id": 14996,
+    "cms_id": 14902,
     "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ATHENS-NTUA",
+    "is_author": true
+  },
+  {
+    "cms_id": 14910,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHANDIGARH",
+    "is_author": true
+  },
+  {
+    "cms_id": 15033,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 15060,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "FAYOUM-CHEP-FU",
+    "is_author": true
+  },
+  {
+    "cms_id": 15065,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "MINNESOTA",
+    "is_author": true
+  },
+  {
+    "cms_id": 15416,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KANSAS-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 16414,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "VINCA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16415,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "ROMA-1",
+    "is_author": false
+  },
+  {
+    "cms_id": 6186,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 11635,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 11159,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "PRINCETON",
+    "is_author": true
+  },
+  {
+    "cms_id": 13223,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "BOSTON-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 13259,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 14738,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "UCSB",
+    "is_author": true
+  },
+  {
+    "cms_id": 15185,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 16416,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": false
+  },
+  {
+    "cms_id": 11203,
+    "status_cms": "CMSEXTENDED",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 13619,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "VANDERBILT",
+    "is_author": true
+  },
+  {
+    "cms_id": 8338,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer",
+    "inst_code": "WAYNE",
+    "is_author": false
+  },
+  {
+    "cms_id": 12111,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KANSAS-STATE",
+    "is_author": true
+  },
+  {
+    "cms_id": 13682,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "RIGA-RTU",
+    "is_author": true
+  },
+  {
+    "cms_id": 14031,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHICAGO",
+    "is_author": true
+  },
+  {
+    "cms_id": 15663,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "DESY",
+    "is_author": true
+  },
+  {
+    "cms_id": 15665,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "DESY",
+    "is_author": true
+  },
+  {
+    "cms_id": 15069,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "UNIANDES",
+    "is_author": true
+  },
+  {
+    "cms_id": 15102,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "DESY",
+    "is_author": true
+  },
+  {
+    "cms_id": 13579,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "DESY",
+    "is_author": true
+  },
+  {
+    "cms_id": 16417,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "BOLOGNA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16418,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": false
+  },
+  {
+    "cms_id": 14395,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SPLIT-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 16419,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "SPLIT-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 16420,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "KOLKATA-SAHA",
+    "is_author": false
+  },
+  {
+    "cms_id": 10366,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "TEXAS-TAMU",
+    "is_author": true
+  },
+  {
+    "cms_id": 14025,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "TEXAS-TAMU",
+    "is_author": false
+  },
+  {
+    "cms_id": 16421,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 13854,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "TEXAS-TAMU",
+    "is_author": false
+  },
+  {
+    "cms_id": 13197,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 13911,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "AACHEN-3A",
+    "is_author": true
+  },
+  {
+    "cms_id": 15666,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 14430,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 10017,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "FAYOUM-CHEP-FU",
+    "is_author": false
+  },
+  {
+    "cms_id": 15702,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHICAGO",
+    "is_author": false
+  },
+  {
+    "cms_id": 15728,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHICAGO",
+    "is_author": false
+  },
+  {
+    "cms_id": 15896,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CHICAGO",
+    "is_author": false
+  },
+  {
+    "cms_id": 14459,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "TEXAS-TAMU",
+    "is_author": false
+  },
+  {
+    "cms_id": 13224,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "TEXAS-TAMU",
+    "is_author": false
+  },
+  {
+    "cms_id": 13187,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "NISER",
+    "is_author": true
+  },
+  {
+    "cms_id": 16422,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "TEXAS-TAMU",
+    "is_author": false
+  },
+  {
+    "cms_id": 6739,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ANTWERPEN",
+    "is_author": false
+  },
+  {
+    "cms_id": 15868,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "ROMA-1",
+    "is_author": false
+  },
+  {
+    "cms_id": 11796,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "PAVIA",
+    "is_author": false
+  },
+  {
+    "cms_id": 15201,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "TIFR-B",
+    "is_author": true
+  },
+  {
+    "cms_id": 15588,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KOLKATA-SAHA",
+    "is_author": true
+  },
+  {
+    "cms_id": 16423,
+    "status_cms": "CMS",
+    "activity_cms": "Technician",
+    "inst_code": "BOLOGNA",
+    "is_author": false
+  },
+  {
+    "cms_id": 15671,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "AACHEN-3A",
+    "is_author": true
+  },
+  {
+    "cms_id": 14625,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SOFIA-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 16424,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": false
+  },
+  {
+    "cms_id": 16425,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "VINCA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16426,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "RUTGERS",
+    "is_author": false
+  },
+  {
+    "cms_id": 16427,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "BEIJING-BUAA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16428,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CHUNGLI-NCU",
+    "is_author": false
+  },
+  {
+    "cms_id": 16429,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "BEIJING-IHEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 13669,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "RIGA-RTU",
+    "is_author": true
+  },
+  {
+    "cms_id": 14495,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "RIGA-RTU",
+    "is_author": true
+  },
+  {
+    "cms_id": 15940,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ISTANBUL-TECH",
+    "is_author": false
+  },
+  {
+    "cms_id": 14664,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Theoretical Physicist",
+    "inst_code": "ISTANBUL-TECH",
+    "is_author": false
+  },
+  {
+    "cms_id": 14995,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ISTANBUL-TECH",
+    "is_author": false
+  },
+  {
+    "cms_id": 14996,
+    "status_cms": "EXMEMBER",
     "activity_cms": "Doctoral Student",
     "inst_code": "ISTANBUL-TECH",
     "is_author": false
   },
   {
     "cms_id": 15564,
-    "status_cms": "CMS",
+    "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "ISTANBUL-TECH",
     "is_author": false
   },
   {
     "cms_id": 15566,
-    "status_cms": "CMS",
+    "status_cms": "EXMEMBER",
     "activity_cms": "Non-Doctoral Student",
     "inst_code": "ISTANBUL-TECH",
     "is_author": false
   },
   {
-    "cms_id": 16127,
+    "cms_id": 15575,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "BAYLOR-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 16430,
     "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "BOSTON-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 16431,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "MINNESOTA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16432,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ISTANBUL-TECH",
+    "is_author": false
+  },
+  {
+    "cms_id": 8909,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 13556,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 13665,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HEPHY",
+    "is_author": true
+  },
+  {
+    "cms_id": 14277,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 14989,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 15034,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 15035,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "LONDON-IC",
+    "is_author": true
+  },
+  {
+    "cms_id": 11114,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "ANTWERPEN",
+    "is_author": false
+  },
+  {
+    "cms_id": 16433,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Mechanical",
+    "inst_code": "FERMILAB",
+    "is_author": false
+  },
+  {
+    "cms_id": 16434,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "SUNY-BUFFALO",
+    "is_author": false
+  },
+  {
+    "cms_id": 16435,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Software",
+    "inst_code": "FERMILAB",
+    "is_author": false
+  },
+  {
+    "cms_id": 10604,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "PADOVA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16314,
+    "status_cms": "CMS",
+    "activity_cms": "Theoretical Physicist",
+    "inst_code": "ZHEJIANG-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 7108,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "LYON",
+    "is_author": true
+  },
+  {
+    "cms_id": 14757,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "SEOUL-SEJONG",
+    "is_author": true
+  },
+  {
+    "cms_id": 16436,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "KARLSRUHE-IEKP",
+    "is_author": false
+  },
+  {
+    "cms_id": 11404,
+    "status_cms": "EXMEMBER",
     "activity_cms": "Engineer Software",
     "inst_code": "BANGKOK",
     "is_author": false
   },
   {
-    "cms_id": 11813,
+    "cms_id": 16125,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer Software",
+    "inst_code": "BANGKOK",
+    "is_author": false
+  },
+  {
+    "cms_id": 16127,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer Software",
+    "inst_code": "BANGKOK",
+    "is_author": false
+  },
+  {
+    "cms_id": 16437,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "ISLAMABAD-NCP",
+    "is_author": false
+  },
+  {
+    "cms_id": 16438,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "RUTGERS",
+    "is_author": false
+  },
+  {
+    "cms_id": 10001,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "DELHI-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 12371,
     "status_cms": "CMS",
     "activity_cms": "Doctoral Student",
+    "inst_code": "SEOUL-SNU",
+    "is_author": true
+  },
+  {
+    "cms_id": 14675,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ZHEJIANG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 14851,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ZURICH-ETH",
+    "is_author": true
+  },
+  {
+    "cms_id": 11813,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
     "inst_code": "UCDAVIS",
+    "is_author": false
+  },
+  {
+    "cms_id": 12253,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "JOHNS-HOPKINS",
+    "is_author": false
+  },
+  {
+    "cms_id": 13213,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "JOHNS-HOPKINS",
+    "is_author": false
+  },
+  {
+    "cms_id": 13339,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "WARSAW-IEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 15803,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "WARSAW-IEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 16107,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "PRINCETON",
+    "is_author": false
+  },
+  {
+    "cms_id": 13514,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "UCSB",
+    "is_author": false
+  },
+  {
+    "cms_id": 15075,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ZURICH-ETH",
+    "is_author": false
+  },
+  {
+    "cms_id": 1151,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "WARSAW-IEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 16439,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "FAYOUM-CHEP-FU",
+    "is_author": false
+  },
+  {
+    "cms_id": 16440,
+    "status_cms": "CMS",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "FERMILAB",
+    "is_author": false
+  },
+  {
+    "cms_id": 16441,
+    "status_cms": "CMS",
+    "activity_cms": "Administrative",
+    "inst_code": "RAL",
+    "is_author": false
+  },
+  {
+    "cms_id": 15647,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "CERN",
+    "is_author": false
+  },
+  {
+    "cms_id": 14166,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "DUNDEE-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 342,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "WARSAW-IEP",
+    "is_author": false
+  },
+  {
+    "cms_id": 12603,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Engineer Electronics",
+    "inst_code": "STRASBOURG",
+    "is_author": false
+  },
+  {
+    "cms_id": 16442,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "DESY",
+    "is_author": false
+  },
+  {
+    "cms_id": 10617,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "ZURICH-UNIV",
+    "is_author": false
+  },
+  {
+    "cms_id": 14616,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "BARI",
+    "is_author": true
+  },
+  {
+    "cms_id": 14749,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 14791,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "BARI",
+    "is_author": true
+  },
+  {
+    "cms_id": 14866,
+    "status_cms": "CMS",
+    "activity_cms": "Doctoral Student",
+    "inst_code": "HAMBURG-UNIV",
+    "is_author": true
+  },
+  {
+    "cms_id": 14206,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "BARI",
+    "is_author": false
+  },
+  {
+    "cms_id": 14403,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "UCSB",
+    "is_author": false
+  },
+  {
+    "cms_id": 16443,
+    "status_cms": "CMS",
+    "activity_cms": "Physicist",
+    "inst_code": "CHANDIGARH",
+    "is_author": false
+  },
+  {
+    "cms_id": 13505,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Theoretical Physicist",
+    "inst_code": "ISLAMABAD-NCP",
+    "is_author": false
+  },
+  {
+    "cms_id": 13582,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "PUERTO_RICO",
+    "is_author": false
+  },
+  {
+    "cms_id": 13928,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Physicist",
+    "inst_code": "UCSB",
+    "is_author": false
+  },
+  {
+    "cms_id": 14425,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "UCSB",
+    "is_author": false
+  },
+  {
+    "cms_id": 15509,
+    "status_cms": "EXMEMBER",
+    "activity_cms": "Technician",
+    "inst_code": "WASHINGTON-CUA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16444,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "NORTHEASTERN",
+    "is_author": false
+  },
+  {
+    "cms_id": 16445,
+    "status_cms": "CMS",
+    "activity_cms": "Non-Doctoral Student",
+    "inst_code": "MILANO-BICOCCA",
+    "is_author": false
+  },
+  {
+    "cms_id": 16446,
+    "status_cms": "CMS",
+    "activity_cms": "Administrative",
+    "inst_code": "LONDON-IC",
     "is_author": false
   }
 ]
