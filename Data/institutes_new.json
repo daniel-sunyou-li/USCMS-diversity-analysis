@@ -2,2681 +2,2771 @@
   {
     "code": "AACHEN-1",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "AACHEN-3A",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "AACHEN-3B",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "ACADEMIA_SINICA",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ADANA-CUKUROVA",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ADIYAMAN",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "AGDER-UNIV",
     "country": "Norway",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "AHMEDABAD",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "AINSHAMS-UNIV",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "AL-AIN",
     "country": "United Arab Emirates",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "ALABAMA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ALABAMA-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ALEXANDRIA-AASTMT",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ALEXANDRIA-UNIV",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ALLAHABAD",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ALSTOM",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "AMES",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ANADOLU-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ANKARA-HU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ANKARA-METU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ANKARA-TUBITAK",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
+  },
+  {
+    "code": "ANNAPOLIS-USNA",
+    "country": "USA",
+    "region": "USA"
   },
   {
     "code": "ANTIOQUIA",
     "country": "Colombia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ANTWERPEN",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "AQUILA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ARGONNE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ASRT-ENHEP",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ASSIUT-UNIV",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ATCOP",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ATHENS",
     "country": "Greece",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "ATHENS-NTUA",
     "country": "Greece",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "ATOMKI",
     "country": "Hungary",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "AUCKLAND",
     "country": "New Zealand",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "AURORA-IMSA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "AYDIN-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "AZAD-PPRC",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BAHRAIN-UNIV",
     "country": "Bahrain",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BANGALORE-IISC",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
+  },
+  {
+    "code": "BANGI-UKM",
+    "country": "Malaysia",
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BANGKOK",
     "country": "Thailand",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BARCELONA",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BARI",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "BASEL",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "BATH-UNIV",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "BAYLOR-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "BEHSHAHR-USTM",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIJING-BUAA",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIJING-CAS",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIJING-IHEP",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIJING-NSFC",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIJING-THU",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIJING-UCAS",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BEIRUT-AUB",
     "country": "Lebanon",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BEIRUT-LAU",
     "country": "Lebanon",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BEIRUT-LU",
     "country": "Lebanon",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BEIRUT-USJ",
     "country": "Lebanon",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BELGRADE",
     "country": "Serbia",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BENISUEF-UNIV",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BERKELEY",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "BERLIN",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "BERN-AEC",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "BERN-IFBW",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "BERN-SNF",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "BHOPAL-IISER",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BHUBANESWAR",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BHUBANESWAR-ITT",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "BINGOL",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BIRMINGHAM",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "BOGAZICI",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BOGOTA",
     "country": "Colombia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BOLOGNA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "BONN",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "BOSTON-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "BOSTON-UNIV-GVA",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "BRATISLAVA",
     "country": "Slovak Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "BRISTOL",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "BRNO",
     "country": "Czech Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "BROOKHAVEN",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "BROWN-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "BRUNEL",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "BRUSSEL-FWO",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BRUSSEL-VUB",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BRUXELLES-FNRS",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BRUXELLES-ULB",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BTCP",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "BTU",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "BUCHAREST-IFIN-HH",
     "country": "Romania",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "BUCHAREST-INST",
     "country": "Romania",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "BUCHAREST-UNIV",
     "country": "Romania",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "BUDAPEST",
     "country": "Hungary",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BUDAPEST-ELU",
     "country": "Hungary",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BUDAPEST_UNIV",
     "country": "Hungary",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "BUE",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "BURDUR-MEHMETAKIF",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "CAIRO",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "CALCUTTA-VECC",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CALTECH",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "CANTERBURY",
     "country": "New Zealand",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CARNEGIE-MELLON",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "CATANIA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "CCCS-UWE",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "CERN",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "CERN-based",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "CHANDIGARH",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHARLES-UNIV",
     "country": "Czech Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "CHEJU",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHIANG-MAI",
     "country": "Thailand",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHIAO-TUNG",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHICAGO",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
+  },
+  {
+    "code": "CHICAGO-UNIV",
+    "country": "USA",
+    "region": "USA"
   },
   {
     "code": "CHONBUK",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHONNAM",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHUNGLI-NCU",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CHUNG_HSING",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "CLAYTON-MONASH",
     "country": "Australia",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "CLU",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
+  },
+  {
+    "code": "CLUJNAPOCA-UNIV",
+    "country": "Romania",
+    "region": "Unknown"
   },
   {
     "code": "CNRS-IN2P3",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "CNSTN-Sidi",
     "country": "Tunisia",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "COLOMBO",
     "country": "Sri Lanka",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "COLORADO",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "COMSATS",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "COPENHAGEN-BORH",
     "country": "ZZ",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "CORNELL",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "CRACOW-INP",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "CRANFIELD-UNIV",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "CSC-UWI",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "CSFNSM-CATANIA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "CYPRUS-UNIV",
     "country": "Cyprus",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "DALLAS-SOUTHERN",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "DAMGHAN-UNI",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DARMSTADT-GSI",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "DEBRECEN-IEP",
     "country": "Hungary",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
+  },
+  {
+    "code": "DEBRECEN-INF",
+    "country": "Hungary",
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "DEGGENDORF",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
+  },
+  {
+    "code": "DEHRADUN-UPES",
+    "country": "India",
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DEKALB-NIU",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "DELHI-DST",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DELHI-NSC",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DELHI-UGC",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DELHI-UNIV",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DELHI_IIT",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DEMOKRITOS",
     "country": "Greece",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "DESY",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "DESY-ZEUTHEN",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "DILIMAN-UNIV",
     "country": "Philippines",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "DOE_MD",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "DOE_W",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "DONGSHIN",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DUBLIN-UCD",
     "country": "Ireland",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "DUBNA",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "DUNDEE-UNIV",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "DURGAPUR",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "DURHAM-UNIV",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "EDINBURGH-UNIV",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "EGE",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "EINDHOVEN",
     "country": "Netherlands",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "ENEA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ENEA-CLEMENTEL",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "EPFL",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "EPITA",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "ERZINCAN",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "FAIRFIELD",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FAYOUM-CHEP-FU",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "Fayoum-Univ",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "FELGUERA",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "FERMI",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "FERMILAB",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FIRENZE",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "FLORIDA-FIU",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FLORIDA-SCRI",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FLORIDA-STATE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FLORIDA-TECH",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FLORIDA-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "FRASCATI",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "Geneva",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "GENOVA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "GENOVA-UNIV",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "GHENT",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "GIK",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
+  },
+  {
+    "code": "GORLITZ-CASUS",
+    "country": "Germany",
+    "region": "Germany"
+  },
+  {
+    "code": "GRAZ-PHYSICS",
+    "country": "Austria",
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "GUANGZHOU-SYSU",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "GYEONGSANG",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "GYONGYOS-UNIV",
     "country": "Hungary",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HAMBURG-UNIV",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "HARYANA-GDGWI",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "HEFEI-USTC",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "HEIDELBERG",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "HELSINKI-ACAD",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HELSINKI-EDU",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HELSINKI-HIP",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HELSINKI-HUT",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HELSINKI-UNIV",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HELWAN-UNIV",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "HEPHY",
     "country": "Austria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "HONG-KONG",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "HONG-KONG-HKU",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "HSC",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "HYDERABAD-UNIV",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "IFIC",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "IIT-MADRAS",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "INDORE-CAT",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "INFN",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "IOANNINA",
     "country": "Greece",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "IOM-PERUGIA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "IOWA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "IPM",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ISFAHAN-IUT",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ISLAMABAD-NCP",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ISPARTA",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-BEYKENT",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-BILGI",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-CERRAHPASA",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
+  },
+  {
+    "code": "ISTANBUL-GEDIK",
+    "country": "Turkey",
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-MSU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-OZYEGIN",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-PRU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-TECH",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTANBUL-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ISTC",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
+  },
+  {
+    "code": "IUT-ECE",
+    "country": "Iran",
+    "region": "Other States A (OSA)"
+  },
+  {
+    "code": "IUT-PHYSICS",
+    "country": "Iran",
+    "region": "Other States A (OSA)"
   },
   {
     "code": "IZMIR-DEU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "IZMIR-IYTE",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "JAMMU-UNIV",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "JAZAN-UNIV",
     "country": "Saudi Arabia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "JEDDAH-KAU",
     "country": "Saudi Arabia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "JOHNS-HOPKINS",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "JORDAN-PSUT",
     "country": "Jordan",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "JORDAN-UNIV",
     "country": "Jordan",
-    "region": "World"
+    "region": "Unknown"
+  },
+  {
+    "code": "JUELICH-FZ",
+    "country": "Germany",
+    "region": "Germany"
   },
   {
     "code": "JYVASKYLA",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "KAIST",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KAJANG-MOSTI",
     "country": "Malaysia",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KANGNUNG",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KANGWON",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KANSAS-STATE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "KANSAS-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "KARAMAN-KMU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KARLSRUHE-IEKP",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "KARS-KAFKAS",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KAYSERI-ERCIYES",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KHALSA",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KHARKOV-ISMA",
     "country": "Ukraine",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KHARKOV-KIPT",
     "country": "Ukraine",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KHARKOV-KSU",
     "country": "Ukraine",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KIELCE",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "KING-ABDULAZIZ",
     "country": "Saudi Arabia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KISTI",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KOLKATA-SAHA",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KONKUK-UNIV",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KONYA-NEU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KONYA-TECH",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KOREA-ISE",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KOREA-UNIV",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KOSICE",
     "country": "Slovak Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "KRAKOW-AGH",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "KRAKOW-IET",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "KSU",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KUWAIT-AUM",
     "country": "Kuwait",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KUWAIT-UNIV",
     "country": "Kuwait",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "KWACHON",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "KYUNGPOOK",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "LAPP",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "LAPPEENRANTA-LUT",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "LATVIA-UNIV",
     "country": "Latvia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "LAUSANNE-HEC",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "LEGNARO",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "LEPSI",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "LEUVEN-KU",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "LIP",
     "country": "Portugal",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "LISBOA-ADI",
     "country": "Portugal",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "LISBOA-ICICT",
     "country": "Portugal",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "LIVERMORE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "LIVERPOOL",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "LONDON-IC",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "LOS_ALAMOS",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "LOUISIANA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "LOUVAIN",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
+  },
+  {
+    "code": "LUDHIANA-PAU",
+    "country": "India",
+    "region": "Other States A (OSA)"
   },
   {
     "code": "LYON",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "LYON_CC",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "MADRAS-IMS",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "MADRID-CDTI",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "MADRID-CICYT",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "MADRID-CIEMAT",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "MADRID-UNIV",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "MALAYA",
     "country": "Malaysia",
-    "region": "World"
+    "region": "Other States A (OSA)"
+  },
+  {
+    "code": "MANAUS-AMAZONAS",
+    "country": "Brazil",
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MANNHEIM",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "MANSOURA-UNIV",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MARMARA",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MARYLAND",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "MATARA",
     "country": "Sri Lanka",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "MEPHI",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MERSIN",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MERSIN-CAG",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MEXICO-CINVESTAV",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MEXICO-CONACYT",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MEXICO-GUANAJUATO",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MEXICO-IBEROAM",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MEXICO-PUEBLA",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MEXICO-UASLP",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MICHIGAN-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "MICHOACANA",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MILANO-BICOCCA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "MILANO-UNIV",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "MIMAR",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MINNESOTA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "MINSK-INP",
     "country": "Belarus",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MINSK-NCPHEP",
     "country": "Belarus",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MINSK-RIAPP",
     "country": "Belarus",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MINSK-UNIV",
     "country": "Belarus",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MISSISSIPPI",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "MIT",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "MONS",
     "country": "Belgium",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "MORELIA",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MOSCOW-INR",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MOSCOW-ITEP",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MOSCOW-LEBEDEV",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MOSCOW-MIPT",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MOSCOW-MST",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MOSCOW-MSU",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MOSCOW-NIKIET",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "MUENSTER-UNIV",
     "country": "Germany",
-    "region": "World"
+    "region": "Germany"
   },
   {
     "code": "MUGLA",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MUMBAI-BARC",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "MUMBAI-DAE",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "MUMBAI-IIT",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "MUSCAT-QABOOS",
     "country": "Oman",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "MYASISHCHEV",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "NANJING-NNU",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "NAPOLI",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
+  },
+  {
+    "code": "NAPOLI-SSM",
+    "country": "Italy",
+    "region": "Italy"
   },
   {
     "code": "NAPOLI-UNIV",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "NEAR-EAST-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "NEBRASKA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "NEWYORK-SIMONS",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "NICOSIA-UNIV",
     "country": "Cyprus",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "NIGDE",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "NIKHEF",
     "country": "Netherlands",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "NISER",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "NORTHEASTERN",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "NORTHWESTERN",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "NOTRE_DAME",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "NOVARA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "NOVOSIBIRSK",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "NOVOSIBIRSK-NSU",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "NSF",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "NUST",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "OHIO-STATE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "OMEGA",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "ORSAY-UPS",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "OSLO",
     "country": "Norway",
-    "region": "World"
+    "region": "Unknown"
+  },
+  {
+    "code": "OTAGO-UNIV",
+    "country": "New Zealand",
+    "region": "Other States A (OSA)"
   },
   {
     "code": "OULU",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "OVIEDO",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "OXFORD",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "PADOVA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "PAEC",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "PARIS-LPTHE",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "PATRAS-MEAD",
     "country": "Greece",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "PAVIA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "PEKING-UNIV",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "PERUGIA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "PINSTECH",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "PISA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "PODGORICA-UCG",
     "country": "Montenegro",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "POHANG",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "POLI_TORINO",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "POLYTECHNIQUE",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "PORTOALEGRE-UFRGS",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "POTENZA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "PPARC",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "PRAGUE-CHARLES",
     "country": "Czech Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "PRAGUE-CTU",
     "country": "Czech Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "PRAGUE-ICM",
     "country": "Czech Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "PRINCETON",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "PROTVINO",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "PSI",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "PUERTO_RICO",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "PUNE-IISER",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "PURDUE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "PURDUE-CALUMET",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "QATAR-TEXAS-AM",
     "country": "Qatar",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "QUITO-EPN",
     "country": "Ecuador",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "QUITO-USFQ",
     "country": "Ecuador",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "RAL",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "RAWALPINDI",
     "country": "Pakistan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "RDMS",
     "country": "ZZ",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "REZ-NRI",
     "country": "Czech Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "RICE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "RIE",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "RIGA",
     "country": "Latvia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "RIGA-RTU",
     "country": "Latvia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "RIO-CBPF",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "RIO-UERJ",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "RIO-UFRJ",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ROCHESTER",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ROCKEFELLER",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ROMA-1",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ROMA-INFN",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ROMA-MARCONI",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ROMA-PRES",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ROMA-SCUOLA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "ROMA-UNIV",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "RUHUNA",
     "country": "Sri Lanka",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "RUTGERS",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "SACLAY",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "SALASPILS",
     "country": "Latvia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SANTANDER",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SANTIAGO",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SANTO_ANDRE",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SAO_PAULO",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SCUOLA-PISA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "SELANGOR-IIUM",
     "country": "Malaysia",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEONAM",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEOUL-EDU",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEOUL-HANYANG",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEOUL-KYUNGHEE",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEOUL-SEJONG",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEOUL-SNU",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEOUL-UNIV",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SEVILLA-GIE",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SHANGHAI-FU",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SHANGHAI-IC",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SHARIF-UNIV",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SHIRAZ-UNIV",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SHOOLINI-UNIV",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SIENA",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "SINGAPORE-UNIV",
     "country": "Singapore",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "SINOP",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SIRNAK-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SKK-UNIV",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "SLAC",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "SNEZHINSK",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "SOFIA-INRNE",
     "country": "Bulgaria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SOFIA-ISER",
     "country": "Bulgaria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SOFIA-MINISTRY",
     "country": "Bulgaria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SOFIA-UNIV",
     "country": "Bulgaria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "SONORA-UNISON",
     "country": "Mexico",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SOUTHAMPTON",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "SPLIT-FESB",
     "country": "Croatia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SPLIT-FS",
     "country": "Croatia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SPLIT-UNIV",
     "country": "Croatia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SQU-UNIV",
     "country": "Oman",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ST-PAUL-BU",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "ST-PETERSBURG",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "ST-PETERSBURG-SPU",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "STONY_BROOK",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "STRASBOURG",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "STRASBOURG-TPS",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "STRATHCLYDE",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "SUEZ",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "SUNY-BUFFALO",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "SWANSEA",
     "country": "United Kingdom",
-    "region": "World"
+    "region": "United Kingdom"
   },
   {
     "code": "SYDNEY-UNIV",
     "country": "Australia",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "SYRACUSE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "TAIPEI-ASGC",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TAIPEI-NSC",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TAIPEI-NTU",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TALLINN",
     "country": "Estonia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "TAMILNADU-VIT",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TAMPERE",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
+  },
+  {
+    "code": "TARAPACA-UTA",
+    "country": "Chile",
+    "region": "Unknown"
   },
   {
     "code": "TARSUS-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "TARTU-UNIV",
     "country": "Estonia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "TASHKENT",
     "country": "Uzbekistan",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TBILISI-GTU",
     "country": "Georgia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TBILISI-IPAS",
     "country": "Georgia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TBILISI-ISU",
     "country": "Georgia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TBILISI-TSU",
     "country": "Georgia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TEHRAN",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TEHRAN-ENG",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TENERIFE-IAC",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "TENNESSEE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "TEXAS-AUSTIN",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "TEXAS-DALLAS",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "TEXAS-TAMU",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "TEXAS-TECH",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "TIFR",
     "country": "ZZ",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TIFR-A",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TIFR-B",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TIFR-EHEP",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TIFR-HECR",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TOKAT-GAZIOS",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "TOKYO-UNIV",
     "country": "Japan",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TOMSK-POLYTEC",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TOMSK-TSU",
     "country": "Russia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "TORINO",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "TORINO-B",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "TORONTO",
     "country": "Canada",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TRENTO",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "TRIESTE",
     "country": "Italy",
-    "region": "World"
+    "region": "Italy"
   },
   {
     "code": "TRINCOMALEE",
     "country": "Sri Lanka",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TSING_HUA",
     "country": "Taiwan",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "TSUKUBA-CDF",
     "country": "Japan",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TSUKUBA-KEK",
     "country": "Japan",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TSUKUBA-SDC",
     "country": "Japan",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TSUKUBA-UNIV",
     "country": "Japan",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TUNIS-UTM",
     "country": "Tunisia",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "TUT",
     "country": "Finland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "UCDAVIS",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "UCLA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "UCRIVERSIDE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "UCSB",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "UCSD",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "UFMS",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "UFPEL",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "UHA",
     "country": "France",
-    "region": "World"
+    "region": "France"
   },
   {
     "code": "UNIANDES",
     "country": "Colombia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "UNICAMP",
     "country": "Brazil",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "Utah-Univ",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "VANDERBILT",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "VICTORIA",
     "country": "Canada",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "VIENNA-SMI",
     "country": "Austria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "VIENNA-TU",
     "country": "Austria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "VIGO",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "VILNIUS-ACADEMY",
     "country": "Lithuania",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "VILNIUS-ITPA",
     "country": "Lithuania",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "VILNIUS-UNIV",
     "country": "Lithuania",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "VINCA",
     "country": "Serbia",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "VIRGINIA-TECH",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "VIRGINIA-UNIV",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "VISVA-BHARATI",
     "country": "India",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "VRIJE-AMSTERDAM",
     "country": "Netherlands",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "WARSAW-IEP",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "WARSAW-INS",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "WARSAW-ISE",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "WARZAWA",
     "country": "Poland",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "WASHINGTON-CUA",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "WAYNE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "WIEN-MIN",
     "country": "Austria",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "WISCONSIN",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "WISCONSIN-CHTC",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "WONKWANG",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
+  },
+  {
+    "code": "WUPPERTAL-UNIV",
+    "country": "Germany",
+    "region": "Germany"
   },
   {
     "code": "YALE",
     "country": "USA",
-    "region": "World"
+    "region": "USA"
   },
   {
     "code": "YAZD-UNIV",
     "country": "Iran",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "YEREVAN",
     "country": "Armenia",
-    "region": "World"
+    "region": "Russia and Dubna Member States (RDMS)"
   },
   {
     "code": "YILDIZ",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "YONSEI-UNIV",
     "country": "Korea",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "YOZGAT-BOZOK-UNIV",
     "country": "Turkey",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ZAGREB-FSM",
     "country": "Croatia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ZAGREB-MIN",
     "country": "Croatia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ZAGREB-RUDJER",
     "country": "Croatia",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "Zaragoza-ITA",
     "country": "Spain",
-    "region": "World"
+    "region": "Other CERN Member States (OCMS)"
   },
   {
     "code": "ZEWAIL-CITY",
     "country": "Egypt",
-    "region": "World"
+    "region": "Other States B (OSB)"
   },
   {
     "code": "ZHEJIANG-UNIV",
     "country": "China",
-    "region": "World"
+    "region": "Other States A (OSA)"
   },
   {
     "code": "ZILINA",
     "country": "Slovak Republic",
-    "region": "World"
+    "region": "Unknown"
   },
   {
     "code": "ZURICH-ETH",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "ZURICH-UNIV",
     "country": "Switzerland",
-    "region": "World"
+    "region": "Switzerland"
   },
   {
     "code": "ZZZ",
     "country": "ZZ",
-    "region": "World"
+    "region": "Unknown"
   }
 ]

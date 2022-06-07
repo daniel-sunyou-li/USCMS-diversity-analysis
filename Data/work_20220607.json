@@ -1,0 +1,1738 @@
+{
+  "TAIPEI-NTU": {
+    "4987": {
+      "Offline Software And Computing": 0
+    },
+    "6431": {
+      "HGCAL (CE)": 0
+    },
+    "8641": {
+      "PPD": 0
+    },
+    "10205": {
+      "HGCAL (CE)": 0
+    },
+    "10999": {
+      "HGCAL (CE)": 0,
+      "ECAL": 0
+    },
+    "11997": {
+      "HGCAL (CE)": 0
+    },
+    "14052": {
+      "HGCAL (CE)": 0
+    },
+    "15237": {
+      "Offline Software And Computing": 0
+    },
+    "15342": {
+      "HGCAL (CE)": 0
+    }
+  },
+  "LIVERMORE": {
+    "710": {
+      "PPS": 0
+    },
+    "6419": {
+      "PPS": 0
+    }
+  },
+  "BOGAZICI": {
+    "2951": {
+      "Offline Software And Computing": 0,
+      "HCAL": 0
+    },
+    "6146": {
+      "HGCAL (CE)": 0
+    },
+    "9924": {
+      "Offline Software And Computing": 0
+    },
+    "12908": {
+      "HGCAL (CE)": 0
+    },
+    "14729": {
+      "HGCAL (CE)": 0
+    },
+    "14732": {
+      "HGCAL (CE)": 0
+    },
+    "14733": {
+      "HGCAL (CE)": 0
+    },
+    "15027": {
+      "HGCAL (CE)": 0
+    },
+    "15579": {
+      "HCAL": 0,
+      "HGCAL (CE)": 0
+    }
+  },
+  "PURDUE": {
+    "8558": {
+      "Trigger Coordination": 0,
+      "Offline Software And Computing": 0
+    },
+    "9205": {
+      "Tracker": 0,
+      "Muon": 0
+    },
+    "10974": {
+      "Tracker": 0,
+      "Offline Software And Computing": 0
+    },
+    "11101": {
+      "PPD": 0
+    },
+    "11634": {
+      "Trigger Coordination": 0
+    },
+    "12511": {
+      "Tracker": 0,
+      "Trigger Coordination": 0
+    },
+    "14028": {
+      "Offline Software And Computing": 0
+    },
+    "15500": {
+      "Tracker": 0,
+      "PPD": 0
+    }
+  },
+  "RAL": {
+    "2762": {
+      "Tracker": 0
+    },
+    "6763": {
+      "ECAL": 1.5
+    },
+    "8356": {
+      "Tracker": 0
+    },
+    "10612": {
+      "Tracker": 0
+    },
+    "14062": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "LYON": {
+    "120": {
+      "PPD": 0
+    },
+    "4921": {
+      "Trigger Coordination": 0
+    },
+    "8138": {
+      "Tracker": 0
+    },
+    "11051": {
+      "Tracker": 0
+    },
+    "11698": {
+      "Tracker": 0
+    }
+  },
+  "MADRID-CIEMAT": {
+    "482": {
+      "Muon": 0
+    },
+    "2321": {
+      "Muon": 0
+    },
+    "3057": {
+      "Muon": 0
+    },
+    "3590": {
+      "Muon": 0
+    },
+    "5025": {
+      "Muon": 0
+    },
+    "6049": {
+      "Offline Software And Computing": 0
+    },
+    "6102": {
+      "Muon": 0
+    },
+    "6887": {
+      "PPD": 0
+    },
+    "7263": {
+      "Muon": 0
+    },
+    "7807": {
+      "Muon": 0
+    },
+    "9696": {
+      "Offline Software And Computing": 0
+    },
+    "9905": {
+      "Muon": 0
+    },
+    "9937": {
+      "Muon": 0
+    },
+    "11841": {
+      "Muon": 0
+    },
+    "14376": {
+      "Muon": 0
+    },
+    "15737": {
+      "PPD": 0,
+      "Muon": 0
+    },
+    "15939": {
+      "Muon": 0
+    }
+  },
+  "SACLAY": {
+    "4978": {
+      "ECAL": 0
+    }
+  },
+  "ISTANBUL-TECH": {
+    "3471": {
+      "HCAL": 0
+    },
+    "6996": {
+      "PPD": 0,
+      "HCAL": 0
+    },
+    "12306": {
+      "HCAL": 0
+    },
+    "15809": {
+      "HCAL": 0
+    },
+    "16360": {
+      "HCAL": 0
+    },
+    "16432": {
+      "HCAL": 0
+    }
+  },
+  "MARYLAND": {
+    "721": {
+      "HGCAL (CE)": 0
+    },
+    "723": {
+      "HCAL": 0
+    },
+    "3026": {
+      "HCAL": 0
+    },
+    "7262": {
+      "PPD": 0,
+      "BRIL": 0,
+      "MTD": 0
+    },
+    "9844": {
+      "HGCAL (CE)": 0,
+      "HCAL": 0
+    },
+    "11270": {
+      "HCAL": 0
+    },
+    "11556": {
+      "HCAL": 0
+    },
+    "13407": {
+      "HGCAL (CE)": 0,
+      "MTD": 0
+    },
+    "14039": {
+      "HCAL": 0
+    },
+    "14613": {
+      "HCAL": 0
+    },
+    "14715": {
+      "HCAL": 0
+    },
+    "16494": {
+      "HGCAL (CE)": 0
+    },
+    "16524": {
+      "HGCAL (CE)": 0
+    }
+  },
+  "AACHEN-3A": {
+    "2983": {
+      "Muon": 0
+    },
+    "5775": {
+      "PPD": 0
+    },
+    "12072": {
+      "Offline Software And Computing": 0
+    },
+    "13936": {
+      "Muon": 0
+    },
+    "14136": {
+      "Muon": 0
+    },
+    "14743": {
+      "HGCAL (CE)": 0
+    },
+    "15480": {
+      "Offline Software And Computing": 2,
+      "Trigger Coordination": 2,
+      "PPD": 2
+    },
+    "15481": {
+      "Muon": 0
+    },
+    "15671": {
+      "Muon": 0
+    }
+  },
+  "CHICAGO": {
+    "2864": {
+      "Tracker": 0
+    },
+    "8992": {
+      "MTD": 0
+    },
+    "9658": {
+      "Tracker": 0
+    },
+    "10712": {
+      "Tracker": 0
+    },
+    "12814": {
+      "Trigger Coordination": 0,
+      "PPD": 0
+    },
+    "15020": {
+      "Trigger Coordination": 0
+    },
+    "15702": {
+      "Tracker": 0
+    },
+    "15728": {
+      "Tracker": 0
+    },
+    "15896": {
+      "MTD": 0,
+      "PPD": 0
+    }
+  },
+  "KANSAS-UNIV": {
+    "3159": {
+      "Tracker": 0
+    },
+    "3820": {
+      "HCAL": 0
+    },
+    "6486": {
+      "HCAL": 0
+    },
+    "11576": {
+      "PPS": 0
+    },
+    "11981": {
+      "MTD": 0
+    },
+    "12041": {
+      "PPD": 0,
+      "MTD": 0
+    },
+    "12302": {
+      "Trigger Coordination": 0,
+      "Tracker": 0
+    },
+    "16353": {
+      "PPD": 0
+    }
+  },
+  "LOUVAIN": {
+    "9822": {
+      "Offline Software And Computing": 0
+    },
+    "14634": {
+      "PPD": 0,
+      "Tracker": 0
+    }
+  },
+  "DESY": {
+    "5375": {
+      "Tracker": 0
+    },
+    "5887": {
+      "PPD": 0
+    },
+    "6128": {
+      "Tracker": 0
+    },
+    "6353": {
+      "Offline Software And Computing": 0
+    },
+    "6465": {
+      "PPD": 0,
+      "Offline Software And Computing": 0
+    },
+    "7424": {
+      "Offline Software And Computing": 0,
+      "Tracker": 0
+    },
+    "7435": {
+      "Tracker": 0
+    },
+    "8142": {
+      "Offline Software And Computing": 0
+    },
+    "9944": {
+      "PPD": 0
+    },
+    "10864": {
+      "Tracker": 0
+    },
+    "11642": {
+      "Trigger Coordination": 0,
+      "Offline Software And Computing": 0
+    },
+    "12067": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "12070": {
+      "Tracker": 0
+    },
+    "12771": {
+      "Tracker": 0,
+      "PPD": 0
+    },
+    "13130": {
+      "Tracker": 0
+    },
+    "13131": {
+      "Tracker": 0
+    },
+    "13855": {
+      "Tracker": 0
+    },
+    "14420": {
+      "Offline Software And Computing": 0
+    },
+    "14850": {
+      "Tracker": 0
+    },
+    "15210": {
+      "PPD": 0
+    },
+    "15586": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "15649": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "15663": {
+      "Tracker": 0
+    },
+    "15665": {
+      "Tracker": 0
+    },
+    "15868": {
+      "PPD": 0
+    },
+    "16243": {
+      "Tracker": 0
+    },
+    "16332": {
+      "PPD": 0,
+      "Offline Software And Computing": 0
+    }
+  },
+  "LIP": {
+    "350": {
+      "MTD": 0
+    },
+    "942": {
+      "ECAL": 0,
+      "MTD": 0
+    },
+    "5697": {
+      "PPS": 0
+    },
+    "5871": {
+      "Trigger Coordination": 0
+    },
+    "5942": {
+      "PPS": 0
+    },
+    "9169": {
+      "PPS": 0
+    },
+    "10625": {
+      "MTD": 0
+    },
+    "12167": {
+      "PPS": 0
+    },
+    "13779": {
+      "MTD": 0
+    },
+    "14907": {
+      "PPS": 0
+    },
+    "16565": {
+      "PPS": 0
+    }
+  },
+  "MOSCOW-ITEP": {
+    "3473": {
+      "HCAL": 0
+    },
+    "4551": {
+      "HCAL": 0
+    }
+  },
+  "RICE": {
+    "5588": {
+      "DAQ": 0
+    },
+    "15807": {
+      "Trigger Coordination": 0
+    }
+  },
+  "BEIJING-THU": {
+    "15168": {
+      "HGCAL (CE)": 0
+    },
+    "15348": {
+      "Offline Software And Computing": 0,
+      "Trigger Coordination": 0
+    },
+    "15673": {
+      "Offline Software And Computing": 0,
+      "Trigger Coordination": 0
+    }
+  },
+  "PISA": {
+    "309": {
+      "Offline Software And Computing": 0
+    },
+    "317": {
+      "Tracker": 0
+    },
+    "329": {
+      "Tracker": 0
+    },
+    "922": {
+      "Tracker": 0
+    },
+    "924": {
+      "Tracker": 0
+    },
+    "927": {
+      "Tracker": 0
+    },
+    "1059": {
+      "Tracker": 0
+    },
+    "1411": {
+      "Tracker": 0
+    },
+    "6155": {
+      "Offline Software And Computing": 0,
+      "Tracker": 0,
+      "PPD": 0
+    },
+    "6597": {
+      "PPS": 0
+    },
+    "7780": {
+      "Offline Software And Computing": 0
+    },
+    "9161": {
+      "Offline Software And Computing": 0
+    },
+    "9975": {
+      "PPD": 0
+    },
+    "10315": {
+      "Tracker": 0
+    },
+    "10466": {
+      "Tracker": 0
+    },
+    "12311": {
+      "Tracker": 0
+    },
+    "13290": {
+      "PPS": 0
+    },
+    "14693": {
+      "Tracker": 0,
+      "Trigger Coordination": 0
+    },
+    "15497": {
+      "Tracker": 0
+    }
+  },
+  "YONSEI-UNIV": {
+    "8873": {
+      "PPD": 0
+    },
+    "15079": {
+      "Trigger Coordination": 0
+    },
+    "15677": {
+      "Trigger Coordination": 0
+    },
+    "15787": {
+      "Trigger Coordination": 0
+    },
+    "15798": {
+      "PPD": 0
+    },
+    "16239": {
+      "Trigger Coordination": 0
+    }
+  },
+  "NISER": {
+    "13188": {
+      "Trigger Coordination": 0
+    },
+    "13988": {
+      "Trigger Coordination": 0
+    },
+    "14771": {
+      "PPD": 0
+    },
+    "15463": {
+      "Trigger Coordination": 0
+    },
+    "15603": {
+      "PPD": 0,
+      "Trigger Coordination": 0
+    }
+  },
+  "ISTANBUL-UNIV": {
+    "4924": {
+      "HCAL": 0
+    },
+    "6659": {
+      "HCAL": 0
+    },
+    "6668": {
+      "HCAL": 0
+    },
+    "7261": {
+      "HCAL": 0
+    },
+    "7774": {
+      "HCAL": 0
+    },
+    "12130": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "PERUGIA": {
+    "12827": {
+      "PPD": 0
+    },
+    "14444": {
+      "PPD": 0
+    }
+  },
+  "VANDERBILT": {
+    "7782": {
+      "Trigger Coordination": 0
+    },
+    "13619": {
+      "Tracker": 0
+    }
+  },
+  "CALTECH": {
+    "616": {
+      "Offline Software And Computing": 0
+    },
+    "5590": {
+      "Offline Software And Computing": 0
+    },
+    "10207": {
+      "Offline Software And Computing": 0
+    },
+    "14618": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "RIGA-RTU": {
+    "8438": {
+      "Offline Software And Computing": 0,
+      "HCAL": 0
+    },
+    "13682": {
+      "PPD": 0
+    },
+    "14855": {
+      "MTD": 1.7
+    },
+    "14897": {
+      "MTD": 0
+    }
+  },
+  "CORNELL": {
+    "5308": {
+      "Offline Software And Computing": 0
+    },
+    "5395": {
+      "Offline Software And Computing": 0
+    },
+    "13346": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "OHIO-STATE": {
+    "10726": {
+      "Tracker": 0
+    },
+    "13673": {
+      "Tracker": 0
+    },
+    "15226": {
+      "Tracker": 0
+    },
+    "15242": {
+      "Tracker": 0
+    }
+  },
+  "UCSD": {
+    "5466": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "7149": {
+      "Offline Software And Computing": 0
+    },
+    "7887": {
+      "Offline Software And Computing": 0
+    },
+    "8561": {
+      "Offline Software And Computing": 0
+    },
+    "8707": {
+      "Offline Software And Computing": 0
+    },
+    "9085": {
+      "Offline Software And Computing": 0
+    },
+    "11946": {
+      "Offline Software And Computing": 0
+    },
+    "12863": {
+      "Offline Software And Computing": 0
+    },
+    "13754": {
+      "Offline Software And Computing": 0
+    },
+    "15841": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "MOSCOW-INR": {
+    "327": {
+      "HCAL": 0
+    },
+    "1383": {
+      "ECAL": 0
+    },
+    "2369": {
+      "Offline Software And Computing": 0
+    },
+    "13302": {
+      "HCAL": 0
+    }
+  },
+  "RIO-UERJ": {
+    "7966": {
+      "PPD": 0,
+      "PPS": 0
+    },
+    "9316": {
+      "PPS": 0,
+      "PPD": 0
+    }
+  },
+  "UCSB": {
+    "2394": {
+      "HGCAL (CE)": 0
+    },
+    "5290": {
+      "HGCAL (CE)": 0
+    },
+    "13201": {
+      "HGCAL (CE)": 0
+    },
+    "14276": {
+      "HGCAL (CE)": 0
+    },
+    "14417": {
+      "HGCAL (CE)": 0
+    },
+    "16278": {
+      "HGCAL (CE)": 0
+    }
+  },
+  "LONDON-IC": {
+    "2609": {
+      "Tracker": 0
+    },
+    "15034": {
+      "PPD": 0
+    },
+    "16312": {
+      "PPD": 0
+    }
+  },
+  "PRINCETON": {
+    "11159": {
+      "Trigger Coordination": 0
+    },
+    "12243": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "RIO-CBPF": {
+    "9362": {
+      "ECAL": 0
+    },
+    "9962": {
+      "PPD": 0
+    },
+    "10151": {
+      "PPD": 0
+    },
+    "14147": {
+      "PPS": 0
+    },
+    "15976": {
+      "PPD": 0
+    },
+    "16322": {
+      "PPD": 0
+    },
+    "16323": {
+      "PPD": 0
+    }
+  },
+  "NEBRASKA": {
+    "4878": {
+      "Offline Software And Computing": 0
+    },
+    "5288": {
+      "Offline Software And Computing": 0,
+      "Tracker": 0
+    },
+    "6681": {
+      "MTD": 0,
+      "Tracker": 0
+    },
+    "8768": {
+      "Tracker": 0,
+      "MTD": 0
+    },
+    "13623": {
+      "Offline Software And Computing": 0
+    },
+    "14257": {
+      "MTD": 0
+    },
+    "14387": {
+      "MTD": 0
+    },
+    "14665": {
+      "Tracker": 0
+    }
+  },
+  "CHUNGLI-NCU": {
+    "11958": {
+      "PPD": 0
+    }
+  },
+  "MOSCOW-MSU": {
+    "428": {
+      "BRIL": 0
+    },
+    "429": {
+      "HCAL": 0,
+      "PPD": 0
+    },
+    "2482": {
+      "Offline Software And Computing": 0
+    },
+    "2542": {
+      "BRIL": 0,
+      "Tracker": 0
+    },
+    "2831": {
+      "BRIL": 0
+    },
+    "3143": {
+      "General": 0
+    },
+    "8039": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "FIRENZE": {
+    "5072": {
+      "PPD": 0
+    },
+    "14080": {
+      "PPD": 0
+    },
+    "15842": {
+      "Tracker": 0.5
+    },
+    "16315": {
+      "PPD": 0
+    }
+  },
+  "WASHINGTON-CUA": {
+    "5175": {
+      "Tracker": 0
+    },
+    "14541": {
+      "Tracker": 0
+    }
+  },
+  "JOHNS-HOPKINS": {
+    "4570": {
+      "PPD": 0,
+      "Offline Software And Computing": 0
+    },
+    "5322": {
+      "Tracker": 0
+    },
+    "8846": {
+      "Tracker": 0
+    },
+    "11706": {
+      "Tracker": 0,
+      "PPD": 0
+    },
+    "12253": {
+      "Tracker": 0
+    },
+    "13213": {
+      "Tracker": 0
+    }
+  },
+  "TRIESTE": {
+    "311": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "FERMILAB": {
+    "1642": {
+      "Offline Software And Computing": 0
+    },
+    "2439": {
+      "MTD": 0
+    },
+    "4322": {
+      "Offline Software And Computing": 0
+    },
+    "5044": {
+      "Offline Software And Computing": 0
+    },
+    "5573": {
+      "Offline Software And Computing": 0
+    },
+    "5720": {
+      "Offline Software And Computing": 0
+    },
+    "5891": {
+      "Offline Software And Computing": 0
+    },
+    "6609": {
+      "Offline Software And Computing": 0
+    },
+    "7252": {
+      "Offline Software And Computing": 0
+    },
+    "15217": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "ASRT-ENHEP": {
+    "10794": {
+      "Muon": 0
+    }
+  },
+  "DUBNA": {
+    "388": {
+      "HGCAL (CE)": 0
+    },
+    "5470": {
+      "HCAL": 0,
+      "HGCAL (CE)": 0
+    }
+  },
+  "CHONNAM": {
+    "4642": {
+      "MTD": 0
+    },
+    "15108": {
+      "MTD": 0
+    }
+  },
+  "WISCONSIN": {
+    "7275": {
+      "Offline Software And Computing": 0.25,
+      "Muon": 0
+    },
+    "8872": {
+      "Muon": 0
+    },
+    "12859": {
+      "PPD": 0
+    },
+    "15116": {
+      "Muon": 0
+    },
+    "15117": {
+      "PPD": 0
+    }
+  },
+  "TBILISI-GTU": {
+    "5595": {
+      "Muon": 0
+    },
+    "11411": {
+      "Muon": 0
+    }
+  },
+  "AACHEN-1": {
+    "1893": {
+      "Tracker": 0
+    },
+    "4110": {
+      "Tracker": 0
+    },
+    "9771": {
+      "Offline Software And Computing": 0
+    },
+    "10723": {
+      "Tracker": 0
+    },
+    "12014": {
+      "Tracker": 0
+    },
+    "12088": {
+      "Tracker": 0
+    }
+  },
+  "PEKING-UNIV": {
+    "8961": {
+      "Offline Software And Computing": 0
+    },
+    "14349": {
+      "Muon": 0
+    },
+    "15410": {
+      "PPD": 0
+    },
+    "15501": {
+      "PPD": 0
+    },
+    "15823": {
+      "PPD": 0
+    },
+    "16291": {
+      "Muon": 0
+    }
+  },
+  "TIFR-A": {
+    "7255": {
+      "HGCAL (CE)": 0
+    },
+    "12574": {
+      "HGCAL (CE)": 0
+    },
+    "13181": {
+      "HGCAL (CE)": 0
+    },
+    "13468": {
+      "HGCAL (CE)": 0
+    },
+    "15314": {
+      "HGCAL (CE)": 0
+    },
+    "15731": {
+      "HGCAL (CE)": 0
+    },
+    "16296": {
+      "HGCAL (CE)": 0
+    }
+  },
+  "HEPHY": {
+    "15590": {
+      "L1 Trigger": 3
+    }
+  },
+  "SEOUL-HANYANG": {
+    "8626": {
+      "PPD": 0
+    },
+    "12744": {
+      "Muon": 0
+    }
+  },
+  "FLORIDA-STATE": {
+    "5521": {
+      "HGCAL (CE)": 0
+    },
+    "13321": {
+      "HGCAL (CE)": 0
+    },
+    "14317": {
+      "Tracker": 0
+    },
+    "15445": {
+      "PPD": 0
+    }
+  },
+  "HELSINKI-UNIV": {
+    "3843": {
+      "PPD": 0
+    }
+  },
+  "SEOUL-SNU": {
+    "13899": {
+      "Trigger Coordination": 0
+    },
+    "14002": {
+      "Trigger Coordination": 0
+    },
+    "15312": {
+      "PPD": 0
+    }
+  },
+  "GHENT": {
+    "13104": {
+      "Offline Software And Computing": 0,
+      "Trigger Coordination": 0
+    },
+    "13289": {
+      "PPD": 0
+    },
+    "14807": {
+      "Muon": 0
+    }
+  },
+  "SUNY-BUFFALO": {
+    "166": {
+      "PPD": 0
+    },
+    "5785": {
+      "Offline Software And Computing": 0
+    },
+    "6352": {
+      "Offline Software And Computing": 0
+    },
+    "10577": {
+      "PPD": 0
+    },
+    "12770": {
+      "Tracker": 0,
+      "Offline Software And Computing": 0
+    },
+    "14438": {
+      "PPD": 0
+    },
+    "14537": {
+      "Tracker": 0
+    },
+    "14828": {
+      "PPD": 0
+    },
+    "14971": {
+      "PPD": 0
+    }
+  },
+  "SHANGHAI-FU": {
+    "14746": {
+      "PPD": 0
+    }
+  },
+  "CATANIA": {
+    "1250": {
+      "Tracker": 0
+    },
+    "3405": {
+      "Tracker": 0
+    },
+    "4236": {
+      "Tracker": 0
+    },
+    "10930": {
+      "Tracker": 0
+    }
+  },
+  "OVIEDO": {
+    "4510": {
+      "Muon": 0,
+      "PPD": 0
+    }
+  },
+  "SAO_PAULO": {
+    "13790": {
+      "PPD": 1.5
+    },
+    "15006": {
+      "Trigger Coordination": 0
+    }
+  },
+  "BRUXELLES-ULB": {
+    "10145": {
+      "Trigger Coordination": 0
+    },
+    "10896": {
+      "Trigger Coordination": 0
+    },
+    "12643": {
+      "PPD": 0
+    },
+    "14195": {
+      "PPD": 0
+    }
+  },
+  "KANSAS-STATE": {
+    "5210": {
+      "MTD": 0,
+      "PPD": 0
+    }
+  },
+  "KARLSRUHE-IEKP": {
+    "9277": {
+      "PPD": 0
+    },
+    "12171": {
+      "Offline Software And Computing": 0
+    },
+    "12360": {
+      "Trigger Coordination": 0
+    },
+    "12417": {
+      "PPD": 0.66
+    },
+    "12780": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "13580": {
+      "PPD": 0
+    },
+    "14303": {
+      "PPD": 0
+    }
+  },
+  "YEREVAN": {
+    "14352": {
+      "Offline Software And Computing": 0
+    },
+    "14365": {
+      "HCAL": 0
+    }
+  },
+  "SANTANDER": {
+    "6523": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "LATVIA-UNIV": {
+    "15661": {
+      "MTD": 0
+    }
+  },
+  "CERN": {
+    "2705": {
+      "L1 Trigger": 0
+    },
+    "8094": {
+      "L1 Trigger": 0
+    },
+    "8452": {
+      "Trigger Coordination": 0
+    },
+    "13670": {
+      "PPS": 0
+    },
+    "15744": {
+      "L1 Trigger": 3
+    },
+    "16513": {
+      "L1 Trigger": 3
+    }
+  },
+  "MILANO-BICOCCA": {
+    "5693": {
+      "Tracker": 0
+    },
+    "10823": {
+      "PPD": 0
+    },
+    "13097": {
+      "PPD": 0
+    }
+  },
+  "WARSAW-INS": {
+    "3036": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "NICOSIA-UNIV": {
+    "6880": {
+      "PPD": 0
+    },
+    "11897": {
+      "PPD": 0
+    },
+    "13247": {
+      "PPD": 0,
+      "Trigger Coordination": 0
+    }
+  },
+  "PSI": {
+    "10008": {
+      "Offline Software And Computing": 0.5,
+      "Tracker": 0
+    },
+    "16128": {
+      "Tracker": 0
+    }
+  },
+  "HAMBURG-UNIV": {
+    "6826": {
+      "PPD": 0
+    },
+    "8910": {
+      "L1 Trigger": 0
+    },
+    "9841": {
+      "PPD": 0
+    },
+    "11113": {
+      "PPD": 0,
+      "Tracker": 0
+    },
+    "12966": {
+      "Trigger Coordination": 2.5
+    },
+    "13431": {
+      "Trigger Coordination": 1
+    },
+    "13972": {
+      "Trigger Coordination": 1
+    },
+    "14393": {
+      "Trigger Coordination": 2
+    },
+    "15413": {
+      "PPD": 0
+    }
+  },
+  "QUITO-EPN": {
+    "11858": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "BUDAPEST-ELU": {
+    "11628": {
+      "HCAL": 0
+    },
+    "14229": {
+      "Trigger Coordination": 0
+    }
+  },
+  "TIFR-B": {
+    "14936": {
+      "Trigger Coordination": 0
+    }
+  },
+  "IIT-MADRAS": {
+    "15634": {
+      "PPD": 0
+    },
+    "15966": {
+      "Trigger Coordination": 0
+    },
+    "16368": {
+      "Trigger Coordination": 0
+    }
+  },
+  "STRASBOURG": {
+    "3350": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "4161": {
+      "Tracker": 0
+    },
+    "6420": {
+      "PPD": 0
+    },
+    "15082": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "16193": {
+      "Trigger Coordination": 0
+    },
+    "16305": {
+      "Tracker": 0,
+      "PPD": 0
+    }
+  },
+  "BEIJING-BUAA": {
+    "8456": {
+      "PPD": 0
+    }
+  },
+  "VILNIUS-UNIV": {
+    "12683": {
+      "Tracker": 0
+    },
+    "13167": {
+      "MTD": 0
+    },
+    "15114": {
+      "MTD": 0
+    }
+  },
+  "ATHENS-NTUA": {
+    "14901": {
+      "Trigger Coordination": 0
+    },
+    "14902": {
+      "Trigger Coordination": 0
+    }
+  },
+  "AACHEN-3B": {
+    "1984": {
+      "Offline Software And Computing": 0
+    },
+    "3626": {
+      "Offline Software And Computing": 0
+    },
+    "9985": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "KYUNGPOOK": {
+    "8839": {
+      "Offline Software And Computing": 0
+    },
+    "11990": {
+      "Trigger Coordination": 0
+    },
+    "14646": {
+      "Offline Software And Computing": 0
+    },
+    "15138": {
+      "Offline Software And Computing": 0
+    },
+    "16411": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "ANTWERPEN": {
+    "5468": {
+      "Offline Software And Computing": 0
+    },
+    "6897": {
+      "Tracker": 0
+    },
+    "11103": {
+      "PPD": 0
+    },
+    "14098": {
+      "Tracker": 0
+    }
+  },
+  "BOLOGNA": {
+    "247": {
+      "Muon": 0
+    },
+    "252": {
+      "Muon": 0
+    },
+    "980": {
+      "General": 0
+    },
+    "2023": {
+      "Offline Software And Computing": 0
+    },
+    "12151": {
+      "PPD": 0
+    },
+    "12837": {
+      "Muon": 0,
+      "Offline Software And Computing": 0
+    },
+    "14252": {
+      "PPD": 0
+    }
+  },
+  "ST-PETERSBURG": {
+    "1361": {
+      "Muon": 0
+    },
+    "2626": {
+      "Muon": 0
+    },
+    "3392": {
+      "Muon": 0
+    },
+    "16183": {
+      "Muon": 0
+    }
+  },
+  "GENOVA": {
+    "4669": {
+      "PPS": 0
+    },
+    "7020": {
+      "General": 0
+    },
+    "15805": {
+      "Tracker": 0
+    }
+  },
+  "TORINO": {
+    "1713": {
+      "MTD": 0
+    },
+    "5959": {
+      "PPD": 0,
+      "Offline Software And Computing": 0
+    },
+    "9081": {
+      "Tracker": 0
+    },
+    "11619": {
+      "Tracker": 0
+    },
+    "13912": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "MINNESOTA": {
+    "2820": {
+      "HCAL": 0,
+      "HGCAL (CE)": 0,
+      "BRIL": 0
+    }
+  },
+  "UCDAVIS": {
+    "12769": {
+      "Muon": 0
+    },
+    "15267": {
+      "Tracker": 0,
+      "PPD": 0
+    }
+  },
+  "QUITO-USFQ": {
+    "7327": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "ZURICH-ETH": {
+    "9170": {
+      "PPD": 0
+    },
+    "15075": {
+      "PPD": 0
+    },
+    "15472": {
+      "Trigger Coordination": 0
+    }
+  },
+  "PAVIA": {
+    "10078": {
+      "Tracker": 0
+    },
+    "10079": {
+      "Tracker": 0
+    }
+  },
+  "MEXICO-PUEBLA": {
+    "11013": {
+      "Muon": 0
+    }
+  },
+  "PUERTO_RICO": {
+    "2816": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "TALLINN": {
+    "6026": {
+      "Trigger Coordination": 0
+    },
+    "8523": {
+      "Trigger Coordination": 0
+    },
+    "8531": {
+      "Trigger Coordination": 0
+    },
+    "8893": {
+      "Offline Software And Computing": 0
+    },
+    "11547": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "BARI": {
+    "1841": {
+      "Tracker": 0
+    },
+    "15833": {
+      "PPD": 0
+    }
+  },
+  "MIT": {
+    "3795": {
+      "HCAL": 0,
+      "Offline Software And Computing": 0
+    },
+    "14670": {
+      "Offline Software And Computing": 2
+    },
+    "15061": {
+      "Trigger Coordination": 0
+    },
+    "15469": {
+      "Trigger Coordination": 0
+    }
+  },
+  "IOANNINA": {
+    "15182": {
+      "PPD": 0
+    }
+  },
+  "FLORIDA-UNIV": {
+    "53": {
+      "Offline Software And Computing": 0
+    },
+    "2883": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "MALAYA": {
+    "10159": {
+      "Offline Software And Computing": 0,
+      "PPD": 0
+    },
+    "14736": {
+      "PPD": 0
+    }
+  },
+  "ZAGREB-RUDJER": {
+    "14611": {
+      "Tracker": 0.6
+    }
+  },
+  "NAPOLI": {
+    "15813": {
+      "Muon": 0
+    }
+  },
+  "HELSINKI-HIP": {
+    "2483": {
+      "PPD": 0
+    },
+    "13043": {
+      "PPD": 0.5
+    }
+  },
+  "PADOVA": {
+    "12024": {
+      "PPD": 0,
+      "Trigger Coordination": 0
+    }
+  },
+  "BUDAPEST": {
+    "10242": {
+      "Tracker": 0
+    },
+    "14952": {
+      "Tracker": 0
+    }
+  },
+  "BANGKOK": {
+    "4575": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "DUBLIN-UCD": {
+    "2907": {
+      "Trigger Coordination": 0
+    }
+  },
+  "KOREA-UNIV": {
+    "15092": {
+      "Trigger Coordination": 0
+    }
+  },
+  "KOLKATA-SAHA": {
+    "15016": {
+      "PPD": 0
+    }
+  },
+  "ZURICH-UNIV": {
+    "10123": {
+      "L1 Trigger": 1
+    },
+    "11587": {
+      "PPD": 0
+    }
+  },
+  "NORTHWESTERN": {
+    "15448": {
+      "Trigger Coordination": 0
+    }
+  },
+  "ROMA-1": {
+    "1280": {
+      "ECAL": 0
+    }
+  },
+  "COLORADO": {
+    "7788": {
+      "Offline Software And Computing": 0
+    }
+  },
+  "BEIJING-IHEP": {
+    "11908": {
+      "PPD": 0
+    }
+  },
+  "RUTGERS": {
+    "15180": {
+      "PPD": 0
+    }
+  },
+  "SOFIA-INRNE": {
+    "50": {
+      "PPS": 0
+    },
+    "5777": {
+      "Muon": 0
+    }
+  },
+  "POLYTECHNIQUE": {
+    "1156": {
+      "ECAL": 0
+    }
+  }
+}
